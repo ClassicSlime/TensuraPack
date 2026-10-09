@@ -3,11 +3,11 @@ filename = "tensuraslots-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "56e078cec7bafe1ce1e387094d8146a182ec1cd0"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/BV2Zr9NA/versions/7hThH8C2/tensuraslots-1.0.0.jar"
+hash-format = "sha512"
+hash = "4e37c8cfa3c9c085246f63ff62dcc01e6d077386dadba37ed40cb776eeb2b20559f8137a816e015ec011b79925e2957b44a6999d45e7d6dcbaccc5f5e3085e42"
 
 [update]
-[update.curseforge]
-file-id = 7935165
-project-id = 1515688
+[update.modrinth]
+mod-id = "BV2Zr9NA"
+version = "7hThH8C2"

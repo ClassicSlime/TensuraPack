@@ -1,0 +1,13 @@
+name = "Little Structures"
+filename = "little-structures-mc1.21.x-v2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oi0lZhzZ/versions/aKVKu0FQ/little-structures-mc1.21.x-v2.1.jar"
+hash-format = "sha512"
+hash = "209f4928e8b899278bd8cb4dd0fa80f25679cf5a7b184ace0dba5671c49ffb9bec9e20d6f8c43e536942f8c91ea1b3c1d4f7b9f6a198e443f08c40b640b8cea7"
+
+[update]
+[update.modrinth]
+mod-id = "oi0lZhzZ"
+version = "aKVKu0FQ"

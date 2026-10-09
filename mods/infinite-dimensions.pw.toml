@@ -3,11 +3,11 @@ filename = "infinity-2.7.3+1.21.1-neoforge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "89b6db656a7a46c75cdc5f7f16dc5ddb9369656d"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/KgKqTqPj/versions/xYRChlab/infinity-2.7.3%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "40a78d9cfe3208ef824e808d55b4f47075c2dd762e7e9ef24f172efcd6ad885c959d1542e45102cea1cc2e87a6138d10ffa921f8a5a715fe581b1380d2f0984c"
 
 [update]
-[update.curseforge]
-file-id = 8899025
-project-id = 981829
+[update.modrinth]
+mod-id = "KgKqTqPj"
+version = "xYRChlab"

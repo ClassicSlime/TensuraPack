@@ -3589,14 +3589,6 @@ file = "config/xaeropatreon.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "mods/TensuraEpScaling-neoforge-1.2.0.jar"
-hash = "050c183b9513aa5cae7a8c5611253413ae070aa2baf0ac02e9fb5f5ecdf7820a"
-
-[[files]]
-file = "mods/ancient_remnants-1.0.2.2-neoforge.jar"
-hash = "17a59d836f5d361141153dad79b045fa1a05b5b7b6bdd6d8d018af427f2cef10"
-
-[[files]]
 file = "mods/antarchy-tensura-reincarnated-compat.pw.toml"
 hash = "afb70aae11880ff15cc2f979e93f21b7b506798151f4a29dbc8a3d83d0a760f7"
 metafile = true
@@ -3618,7 +3610,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "657a01a86bbf8617e4726c77df08f708e43a3db12db74b837eebd8eb1d93faae"
+hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
 metafile = true
 
 [[files]]
@@ -3663,7 +3655,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
@@ -3717,10 +3709,6 @@ hash = "f5cf3f7e5f908a48e431ad59d709dfbbc92738c58924747c16ac276dd29ddcf6"
 metafile = true
 
 [[files]]
-file = "mods/ds_dragonborn_cave_forest_sea-1.1.0.jar"
-hash = "a4bfd94f7ddbeb70061b62b20845e6295c66ca9c5cea79057abe3b3f885732bf"
-
-[[files]]
 file = "mods/elite-tensura-mod.pw.toml"
 hash = "7e6ae6bada9695e59518984d05685b691f2d21576f09e81331e3a9bd33a69811"
 metafile = true
@@ -3739,10 +3727,6 @@ metafile = true
 file = "mods/essential-mod.pw.toml"
 hash = "2d32d9bd858a3d998fde7618a15a29d8fa5c96ce8c27f41ff3ed49569b594732"
 metafile = true
-
-[[files]]
-file = "mods/essentialshopremover-1.21.1-1.0.0.jar"
-hash = "bb8c3a268655e1fa61577488d678a5f5ccd286b0bbf68924b4a50400646a3146"
 
 [[files]]
 file = "mods/ftb-chunks-forge.pw.toml"
@@ -3780,12 +3764,8 @@ metafile = true
 
 [[files]]
 file = "mods/infinite-dimensions.pw.toml"
-hash = "22ac3b44649ce43c40ae74f78d5d1f3263c0c8b679eda64bb2befcb820d56551"
+hash = "10db4f630b42e8dbb617e99fee6b4504e0fb442b647b54c43d79b869e1775955"
 metafile = true
-
-[[files]]
-file = "mods/infinity-2.7.3+1.21.1-neoforge.jar"
-hash = "6499abd9a943ade10bf521ad2038c5147b1b355f8a92e362cffdedfb2bd40780"
 
 [[files]]
 file = "mods/integrated-api.pw.toml"
@@ -3808,6 +3788,11 @@ hash = "a5021505140d5b7ffa4ff7184e74566a21b4e72a7ae256afeaf1e99e929333d1"
 metafile = true
 
 [[files]]
+file = "mods/little-structures.pw.toml"
+hash = "a3b30316b0707dcc80fcace6dd21a65cec9d25918795059b5edf20e976845e83"
+metafile = true
+
+[[files]]
 file = "mods/lodestone.pw.toml"
 hash = "8590e77951c4fb7c1ac4a52f8e1e0fa0103518b8c64ef3ae55ae654bfd6d2594"
 metafile = true
@@ -3816,10 +3801,6 @@ metafile = true
 file = "mods/lumani-tensura.pw.toml"
 hash = "a23fdd6caca844896e2073f21cfbcf93185b53e1ef5d1f19560402ca76ff82c4"
 metafile = true
-
-[[files]]
-file = "mods/lumani_tensura-1.0.266.jar"
-hash = "1ba18fce8a3ad2f211e16d09cb8345ac5800c5de63fb2a9a4b9529eb4ba1e3ec"
 
 [[files]]
 file = "mods/malum.pw.toml"
@@ -3837,10 +3818,6 @@ hash = "ebd63b777dae82396b65a4e63b1a6fbb285ce365036437d48fd65d0868a9e4de"
 metafile = true
 
 [[files]]
-file = "mods/moostensuraaddon-1.4.1.jar"
-hash = "251c3fb5c3c43bd17ed04d744961e7bb729339b226edd7ef5ecb2373a7f04bb7"
-
-[[files]]
 file = "mods/nightmares-tensura-utils.pw.toml"
 hash = "e23830f31f838cecc69febd3c6e399fc4c1c180ae3747e93309a40445d0064b2"
 metafile = true
@@ -3849,10 +3826,6 @@ metafile = true
 file = "mods/not-enough-animations.pw.toml"
 hash = "78a453bc5b750d057212b0762e93ae82ea2f360b6dccfe6b53c52d5b6849c80b"
 metafile = true
-
-[[files]]
-file = "mods/notenoughanimations-neoforge-1.12.6-mc1.21.1.jar"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "mods/patchouli.pw.toml"
@@ -3926,7 +3899,7 @@ metafile = true
 
 [[files]]
 file = "mods/tensura-better-subordinates.pw.toml"
-hash = "520096024e9dc8560ec67b37cd2ef2da58a6e5e298a77adfad1b728f97c78906"
+hash = "cc5ecec354205da48a7a37c42daebd5c6aa2d4b91acc6ebaa9cd38fbcf9b5d33"
 metafile = true
 
 [[files]]
@@ -4006,7 +3979,7 @@ metafile = true
 
 [[files]]
 file = "mods/tensura-reincarnated.pw.toml"
-hash = "1bf0724244383ad661c0ac962007f8014dd1a78a1c948345d14514c39959d328"
+hash = "d7cceedf2daebd33b7c06e954b0c50d70a74d360ea9d1e34edc804dc0dfc4a3a"
 metafile = true
 
 [[files]]
@@ -4031,7 +4004,7 @@ metafile = true
 
 [[files]]
 file = "mods/tensura-slots.pw.toml"
-hash = "923a48effa1a1573e232fa757ab2c91632f415c201842020749e6cbf190102e8"
+hash = "5f4320402f1de7597d8e3a31bea626678e62d17664f0813ac16b10b9e9aacac8"
 metafile = true
 
 [[files]]
@@ -4064,12 +4037,9 @@ hash = "d18480b079767dc79db80a488540e19e473aa2b940a14fe34e2f2fa3465d66d8"
 metafile = true
 
 [[files]]
-file = "mods/tensura_better_subs-neoforge-1.2.4.jar"
-hash = "922798da68817fe14e49687d758798f67b34e75ccebcad96fefdd44cf475ee0b"
-
-[[files]]
-file = "mods/tensuraslots-1.0.0.jar"
-hash = "3b0094460a624aa33f5d1dddb6354dd2f7c5a63725736a5f6cc728b67f32605b"
+file = "mods/tensuraepscaling.pw.toml"
+hash = "102a9b7f24d4db1f283e23ee42858e9d7e0b8d16ba39b643ad2e2fbc7eda18f1"
+metafile = true
 
 [[files]]
 file = "mods/tensurauniquemonsters-neoforge-1.0.2.jar"
