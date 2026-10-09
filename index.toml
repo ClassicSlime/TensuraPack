@@ -3589,6 +3589,14 @@ file = "config/xaeropatreon.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "mods/TensuraEpScaling-neoforge-1.2.0.jar"
+hash = "050c183b9513aa5cae7a8c5611253413ae070aa2baf0ac02e9fb5f5ecdf7820a"
+
+[[files]]
+file = "mods/ancient_remnants-1.0.2.2-neoforge.jar"
+hash = "17a59d836f5d361141153dad79b045fa1a05b5b7b6bdd6d8d018af427f2cef10"
+
+[[files]]
 file = "mods/antarchy-tensura-reincarnated-compat.pw.toml"
 hash = "afb70aae11880ff15cc2f979e93f21b7b506798151f4a29dbc8a3d83d0a760f7"
 metafile = true
@@ -3709,6 +3717,10 @@ hash = "f5cf3f7e5f908a48e431ad59d709dfbbc92738c58924747c16ac276dd29ddcf6"
 metafile = true
 
 [[files]]
+file = "mods/ds_dragonborn_cave_forest_sea-1.1.0.jar"
+hash = "a4bfd94f7ddbeb70061b62b20845e6295c66ca9c5cea79057abe3b3f885732bf"
+
+[[files]]
 file = "mods/elite-tensura-mod.pw.toml"
 hash = "7e6ae6bada9695e59518984d05685b691f2d21576f09e81331e3a9bd33a69811"
 metafile = true
@@ -3727,6 +3739,10 @@ metafile = true
 file = "mods/essential-mod.pw.toml"
 hash = "2d32d9bd858a3d998fde7618a15a29d8fa5c96ce8c27f41ff3ed49569b594732"
 metafile = true
+
+[[files]]
+file = "mods/essentialshopremover-1.21.1-1.0.0.jar"
+hash = "bb8c3a268655e1fa61577488d678a5f5ccd286b0bbf68924b4a50400646a3146"
 
 [[files]]
 file = "mods/ftb-chunks-forge.pw.toml"
@@ -3768,6 +3784,10 @@ hash = "22ac3b44649ce43c40ae74f78d5d1f3263c0c8b679eda64bb2befcb820d56551"
 metafile = true
 
 [[files]]
+file = "mods/infinity-2.7.3+1.21.1-neoforge.jar"
+hash = "6499abd9a943ade10bf521ad2038c5147b1b355f8a92e362cffdedfb2bd40780"
+
+[[files]]
 file = "mods/integrated-api.pw.toml"
 hash = "998a683cb3c418947cbc05d251b4113dbf336ef271a8b3d8ea7d6672cc9eef64"
 metafile = true
@@ -3798,6 +3818,10 @@ hash = "a23fdd6caca844896e2073f21cfbcf93185b53e1ef5d1f19560402ca76ff82c4"
 metafile = true
 
 [[files]]
+file = "mods/lumani_tensura-1.0.266.jar"
+hash = "1ba18fce8a3ad2f211e16d09cb8345ac5800c5de63fb2a9a4b9529eb4ba1e3ec"
+
+[[files]]
 file = "mods/malum.pw.toml"
 hash = "ce71c31bae3eabed36e3fcec1c7db6b7cb9b3882cdd05ac5b2b518b32109092d"
 metafile = true
@@ -3813,6 +3837,10 @@ hash = "ebd63b777dae82396b65a4e63b1a6fbb285ce365036437d48fd65d0868a9e4de"
 metafile = true
 
 [[files]]
+file = "mods/moostensuraaddon-1.4.1.jar"
+hash = "251c3fb5c3c43bd17ed04d744961e7bb729339b226edd7ef5ecb2373a7f04bb7"
+
+[[files]]
 file = "mods/nightmares-tensura-utils.pw.toml"
 hash = "e23830f31f838cecc69febd3c6e399fc4c1c180ae3747e93309a40445d0064b2"
 metafile = true
@@ -3821,6 +3849,10 @@ metafile = true
 file = "mods/not-enough-animations.pw.toml"
 hash = "78a453bc5b750d057212b0762e93ae82ea2f360b6dccfe6b53c52d5b6849c80b"
 metafile = true
+
+[[files]]
+file = "mods/notenoughanimations-neoforge-1.12.6-mc1.21.1.jar"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "mods/patchouli.pw.toml"
@@ -4018,6 +4050,10 @@ hash = "6b38bcc069279ae89dc42cc29cddf0a62ebafab87c8dc4dd026fc101558b1952"
 metafile = true
 
 [[files]]
+file = "mods/tensura-voicecasting-0.2.1.jar"
+hash = "55fffcfab2bf55eccc31d5ffda72ff49973038eb80d53212a74c0d350f2dd223"
+
+[[files]]
 file = "mods/tensura-wheelie.pw.toml"
 hash = "8217408dcef128c58c7cd7480f73fdce9b793ea275ce34fe20baff07da1ea48c"
 metafile = true
@@ -4026,6 +4062,18 @@ metafile = true
 file = "mods/tensura-wiki.pw.toml"
 hash = "d18480b079767dc79db80a488540e19e473aa2b940a14fe34e2f2fa3465d66d8"
 metafile = true
+
+[[files]]
+file = "mods/tensura_better_subs-neoforge-1.2.4.jar"
+hash = "922798da68817fe14e49687d758798f67b34e75ccebcad96fefdd44cf475ee0b"
+
+[[files]]
+file = "mods/tensuraslots-1.0.0.jar"
+hash = "3b0094460a624aa33f5d1dddb6354dd2f7c5a63725736a5f6cc728b67f32605b"
+
+[[files]]
+file = "mods/tensurauniquemonsters-neoforge-1.0.2.jar"
+hash = "db73f98391ae96d9a267d2ee63c128e497b887ac00c74da9618cd6e0a271eea3"
 
 [[files]]
 file = "mods/terrablender-neoforge.pw.toml"
@@ -4056,6 +4104,10 @@ metafile = true
 file = "mods/tr-ancient-artifacts.pw.toml"
 hash = "47af17938c0c30de33ffa706fd55dee0d272663e3941a2959f4666c8d20396e8"
 metafile = true
+
+[[files]]
+file = "mods/trarcane-neoforge-1.1.jar"
+hash = "938d10f73d30e249fcbc906e6619ac43ad049077421eb2c776e1296fcbe445af"
 
 [[files]]
 file = "mods/ultimate-ultimate-addon.pw.toml"
