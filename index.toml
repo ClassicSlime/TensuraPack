@@ -3699,11 +3699,6 @@ hash = "5741b99f7914c39c9d7783e8f3f25ba285fe65eb0467ee689e9dd202436a4161"
 metafile = true
 
 [[files]]
-file = "mods/ds-dragonborn-cave-forest-sea.pw.toml"
-hash = "3fc9fd7bc5f4499d34426ac6571346a63e7398386d51490aed0dbf074cb7903c"
-metafile = true
-
-[[files]]
 file = "mods/ds-dragonborn-lib.pw.toml"
 hash = "f5cf3f7e5f908a48e431ad59d709dfbbc92738c58924747c16ac276dd29ddcf6"
 metafile = true
@@ -3711,21 +3706,6 @@ metafile = true
 [[files]]
 file = "mods/elite-tensura-mod.pw.toml"
 hash = "7e6ae6bada9695e59518984d05685b691f2d21576f09e81331e3a9bd33a69811"
-metafile = true
-
-[[files]]
-file = "mods/embers-ancient-remnants.pw.toml"
-hash = "693e097f31b137796e80e15b0ea3622cd3a75f93dd14de1d59b41ecfd9241833"
-metafile = true
-
-[[files]]
-file = "mods/essential-essentialized.pw.toml"
-hash = "fc67fef0d16d96df221c967166e70436a9389ebbc092504b671244626386d45f"
-metafile = true
-
-[[files]]
-file = "mods/essential-mod.pw.toml"
-hash = "2d32d9bd858a3d998fde7618a15a29d8fa5c96ce8c27f41ff3ed49569b594732"
 metafile = true
 
 [[files]]
@@ -3798,11 +3778,6 @@ hash = "8590e77951c4fb7c1ac4a52f8e1e0fa0103518b8c64ef3ae55ae654bfd6d2594"
 metafile = true
 
 [[files]]
-file = "mods/lumani-tensura.pw.toml"
-hash = "a23fdd6caca844896e2073f21cfbcf93185b53e1ef5d1f19560402ca76ff82c4"
-metafile = true
-
-[[files]]
 file = "mods/malum.pw.toml"
 hash = "ce71c31bae3eabed36e3fcec1c7db6b7cb9b3882cdd05ac5b2b518b32109092d"
 metafile = true
@@ -3820,11 +3795,6 @@ metafile = true
 [[files]]
 file = "mods/nightmares-tensura-utils.pw.toml"
 hash = "e23830f31f838cecc69febd3c6e399fc4c1c180ae3747e93309a40445d0064b2"
-metafile = true
-
-[[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "78a453bc5b750d057212b0762e93ae82ea2f360b6dccfe6b53c52d5b6849c80b"
 metafile = true
 
 [[files]]
@@ -3883,11 +3853,6 @@ hash = "10a34e5be6e84ed5fcc47730b87dcfc1ff6e6807134b38f12737da8f9574eae4"
 metafile = true
 
 [[files]]
-file = "mods/tensura-arcane.pw.toml"
-hash = "9bd65aac43a75c3ba2f5a6660dfb6a999c320e8dbfca0f04b864f46447c3e31b"
-metafile = true
-
-[[files]]
 file = "mods/tensura-ascensions.pw.toml"
 hash = "4075f94e9b3e6e50e4faf33ad1e156d9bed805147af0434588733c6ecd9f1470"
 metafile = true
@@ -3905,11 +3870,6 @@ metafile = true
 [[files]]
 file = "mods/tensura-brewable-arcane-potions.pw.toml"
 hash = "3bad13e2e9d519d8a8574553acf11032ef60be054adc39d9797e618d723c3f89"
-metafile = true
-
-[[files]]
-file = "mods/tensura-ep-scaling.pw.toml"
-hash = "2f62675dba1d14a9e7f95fcacbf421d54202f5fb8f10c620b4ef8558b703fb1f"
 metafile = true
 
 [[files]]
@@ -3993,11 +3953,6 @@ hash = "6f5b9284408bde7940d673f9f209f3841b0d5b59e23bdb39c6a36d2bc3a91403"
 metafile = true
 
 [[files]]
-file = "mods/tensura-singleplayer-addon.pw.toml"
-hash = "062d3a0faa2159f39bf66ec52b29f51f1bf46c623d0d9d6fdeeb7006ee0a8769"
-metafile = true
-
-[[files]]
 file = "mods/tensura-skill-books.pw.toml"
 hash = "06de829a65a4141f643d209e7f78be5d8c60400e278fe85e022e3303f4b21385"
 metafile = true
@@ -4013,18 +3968,9 @@ hash = "1f2e3940f8541ac5eca6e341860f1e48629ebe3961508b715346230008e5a3c4"
 metafile = true
 
 [[files]]
-file = "mods/tensura-unique-monsters.pw.toml"
-hash = "bb0c7125de360ac72fb90dff8d9a94e870129ef82f96a7d94153d7283a460a54"
-metafile = true
-
-[[files]]
 file = "mods/tensura-voice-cast.pw.toml"
 hash = "6b38bcc069279ae89dc42cc29cddf0a62ebafab87c8dc4dd026fc101558b1952"
 metafile = true
-
-[[files]]
-file = "mods/tensura-voicecasting-0.2.1.jar"
-hash = "55fffcfab2bf55eccc31d5ffda72ff49973038eb80d53212a74c0d350f2dd223"
 
 [[files]]
 file = "mods/tensura-wheelie.pw.toml"
@@ -4040,10 +3986,6 @@ metafile = true
 file = "mods/tensuraepscaling.pw.toml"
 hash = "102a9b7f24d4db1f283e23ee42858e9d7e0b8d16ba39b643ad2e2fbc7eda18f1"
 metafile = true
-
-[[files]]
-file = "mods/tensurauniquemonsters-neoforge-1.0.2.jar"
-hash = "db73f98391ae96d9a267d2ee63c128e497b887ac00c74da9618cd6e0a271eea3"
 
 [[files]]
 file = "mods/terrablender-neoforge.pw.toml"
