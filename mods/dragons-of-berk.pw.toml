@@ -1,0 +1,13 @@
+name = "dragons of berk"
+filename = "dragonsofberk-1.21.1-1.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "02549e48b873c4e3758b2114c9320fd8846a8c00"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9047295
+project-id = 968560

@@ -1,0 +1,32 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "nightmareutils:dummy_workstation_trader",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "nightmareutils:hihiirokane_barter_trader",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "nightmareutils:otherworlder",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "nightmareutils:shinro_nakuba_maximum",
+			"data": {
+				"Category": "monster"
+			}
+		}
+	]
+}

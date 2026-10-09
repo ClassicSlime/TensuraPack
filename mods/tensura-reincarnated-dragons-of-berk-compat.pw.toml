@@ -1,0 +1,13 @@
+name = "tensura reincarnated dragons of berk compat"
+filename = "berk_and_tensura_compat-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0241d2029b08007a7f4eb9f16f9a67bef3a2a468"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9001351
+project-id = 1716478

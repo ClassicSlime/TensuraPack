@@ -1,0 +1,32 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:blocks/belzium_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:blocks/belzium_ore",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:blocks/gronckle_iron_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:blocks/gronckle_iron_ore",
+			"data": {
+				"Type": "block"
+			}
+		}
+	]
+}

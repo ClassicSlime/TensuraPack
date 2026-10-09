@@ -1,0 +1,1116 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:acacia_dragon_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:acacia_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:activated_dragon_beacon"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:ambusher_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:amethyst_dragon_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:bamboo_dragon_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:beacon_activator"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:birch_dragon_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:birch_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:black_knight_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:blackstone_dragon_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:bolas"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:bone_dragon_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:cave_beacon"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:cave_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:cave_dragon_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:cave_dragon_treat"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:cave_full_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:cave_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:cave_source_of_magic"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:charged_coal"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:charged_soup"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:charred_meat"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:charred_mushroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:charred_seafood"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:charred_vegetable"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:cherry_dragon_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:copper_dragon_treasure"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:crimson_dragon_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:crimson_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:dark_dragon_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:dark_dragon_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:dark_dragon_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:dark_dragon_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:dark_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:dark_oak_dragon_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:dark_oak_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:dark_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:dark_vault"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:debris_dragon_treasure"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:deepslate_dragon_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:diamond_chorus"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:diamond_dragon_treasure"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:double_quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:dragon_beacon"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:dragon_hunter_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:dragon_hunting_mesh"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:dragon_memory_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:dragon_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:dragon_rider_workbench"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:dragon_soul"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:elder_dragon_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:elder_dragon_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:elder_dragon_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:emerald_dragon_treasure"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:endstone_dragon_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:explosive_copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:forest_beacon"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:forest_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:forest_dragon_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:forest_dragon_treat"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:forest_full_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:forest_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:forest_source_of_magic"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:frozen_raw_fish"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:gold_dragon_treasure"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:golden_coral_pufferfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:golden_knight_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:golden_turtle_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:gothic_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:gray_knight_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:griffin_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:heart_element"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:hot_dragon_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:hound_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:human_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:hunter_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:hunter_partisan"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:hunter_partisan_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:hunter_partisan_netherite"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:hunter_vault"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:ice_dragon_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:iron_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:iron_dragon_treasure"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:jungle_dragon_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:jungle_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:knight_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:leader_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:legacy_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:light_dragon_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:light_dragon_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:light_dragon_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:light_dragon_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:light_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:light_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:light_vault"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:lightning"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:luminous_ointment"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:magic_stick"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:mangrove_dragon_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:meat_chorus_mix"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:meat_wild_berries"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:mossy_dragon_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:mudbrick_dragon_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:nether_brick_dragon_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:netherrack_dragon_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:oak_dragon_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:oak_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:obsidian_dragon_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:pale_oak_dragon_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:primordial_anchor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:prismarine_dragon_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:purpur_dragon_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:quartz_dragon_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:quartz_explosive_copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:red_nether_brick_dragon_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:red_sandstone_dragon_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:sandstone_dragon_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:sea_beacon"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:sea_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:sea_dragon_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:sea_dragon_treat"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:sea_full_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:sea_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:sea_source_of_magic"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:seasoned_fish"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_chest_skin1"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_chest_skin2"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_chest_skin3"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_chest_skin4"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_chest_skin5"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_chest_skin6"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_chest_skin7"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_chest_skin8"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_full_skin1"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_full_skin2"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_full_skin3"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_full_skin4"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_full_skin5"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_full_skin6"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_full_skin7"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_full_skin8"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_leg_1_skin1"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_leg_1_skin2"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_leg_1_skin3"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_leg_1_skin4"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_leg_1_skin5"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_leg_1_skin6"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_leg_1_skin7"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_leg_1_skin8"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_leg_2_skin1"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_leg_2_skin2"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_leg_2_skin3"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_leg_2_skin4"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_leg_2_skin5"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_leg_2_skin6"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_leg_2_skin7"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_leg_2_skin8"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_leg_3_skin1"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_leg_3_skin2"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_leg_3_skin3"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_leg_3_skin4"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_leg_3_skin5"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_leg_3_skin6"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_leg_3_skin7"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_leg_3_skin8"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_neck_1_skin1"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_neck_1_skin2"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_neck_1_skin3"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_neck_1_skin4"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_neck_1_skin5"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_neck_1_skin6"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_neck_1_skin7"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_neck_1_skin8"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_neck_2_skin1"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_neck_2_skin2"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_neck_2_skin3"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_neck_2_skin4"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_neck_2_skin5"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_neck_2_skin6"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_neck_2_skin7"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_neck_2_skin8"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_neck_3_skin1"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_neck_3_skin2"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_neck_3_skin3"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_neck_3_skin4"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_neck_3_skin5"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_neck_3_skin6"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_neck_3_skin7"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_neck_3_skin8"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_pelvis_skin1"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_pelvis_skin2"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_pelvis_skin3"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_pelvis_skin4"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_pelvis_skin5"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_pelvis_skin6"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_pelvis_skin7"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_pelvis_skin8"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_skull_1_skin1"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_skull_1_skin2"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_skull_1_skin3"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_skull_1_skin4"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_skull_1_skin5"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_skull_1_skin6"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_skull_1_skin7"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_skull_1_skin8"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_skull_2_skin1"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_skull_2_skin2"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_skull_2_skin3"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_skull_2_skin4"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_skull_2_skin5"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_skull_2_skin6"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_skull_2_skin7"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_skull_2_skin8"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_tail_1_skin1"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_tail_1_skin2"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_tail_1_skin3"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_tail_1_skin4"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_tail_1_skin5"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_tail_1_skin6"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_tail_1_skin7"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_tail_1_skin8"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_tail_2_skin1"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_tail_2_skin2"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_tail_2_skin3"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_tail_2_skin4"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_tail_2_skin5"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_tail_2_skin6"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_tail_2_skin7"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_tail_2_skin8"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_tail_3_skin1"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_tail_3_skin2"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_tail_3_skin3"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_tail_3_skin4"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_tail_3_skin5"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_tail_3_skin6"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_tail_3_skin7"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_tail_3_skin8"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_tail_4_skin1"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_tail_4_skin2"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_tail_4_skin3"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_tail_4_skin4"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_tail_4_skin5"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_tail_4_skin6"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_tail_4_skin7"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skeleton_dragon_tail_4_skin8"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:skyrim_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:small_acacia_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:small_birch_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:small_cave_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:small_crimson_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:small_dark_oak_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:small_forest_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:small_gothic_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:small_iron_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:small_jungle_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:small_oak_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:small_sea_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:small_skyrim_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:small_spruce_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:small_stone_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:small_warped_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:smelly_meat_porridge"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:spearman_promotion"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:spearman_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:spin_grant"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:spruce_dragon_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:spruce_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:star_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:star_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:stone_dragon_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:stone_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:sweet_sour_rabbit"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:tuff_dragon_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:warped_dragon_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:warped_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:weak_dragon_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:wing_grant"
+		}
+	]
+}

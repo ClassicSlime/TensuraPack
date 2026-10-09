@@ -1,0 +1,102 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:deadly_nadder",
+			"data": {
+				"Category": "creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:gronckle",
+			"data": {
+				"Category": "creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:light_fury",
+			"data": {
+				"Category": "creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:monstrous_nightmare",
+			"data": {
+				"Category": "creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:night_fury",
+			"data": {
+				"Category": "creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:night_light",
+			"data": {
+				"Category": "creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:skrill",
+			"data": {
+				"Category": "creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:speed_stinger",
+			"data": {
+				"Category": "creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:speed_stinger_leader",
+			"data": {
+				"Category": "creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:stinger",
+			"data": {
+				"Category": "creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:stormcutter",
+			"data": {
+				"Category": "creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:terrible_terror",
+			"data": {
+				"Category": "creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:triple_stryke",
+			"data": {
+				"Category": "creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:zippleback",
+			"data": {
+				"Category": "creature"
+			}
+		}
+	]
+}

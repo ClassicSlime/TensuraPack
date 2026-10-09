@@ -1,0 +1,5020 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "greatsage:ceremony.demon_lord_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:ceremony.harvest_festival"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:ceremony.hero_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:ceremony.true_demon_lord"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:ceremony.true_hero"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:chat.dokuso_junkan"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:chat.dougu_hason"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:chat.haigo_sekkin"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:chat.handan_shiji"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:chat.houkoku_nashi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:chat.ibukuro_wazuka"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:chat.katsudou_teishi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:chat.kishou_kyuuhen"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:chat.koumyaku_kenchi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:chat.kouryou_fusoku"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:chat.kouseki_ura"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:chat.kuudou_chokka"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:chat.kyuusoku_suishou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:chat.maso_noudo"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:chat.michi_ryouiki"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:chat.mikaiseki_sonzai"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:chat.nenshou_kakunin"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:chat.nichibotsu"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:chat.rakka_kiken"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:chat.renzoku_katsudou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:chat.saikousei"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:chat.sanso_kinshou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:chat.seimei_teika"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:chat.shinka_sekkin"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:chat.shuujuku_jougen"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:chat.shuunou_jougen"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:chat.suigen_haigo"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:chat.tekisei_fukusuu"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:chat.tekishita_dougu"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:chat.yougan_kinsetsu"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:num.0"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:num.1"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:num.10"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:num.100"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:num.1000"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:num.10000"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:num.100000000"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:num.2"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:num.3"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:num.300"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:num.3000"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:num.4"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:num.5"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:num.6"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:num.600"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:num.7"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:num.8"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:num.800"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:num.8000"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:num.9"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:num.approx"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:num.desu"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:num.ijou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:num.miman"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:num.percent"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:num.point"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.abyssal_dragonewt"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.abyssal_tiefling"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.advanced_grade_dokkaebi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.air_genasi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.ancient_dragon"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.ancient_genasi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.ancient_giant"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.angel"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.arch_daemon"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.archangel"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.ascended_djinn"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.beast_lord"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.beastfolk"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.beholder"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.blood_noble"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.bog_ancient"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.catastrophe_dragon_lord"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.chaos_dragon"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.chaotic_deity"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.chicken"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.chthonic_tiefling"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.corpse_eater"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.corrupted_dragon"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.corrupted_dragonkin"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.cosmic_deity"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.cursed_dragon"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.cursed_dreadnaught"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.cursed_mariner"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.daemon_lord"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.dark_lord_dullahan"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.davy_jones"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.death_cavalier"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.death_knight"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.death_oni"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.death_tyrant"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.death_warrior"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.demon_dragon_god"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.demon_slime"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.demonic_dragon"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.devil_lord"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.diamond_sovereign"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.divine_angel"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.divine_beast"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.divine_bird"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.divine_boar"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.divine_dragon"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.divine_dwarf"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.divine_elf"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.divine_fighter"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.divine_fish"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.divine_fox"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.divine_genasi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.divine_giant"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.divine_human"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.divine_king"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.divine_kitsune"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.divine_kobold"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.divine_oni"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.divine_skeleton"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.divine_tiefling"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.divine_vampire"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.divine_wisp"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.dokkaebi_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.dokkaebi_king"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.doom_knight"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.doom_warrior"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.dragon"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.dragonewt"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.dullahan"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.dwarf"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.dwarf_saint"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.earth_genasi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.elder_bloodfiend"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.elder_lich"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.elf"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.elf_saint"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.ender_dragonewt"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.enlightened_dwarf"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.enlightened_elf"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.enlightened_hobgoblin"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.enlightened_human"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.enlightened_merfolk"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.enlightened_ogre"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.fairy"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.fairy_lord"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.fairy_queen"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.fallen_angel"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.fire_genasi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.fledgling_bloodfiend"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.frog"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.frog_monarch"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.gale_wisp"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.gauth"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.gazer"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.genasi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.geode_golem"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.ghoul"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.ghoul_king"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.giant"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.giant_frog"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.goblin"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.god_slime"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.great_dokkaebi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.greater_daemon"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.greater_tiefling"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.harpy"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.harpy_queen"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.heavenly_dragon_lord"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.heavy_skeleton_warrior"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.high_orc"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.high_wight"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.hobgoblin"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.hobgoblin_saint"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.human"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.human_saint"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.infernal_tiefling"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.infinite_djinn"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.input_race_was_invalid"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.intermediate_grade_dokkaebi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.kijin"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.kindred_bloodfiend"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.kitsune"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.kobold"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.kobold_chieftain"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.kobold_trader"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.kobold_warrior"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.lesser_daemon"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.lesser_fairy"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.lich"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.lich_king"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.lizardman"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.low_grade_dokkaebi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.mage_skeleton"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.merfolk"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.merfolk_saint"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.metal_slime"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.mindwitness"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.monkey"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.monkey_king"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.monkey_martial_artist"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.monkey_warrior"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.mystic_fox"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.mystic_oni"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.ninetail"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.ogre"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.omniversal_djinn"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.orc"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.orc_disaster"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.orc_lord"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.overlord"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.phantom_corsair"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.phantom_djinn"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.platinum_dragon_lord"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.player"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.prism_knight"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.semi_advanced_grade_dokkaebi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.shardling"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.skeleton"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.skeleton_mage"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.skeleton_warrior"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.slime"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.soul_beast"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.spirit_beast"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.spirit_bird"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.spirit_boar"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.spirit_oni"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.spirit_skeleton"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.tiefling"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.true_dragonewt"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.undead"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.vampire"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.vampire_lord"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.vampire_overcomer"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.vampiric_dragon_lord"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.water_genasi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.wicked_oni"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.wight"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.wight_king"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.wight_lord"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.wispfolk"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.young_dragon"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.zephyr_wisp"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:race.zombie"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:raphael.bunki"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:raphael.chie_no_ou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:raphael.chousen"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:raphael.daika_santei"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:raphael.enzan_dewa_nai"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:raphael.fusoku"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:raphael.gaitou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:raphael.gen_in_fumei"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:raphael.gentei_toppa"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:raphael.gisei"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:raphael.heiretsu_kaishi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:raphael.jikkou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:raphael.jouken"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:raphael.juri"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:raphael.juu"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:raphael.kakuchou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:raphael.saido"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:raphael.saikouchiku"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:raphael.saishuu_shikou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:raphael.seikou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:raphael.shikou_kaisuu"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:raphael.shinka_shimashita"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:raphael.shinsei"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:raphael.shippai"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:raphael.shukushou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:raphael.subete_shippai"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:raphael.zenmetsu"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.baiomu"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.bougyo"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.chijou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.chika"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.chinmoku"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.chiyu"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.chiyu_shudan_nashi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.chokuzen"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.dankai"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.doutou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.fumei"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.fushou_ari"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.fusoku_ryou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.fusoku_zairyou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.futekisetsu"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.futsuu"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.fuyou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.gaitou_nashi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.gakushuu_kanryou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.haigo_keikoku"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.haiki_kanryou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.hani_gai"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.hatsugen_saikai"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.heikin_sonzaichi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.hi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.hikaku"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.hiru"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.hitsuyou_maso"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.hitsuyou_nashi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.hokubu"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.hoshoku_fuka"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.hoshoku_kanou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.houi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.hoyuu_suu"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.iji_fuka"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.jakuten"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.jigen"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.jikkou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.jikkou_chuu"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.jikkou_fuka"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.jikkou_kanryou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.jikoku"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.jouhou_nashi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.joutai_ichiran"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.joutai_ijou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.kachi_ari"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.kachi_nashi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.kaiseki_chuudan"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.kaiseki_fuyou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.kaiseki_kaishi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.kaiseki_taishou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.kansatsu_suu"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.kanshi_kaishi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.kanshi_shuuryou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.kanshou_kyohi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.keika_jikan"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.kengen_nashi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.kensaku_chuu"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.kiken_ari"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.kiken_nashi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.kinou_ichiran"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.kiroku_ari"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.kiroku_kanryou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.kiroku_nashi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.kishou_skill"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.koudo"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.kougeki"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.kouhosha_ari"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.koumyaku_ari"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.kuudou_ari"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.kuufuku"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.kuuseki"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.kyori"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.machine_error"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.maso_fusoku"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.maso_juubun"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.maso_noudo"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.masoryou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.meido"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.meishou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.mikansoku"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.mishutoku_suu"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.mousugu"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.nanbu"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.netsugen_ari"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.nichibotsu_made"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.ninshiki_fuka"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.nokori_keiken"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.onsei_suu"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.pointo"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.rekkyo"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.rendou_kaijo"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.rendou_kanryou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.retsui"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.ryoukai"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.saido_onegai"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.saikyou_kiroku"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.saikyou_skill"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.saikyou_taishou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.saiteki"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.sakusei_kanou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.sanso"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.seibu"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.seiri_kanryou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.seizon_jikan"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.sentou_kaijo"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.sentou_kaishi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.setsumei"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.settei_henkou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.shibou_chiten"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.shibou_kaisuu"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.shiin"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.shinchoku"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.shinka_fuka"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.shinka_jouken"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.shinka_kanou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.shoji"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.shoukyo_kanryou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.shouri_kanou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.shugo_tenkai"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.shutoku_fuka"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.shutoku_kanou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.shutoku_zumi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.shutten"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.shuujukudo"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.shuunou_kanryou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.shuutoku_suu"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.shuzoku"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.sokudo"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.sokutei_fuka"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.sonzaichi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.souchaku_kanryou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.souhoyuu_suu"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.souteki_higai"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.suigen_ari"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.suishou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.suishou_shinka"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.suuryou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.taiki"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.taiki_kaijo"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.taikyuu"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.taikyuu_genkai"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.tairyoku"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.taishou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.taishou_nashi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.taishou_sonzaichi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.taishou_tairyoku"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.taisuu"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.tekisei_ari"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.tekisei_nashi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.tenkou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.tettai_suishou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.toridashi_kanryou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.toubu"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.tsugi_no_shuzoku"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.tsuiseki_ari"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.version"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.watashi_wa_daikenja"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.watashi_wa_skill"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.yoake_made"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.yoru"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.youryou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.yuui"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.zahyou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.zairyou_fusoku"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.zanryou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:reply.ze"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:sfx.close"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:sfx.crack"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:sfx.fail"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:sfx.open"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:sfx.shatter"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:sfx.skill"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.abaddon"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.abnormal_condition_nullification"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.abnormal_condition_resistance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.abnormally_lucky"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.absolute_severance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.absorb_and_dissolve"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.acceleration"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.adaptability"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.administrative_authority"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.agni"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.akashic_records"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.albis_vina"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.all_seeing_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.alteration"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.alternative"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.amaterasu"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.amatsumara"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.amethyst_golem_genetics"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.analyst"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.analytical_appraisal"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.ancient_soul"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.angel_wings"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.anti_skill"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.anti_symbiote"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.artist"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.asmoday"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.asmodeus"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.assault_mode"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.astaroth"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.astarte"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.astraea"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.astral_light"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.authority_of_greed"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.avalon"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.axolotl_haki"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.azathoth"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.azazel"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.basiliskskin_ultimate"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.beast_transformation"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.beelzebub"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.beelzebuth"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.belial"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.belphegor"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.berserk"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.berserker"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.bewilder"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.black_communion"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.black_flame"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.black_lightning"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.blockade"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.blood_arts"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.blood_blade"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.blood_domination"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.blood_frenzy"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.blood_manipulation"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.blood_mist"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.blood_nullification"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.blood_resistance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.body_armor"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.body_double"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.boogie_woogie"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.brain"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.breaker"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.bubble_majin"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.bullet_punch"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.butcher"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.cadence"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.caedros_god_of_conquest"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.calamity_chi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.captivator"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.carnation"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.catastrophe_dragon_lord"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.celestial_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.cessation"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.chant_annulment"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.chaos_strikes"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.charm"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.chef"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.chosen_one"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.clangorous_soul"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.coalescence"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.coercion"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.coffin_of_darkness"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.cold_nullification"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.cold_resistance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.commander"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.concentrator"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.constant"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.cook"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.corroder"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.corrosion"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.corrosion_nullification"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.corrosion_resistance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.corrosion_transform"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.crasher"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.creator"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.crocodile_skin"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.cryogenic_cessation"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.crystal_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.cthugha"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.cthulhu"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.cultivator"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.current_unbroken"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.danger_sense"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.dark_blessing"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.dark_chi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.dark_magic_release"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.darkness_attack_nullification"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.darkness_attack_resistance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.darkness_domination"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.darkness_manipulation"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.darkness_transform"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.deadly_poison"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.deal_maker"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.death_cavalier_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.death_god"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.degenerate"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.demon_lord_haki"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.demonic_power"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.designer"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.deus_sanguis"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.devastator"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.deviator"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.devil_host"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.discharge"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.disintegration"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.dissonance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.divide"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.divine_berserker"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.divine_general_mahoraga"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.divine_ki_release"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.divine_wisdom_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.domain_of_negation"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.domicile"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.dominator"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.doom_knight_authority"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.doomed_vanguard"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.dragon_body"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.dragon_ear"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.dragon_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.dragon_factor_abyss"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.dragon_factor_earth"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.dragon_factor_frost"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.dragon_factor_scorch"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.dragon_factor_storm"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.dragon_lord_authority"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.dragon_mode"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.dragon_skin"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.dragon_slayer"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.drain"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.dreamer"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.drygmy_genetics"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.durability"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.earth_attack_nullification"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.earth_attack_resistance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.earth_blessing"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.earth_domination"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.earth_manipulation"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.earth_transform"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.echo_endures"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.electricity_nullification"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.electricity_resistance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.elegy"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.elementalist"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.ember_remains"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.embryo"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.ending"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.endorse"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.energy_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.engineer"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.engorger"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.envy"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.evil_majin"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.exoskeleton"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.exploiter"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.eye_of_mind"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.eye_of_truth"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.falsifier"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.farsight"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.faust"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.fighter"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.fire_blessing"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.fire_dragon_armor"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.fire_ki_release"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.flame_attack_nullification"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.flame_attack_resistance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.flame_breath"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.flame_domination"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.flame_manipulation"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.flame_transform"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.flarecannon_genetics"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.flashjack_genetics"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.food_chain"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.food_lover"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.fourth_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.freezing_flame"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.fungus_infection"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.fusionist"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.gabriel"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.gardener"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.gene_editor"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.ghoul_king_hunger"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.giant_dance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.giantification"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.gift"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.glorious"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.gluttony"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.godly_craftsman"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.godly_scientist"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.godly_smithery"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.godwolf_sense"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.gourmand"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.gourmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.gravity_attack_nullification"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.gravity_attack_resistance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.gravity_domination"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.gravity_field"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.gravity_flight"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.gravity_flux"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.gravity_manipulation"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.great_mage"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.great_sage"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.greed"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.green_thumb"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.grimoire"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.guardian"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.haki"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.hamiel"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.handler"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.haniel"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.hastur"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.healer"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.heat_nullification"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.heat_resistance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.heat_wave"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.heavenly_dragon_lord"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.heavenly_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.heavy_metal"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.hecate"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.hell_hall"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.hell_passage"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.hellblaze"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.hero_haki"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.hidden_ruler"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.hidden_void"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.holy"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.holy_attack_nullification"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.holy_attack_resistance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.holy_magic_release"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.hydraulic_propulsion"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.hyper_metabolistic"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.hyperbolic_passage"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.ice_breath"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.ice_domination"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.ice_manipulation"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.ideal"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.image_training"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.imitator"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.imprisoned_jester"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.infinite_regeneration"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.infinity"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.infinity_prison"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.inner_world"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.insensitivity"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.intimidating_roar"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.investigator"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.iron_resolve"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.istaroth"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.kaioken"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.king_of_curses"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.kyurem"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.lakes_blessing"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.law_manipulation"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.lemegeton"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.lethal_poison"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.lethe_lady_of_phantasm"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.leviathan"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.life_returns"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.light_attack_nullification"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.light_attack_resistance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.light_blessing"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.light_domination"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.light_manipulation"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.light_remains"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.light_transform"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.lightning_domination"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.lightning_manipulation"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.lightning_mode"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.lock"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.lock2"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.lord_of_magewolves"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.lucifer"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.lucky"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.lust"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.magic_aura"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.magic_darkness_transform"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.magic_earth_transform"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.magic_flame_transform"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.magic_jamming"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.magic_light_transform"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.magic_nullification"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.magic_regeneration"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.magic_resistance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.magic_sense"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.magic_space_transform"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.magic_water_transform"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.magic_wind_transform"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.magical_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.magicule_attunement"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.magicule_dominion"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.magicule_engravement"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.magicule_nourishment"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.magicule_resonance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.magisteel_body"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.magnetized_vacuum"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.majesty"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.malignant_body"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.malleable"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.mammon"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.mammon_casino"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.mana_manipulation"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.manas_host"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.martial_master"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.material_creation"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.mathematician"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.maximum_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.meditation"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.mega_disintegration"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.melancholy"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.memory_recreation"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.merciless"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.metatron"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.michael"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.michael_angel_of_locks"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.milim_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.mimicry"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.mitama_faith"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.mithril_strength"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.molecular_manipulation"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.mood_maker"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.morph"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.mortal_fear"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.multilayer_barrier"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.murderer"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.mystic_aura"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.naberius"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.necro_lord"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.necromancer"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.necronomicon"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.nirvana"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.nodens"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.nyarlathotep"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.observer"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.ogre_berserker"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.one_who_seals"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.oppressor"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.origin"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.ouroboros"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.pain_lord_of_six_paths"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.pain_nullification"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.pain_resistance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.paralysing_breath"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.paralysis"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.paralysis_nullification"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.paralysis_resistance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.paralysis_transform"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.parasite"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.pazuzu"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.phainon"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.phantasmal_creation"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.phaser"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.phoenix"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.phoenix_next"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.photon_blade"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.physical_attack_nullification"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.physical_attack_resistance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.pierce_nullification"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.pierce_resistance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.plasmatic_source"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.poison"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.poison_ki_release"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.poison_nullification"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.poison_resistance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.poison_transform"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.poisonous_breath"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.possession"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.prayer"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.predator"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.prickly_hands"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.pride"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.processor"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.profaned_prominence"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.provider"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.pseudo_dragon_body"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.purple_lightning"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.raguel"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.ranged_barrier"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.raphael_knowledge"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.raphael_wisdom"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.raphealskill"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.reaper"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.rebirth"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.reducer"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.reflector"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.refractive_shell"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.relapse"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.remnants_of_ascension"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.repeater"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.replenish"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.researcher"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.reshiram"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.resonant_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.rest"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.restricted"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.reverser"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.robotnic"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.ronova"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.royal_beast"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.runesmiths_insight"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.sacred_haki"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.sage"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.saint"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.saint_chi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.samael"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.sandplay_blessing"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.sariel"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.satanael"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.satella"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.scale_armor"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.scavenger"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.scholar"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.schrodinger"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.schwi_ex_machina"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.sealer"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.seeker"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.seer"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.self_regeneration"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.sense_heat_source"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.sense_soundwave"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.sentient_being"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.severer"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.shadow_motion"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.shadow_striker"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.shape_forgotten"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.sharpened_claws"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.shub_niggurath"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.silentium"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.siren_genetics"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.skill_storage"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.sky_enjoyer"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.slayer_of_dragons"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.sloth"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.smelter"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.snake_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.snatch"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.sniper"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.soul_plunderer"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.soul_shrine"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.sound_domination"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.sound_manipulation"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.source_powered"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.space_transform"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.spark"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.spatial_attack_nullification"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.spatial_attack_resistance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.spatial_domination"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.spatial_manipulation"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.spatial_motion"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.spatial_samurai"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.spearhead"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.spirit_sorcerer"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.spiritual_attack_nullification"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.spiritual_attack_resistance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.spiritualist"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.stagnator"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.starbuncle_genetics"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.starved"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.stasis"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.steel_dragon_armor"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.steel_ki_release"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.steel_strength"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.sticky_steel_thread"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.strength"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.strengthen_body"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.stripes"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.subjugator"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.sunshine"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.suppressor"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.survivor"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.surya"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.susanoo"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.sword_saint"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.symbiote"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.telepathy"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.tempter"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.tenacity"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.the_warden"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.thermal_fluctuation_nullification"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.thermal_fluctuation_resistance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.thought_acceleration"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.thought_communication"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.thrower"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.thunder_breath"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.time_blessing"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.time_traveler"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.timeless_mage"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.titanification"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.total_reflection"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.toxic_skin"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.trash_gamer"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.traveler"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.trnightmare.beelzebuth"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.true_authority_of_greed"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.true_hero"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.tsukiyomi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.tuner"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.twin_arcana"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.ultimate_arroganz"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.ultra_instinct"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.ultrasonic_waves"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.ultraspeed_regeneration"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.unbound_jester"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.undead_body"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.universal_perception"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.unleashed_dead_end"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.unpredictability"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.unyielding"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.uriel_lord_of_oath"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.uriel_lord_of_vow"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.usurper"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.vampiric_dragon_lord"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.venuzdonoa"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.vestiges_of_eidolons"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.victorious_harbinger"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.villain"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.voice_cannon"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.void_archive"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.void_resistance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.voidedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.voidsovereign"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.warded_soul"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.water_attack_nullification"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.water_attack_resistance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.water_blade"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.water_blessing"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.water_breathing"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.water_current_control"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.water_domination"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.water_dragon_armor"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.water_ki_release"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.water_manipulation"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.water_transform"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.weather_domination"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.weather_manipulation"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.whirlisprig_genetics"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.wight_lord_dominion"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.wilden_guardian_genetics"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.wilden_hunter_genetics"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.wilden_stalk"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.wilden_stalker_genetics"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.wind_attack_nullification"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.wind_attack_resistance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.wind_blessing"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.wind_domination"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.wind_evasion"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.wind_manipulation"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.wind_reading"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.wind_transform"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.witch_of_envy_satella"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.witch_of_vainglory"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.witches_envy"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.wixie_genetics"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.wrath"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.yog-sotohort"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.yog_sothoth"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.zekrom"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:tier.common"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:tier.extra"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:tier.intrinsic"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:tier.resistance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:tier.ultimate"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:tier.unique"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.dankai_fusoku"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.dankai_joushou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.e_no_shinka"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.gakushuu_kakunin"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.gakushuu_kanryou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.gakushuu_mode"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.heiretsu_jougen"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.hi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.hoyuu_nashi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.ichijiteki"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.jiki_shousou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.kai"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.kaihou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.kaiseki_chuu"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.kaiseki_chuudan"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.kaiseki_fuka"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.kaiseki_kaishi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.kaiseki_kakunin"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.kaiseki_kanryou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.kaiseki_kantei"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.kaiseki_mode"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.kaiseki_shippai"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.kaiseki_shuuryou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.kansoku_ichiran"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.kengen_nashi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.kidou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.kinshi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.koku"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.konbanwa"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.konnichiwa"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.maso_fusoku"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.mishutoku"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.no_kakutoku"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.nouryoku_ichiran"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.ohayou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.oyasumi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.pointo_fusoku"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.ryo"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.ryoukai"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.ryoukai_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.seiko_shimashita"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.seizon_kakuritsu"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.sentou_mode"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.settei"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.shinka_jouken"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.shippai_shimashita"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.shounin"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.shutoku_zumi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.taishou_kakunin"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.taishou_kanryou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.tsuzukete"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.yori"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.ze"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:voice.zentei_fusoku"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.era"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.fuyo_ijou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.fuyo_zumi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.ganbou_chuushutsu"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.hai"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.hajimari"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.iie"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.jikan_ga_nai"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.jinkaku_kakunin"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.jougen_toutatsu"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.joui_fuyo"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.kakutei"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.kakutei_kakunin"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.kakutoku"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.kansoku_kaishi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.keikoku"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.kennou_fuyo_kanou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.kennou_seisei"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.kioku_hoji"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.kiretsu_kenchi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.kiroku"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.kono_michi_wa_kewashii"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.kono_michi_wa_yasashii"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.kore_ijou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.kotai_seisei"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.kouho_teiji"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.kouun_o"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.kyohi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.kyoumi_bukai"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.maso_hakken"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.maso_youryou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.mata_aimashou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.matte"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.me_o_akete"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.mezurashii"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.mumei_no_negai"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.nanido"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.naruhodo"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.nokori_negai"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.nozomi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.race.beastfolk"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.race.dwarf"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.race.elf"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.race.ghoul"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.race.giant"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.race.goblin"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.race.harpy"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.race.human"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.race.lesser_daemon"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.race.lizardman"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.race.merfolk"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.race.ogre"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.race.orc"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.race.shardling"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.race.slime"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.race.undead"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.race.wight"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.rikai_funou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.ryoukai"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.saigo_no_negai"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.saikouchiku"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.saraba"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.sarani"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.seimei_teishi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.sekai_e"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.sekai_ni_yudaneru"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.shibou_kakunin"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.shikashi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.shoki_kennou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.shounin"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.shuusei_fukanou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.shuzoku_sentaku"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.abnormal_condition_resistance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.absolute_severance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.all_seeing_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.analyst"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.anti_skill"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.berserker"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.body_double"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.chant_annulment"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.chef"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.chosen_one"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.coercion"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.cold_resistance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.commander"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.cook"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.corrosion"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.corrosion_resistance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.creator"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.danger_sense"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.darkness_attack_resistance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.earth_attack_resistance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.electricity_resistance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.engorger"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.envy"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.farsight"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.fighter"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.flame_attack_resistance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.gluttony"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.godly_craftsman"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.gourmand"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.gourmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.gravity_attack_resistance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.great_sage"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.greed"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.guardian"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.haki"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.healer"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.heat_resistance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.heat_wave"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.holy_attack_resistance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.infinite_regeneration"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.light_attack_resistance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.lust"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.magic_aura"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.magic_resistance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.magic_sense"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.majesty"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.martial_master"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.merciless"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.mortal_fear"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.murderer"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.observer"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.pain_resistance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.paralysis"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.paralysis_resistance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.physical_attack_resistance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.pierce_resistance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.poison"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.poison_resistance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.predator"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.pride"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.reaper"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.reflector"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.sage"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.seeker"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.seer"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.self_regeneration"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.severer"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.shadow_motion"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.shadow_striker"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.sloth"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.sniper"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.spatial_attack_resistance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.spatial_motion"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.spiritual_attack_resistance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.starved"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.strength"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.survivor"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.telepathy"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.thought_communication"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.thrower"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.traveler"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.universal_perception"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.water_attack_resistance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.water_blade"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.wind_attack_resistance"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.wrath"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.sore_de_ii"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.sore_wa_negai_de_wa_nai"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.soshite"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.sousa_kaishi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.souteigai"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.tamashii_hosoku"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.teikou_fuyo"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.tekisei_ari"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.tensei_kaishi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.tensei_kanryou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.torikeshi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.tsugi_no_nozomi"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.tsuzukete"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.watashi_wa_miteimasu"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.yoi_deshou"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.zenrei_nashi"
+		}
+	]
+}

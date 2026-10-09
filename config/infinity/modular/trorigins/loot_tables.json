@@ -1,0 +1,11 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "trorigins:advancement_reward/dragotite",
+			"data": {
+				"Type": "advancement_reward"
+			}
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "ascension:blocks/awakening_altar",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "ascension:blocks/deepslate_magic_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "ascension:blocks/magicule_enhancer",
+			"data": {
+				"Type": "block"
+			}
+		}
+	]
+}

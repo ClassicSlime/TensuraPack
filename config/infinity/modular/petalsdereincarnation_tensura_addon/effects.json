@@ -1,0 +1,76 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation_tensura_addon:armor_debuff",
+			"data": {
+				"Instant": false,
+				"Color": 9136404,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation_tensura_addon:bleed",
+			"data": {
+				"Instant": false,
+				"Color": 11141120,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation_tensura_addon:blood_disease",
+			"data": {
+				"Instant": false,
+				"Color": 7016218,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation_tensura_addon:lunatic_behavior",
+			"data": {
+				"Instant": false,
+				"Color": 16729156,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation_tensura_addon:panda_size",
+			"data": {
+				"Instant": false,
+				"Color": 16729156,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation_tensura_addon:supermassive_slime_size",
+			"data": {
+				"Instant": false,
+				"Color": 16729156,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation_tensura_addon:uomo_universale_activation",
+			"data": {
+				"Instant": false,
+				"Color": 13150545,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation_tensura_addon:weak_infinite_imprisonment",
+			"data": {
+				"Instant": false,
+				"Color": -9435899,
+				"Category": "harmful"
+			}
+		}
+	]
+}

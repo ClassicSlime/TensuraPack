@@ -1,0 +1,14 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "moostensuraaddon:great_crystal_altar",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		}
+	]
+}

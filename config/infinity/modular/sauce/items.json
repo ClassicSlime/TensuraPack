@@ -1,0 +1,28 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "sauce:anima_essence"
+		},
+		{
+			"weight": 1.0,
+			"key": "sauce:arcane_plinth"
+		},
+		{
+			"weight": 1.0,
+			"key": "sauce:source_fluid_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "sauce:source_jar_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "sauce:source_jar_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "sauce:source_jar_valve"
+		}
+	]
+}

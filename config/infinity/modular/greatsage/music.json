@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "greatsage:skill.musician"
+		},
+		{
+			"weight": 1.0,
+			"key": "greatsage:world.skill.musician"
+		}
+	]
+}

@@ -1,0 +1,101 @@
+#Configuration schema version. Do not edit this value.
+#Version 6 makes the LootTable file the only natural-loot probability source.
+#Format: integer. Required value: 6.
+#Example: config_version = 6
+# Default: 6
+# Range: 6 ~ 6
+config_version = 6
+
+#Server-authoritative random study-book settings.
+#These settings apply to dedicated servers and integrated single-player servers.
+#Per-skill random weights are generated in tensura_skill_books-random-skills.txt.
+#Every discovered skill defaults to weight 1; set its line to @0 to blacklist it.
+#All enable_* values use true or false.
+[random_books]
+	#Allows the random all study book to be used on the server.
+	#Format: true or false.
+	#Example: enable_all = false
+	enable_all = true
+	#Allows the random combat study book to be used on the server.
+	#Format: true or false.
+	#Example: enable_combat = false
+	enable_combat = true
+	#Allows the random common study book to be used on the server.
+	#Format: true or false.
+	#Example: enable_common = false
+	enable_common = true
+	#Allows the random resistance study book to be used on the server.
+	#Format: true or false.
+	#Example: enable_resistance = false
+	enable_resistance = true
+	#Allows the random intrinsic study book to be used on the server.
+	#Format: true or false.
+	#Example: enable_intrinsic = false
+	enable_intrinsic = true
+	#Allows the random extra study book to be used on the server.
+	#Format: true or false.
+	#Example: enable_extra = false
+	enable_extra = true
+	#Allows the random unique study book to be used on the server.
+	#Format: true or false.
+	#Example: enable_unique = false
+	enable_unique = true
+	#Allows the random ultimate study book to be used on the server.
+	#Format: true or false.
+	#Example: enable_ultimate = false
+	enable_ultimate = true
+	#Allows the random magic_aspectual study book to be used on the server.
+	#Format: true or false.
+	#Example: enable_magic_aspectual = false
+	enable_magic_aspectual = true
+	#Allows the random magic_spiritual study book to be used on the server.
+	#Format: true or false.
+	#Example: enable_magic_spiritual = false
+	enable_magic_spiritual = true
+	#Allows the random magic_summoning study book to be used on the server.
+	#Format: true or false.
+	#Example: enable_magic_summoning = false
+	enable_magic_summoning = true
+	#Allows the random magic_misc study book to be used on the server.
+	#Format: true or false.
+	#Example: enable_magic_misc = false
+	enable_magic_misc = true
+
+#Server LootTable integration for dedicated and integrated single-player servers.
+#Lootr does not parse this file. Compatibility is provided by modifying the final server LootTable.
+#This keeps compatible containers attached to their loot table instead of writing directly to inventories.
+[loot]
+	#Master opt-in switch for natural loot integration.
+	#Format: true or false.
+	#Example: enabled = true
+	#All final entry probabilities are configured only in tensura_skill_books-loot-tables.txt.
+	#New LootTables use empty (), so no item from this mod appears by default.
+	enabled = true
+
+#Skill study-book use behavior.
+#These settings apply to dedicated servers and integrated single-player servers.
+[use]
+	#EP/magicule acquisition cost percentage for normal study-book learning; applied after Tensura's own fee multiplier.
+	#0 = free, 50 = half cost, 100 = normal cost, 150 = one and a half times cost.
+	#Finite number from 0 to 10000. Default: 0.0. Direct NBT learning is unchanged.
+	#技能书正常学习的 EP/魔素获取费用百分比，在 Tensura 原有费用倍率之后应用。
+	#0 免费，50 半价，100 原价，150 为 1.5 倍；范围 0..10000，默认 0.0。
+	ep_cost_percentage = 0.0
+	#Soul-energy acquisition cost percentage for normal study-book learning when the framework charges soul energy.
+	#0 = free, 50 = half cost, 100 = normal cost, 150 = one and a half times cost.
+	#Finite number from 0 to 10000. Default: 100.0. Framework learning rules and direct NBT behavior remain in effect.
+	#框架收取灵魂能量时，技能书正常学习使用的灵魂能量费用百分比。
+	#0 免费，50 半价，100 原价，150 为 1.5 倍；范围 0..10000，默认 100.0。
+	soul_energy_cost_percentage = 100.0
+	#When false, Survival and Adventure players use Tensura's normal SkillHelper learning interface only.
+	#When true, Survival and Adventure players use direct NBT insertion without attempting native learning.
+	#Creative players always try normal learning first and may use NBT fallback only after failure, regardless of this setting.
+	#NBT insertion never replaces existing skill instances or their learning progress.
+	#Format: true or false.
+	#Default: false.
+	enable_nbt_learning = false
+	#Volume of the successful skill-book use sound.
+	#Range: 0.0 (silent) to 1.0 (default 0.8).
+	# Default: 0.8
+	# Range: 0.0 ~ 1.0
+	sound_volume = 0.8

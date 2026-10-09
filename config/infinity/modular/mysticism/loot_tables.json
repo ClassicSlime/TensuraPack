@@ -1,0 +1,11 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "mysticism:blocks/ice_ore",
+			"data": {
+				"Type": "block"
+			}
+		}
+	]
+}

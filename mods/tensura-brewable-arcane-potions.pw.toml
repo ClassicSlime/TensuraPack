@@ -1,0 +1,13 @@
+name = "Tensura: Brewable Arcane Potions"
+filename = "tensurabrewablearcanepotions-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ac3cc16b6610741cbccdec1e873071a20c533db8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7986511
+project-id = 1525356

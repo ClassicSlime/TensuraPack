@@ -1,0 +1,5 @@
+[General]
+	#Should the Tensura configurations add Petals skills and races on next launch?
+	refresh = true
+	#The default flying speed of all Petals races.
+	flightSpeed = 0.05

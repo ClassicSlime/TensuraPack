@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "projecte:blacklist/time_watch"
+		},
+		{
+			"weight": 1.0,
+			"key": "projecte:farming_override"
+		},
+		{
+			"weight": 1.0,
+			"key": "projecte:override/plantable"
+		}
+	]
+}

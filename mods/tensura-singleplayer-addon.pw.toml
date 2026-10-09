@@ -1,0 +1,13 @@
+name = "Tensura Singleplayer Addon"
+filename = "moostensuraaddon-1.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f911ac7cdb44a14a0f67eb27ca8e30531b7d086a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9061309
+project-id = 1599531

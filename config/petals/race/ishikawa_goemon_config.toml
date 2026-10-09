@@ -1,0 +1,109 @@
+[IshikawaGoemon]
+	#Minimal aura.
+	minAura = 900.0
+	#Maximum aura.
+	maxAura = 1400.0
+	#Minimal magicule.
+	minMagicule = 100.0
+	#Maximum magicule.
+	maxMagicule = 150.0
+	#Bonus Size.
+	size = 0.0
+	#Bonus Max Health.
+	maxHealth = 0.0
+	#Bonus Max Spiritual Health.
+	maxSpiritualHealth = 0.0
+	#Bonus Attack Damage.
+	attack = 0.0
+	#Bonus Attack Speed.
+	attackSpeed = 0.0
+	#Bonus Knockback Resistance.
+	knockbackResistance = 0.0
+	#Bonus Movement Speed.
+	movementSpeed = 0.0
+	#Bonus Swimming Speed Multiplier.
+	swimSpeed = 0.0
+
+[CompleteReturner]
+	#Minimal aura.
+	minAura = 140000.0
+	#Maximum aura.
+	maxAura = 140000.0
+	#Minimal magicule.
+	minMagicule = 60000.0
+	#Maximum magicule.
+	maxMagicule = 60000.0
+	#Bonus Size.
+	size = 0.0
+	#Bonus Max Health.
+	maxHealth = 10.0
+	#Bonus Max Spiritual Health.
+	maxSpiritualHealth = 40.0
+	#Bonus Attack Damage.
+	attack = 0.0
+	#Bonus Attack Speed.
+	attackSpeed = 0.2
+	#Bonus Knockback Resistance.
+	knockbackResistance = 0.0
+	#Bonus Movement Speed.
+	movementSpeed = 0.025
+	#Bonus Swimming Speed Multiplier.
+	swimSpeed = 0.0
+	#EP requirement to evolve from Complete Returner Ishikawa Goemon.
+	epRequirement = 1000000.0
+
+[HighReturner]
+	#Minimal aura.
+	minAura = 140000.0
+	#Maximum aura.
+	maxAura = 140000.0
+	#Minimal magicule.
+	minMagicule = 60000.0
+	#Maximum magicule.
+	maxMagicule = 60000.0
+	#Bonus Size.
+	size = 0.0
+	#Bonus Max Health.
+	maxHealth = 160.0
+	#Bonus Max Spiritual Health.
+	maxSpiritualHealth = 640.0
+	#Bonus Attack Damage.
+	attack = 1.0
+	#Bonus Attack Speed.
+	attackSpeed = 0.3
+	#Bonus Knockback Resistance.
+	knockbackResistance = 0.0
+	#Bonus Movement Speed.
+	movementSpeed = 0.04
+	#Bonus Swimming Speed Multiplier.
+	swimSpeed = 0.0
+	#EP requirement to evolve from High Returner Ishikawa Goemon.
+	epRequirement = 1000000.0
+
+[DivineReturner]
+	#Minimal aura.
+	minAura = 1000000.0
+	#Maximum aura.
+	maxAura = 1000000.0
+	#Minimal magicule.
+	minMagicule = 1000000.0
+	#Maximum magicule.
+	maxMagicule = 1000000.0
+	#Bonus Size.
+	size = 0.0
+	#Bonus Max Health.
+	maxHealth = 827.0
+	#Bonus Max Spiritual Health.
+	maxSpiritualHealth = 3307.0
+	#Bonus Attack Damage.
+	attack = 2.0
+	#Bonus Attack Speed.
+	attackSpeed = 0.6
+	#Bonus Knockback Resistance.
+	knockbackResistance = 0.0
+	#Bonus Movement Speed.
+	movementSpeed = 0.08
+	#Bonus Swimming Speed Multiplier.
+	swimSpeed = 0.0
+	#EP requirement to evolve from Divine Returner Ishikawa Goemon.
+	epRequirement = 2000000.0

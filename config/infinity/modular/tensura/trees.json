@@ -1,0 +1,18 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "tensura:dead_oak",
+			"data": {
+				"Type": "tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:palm_tree",
+			"data": {
+				"Type": "tree"
+			}
+		}
+	]
+}

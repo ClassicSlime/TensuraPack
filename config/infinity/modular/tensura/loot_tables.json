@@ -1,0 +1,2034 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "tensura:advancement_reward/acquire_silverware",
+			"data": {
+				"Type": "advancement_reward"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:advancement_reward/adamantite",
+			"data": {
+				"Type": "advancement_reward"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:advancement_reward/arachnophobic",
+			"data": {
+				"Type": "advancement_reward"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:advancement_reward/getcha_better_leathers",
+			"data": {
+				"Type": "advancement_reward"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:advancement_reward/getcha_leathers",
+			"data": {
+				"Type": "advancement_reward"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:advancement_reward/gold_rush",
+			"data": {
+				"Type": "advancement_reward"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:advancement_reward/goodnight_spider",
+			"data": {
+				"Type": "advancement_reward"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:advancement_reward/high_magisteel",
+			"data": {
+				"Type": "advancement_reward"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:advancement_reward/hihiirokane",
+			"data": {
+				"Type": "advancement_reward"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:advancement_reward/hiss_tory",
+			"data": {
+				"Type": "advancement_reward"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:advancement_reward/low_magisteel",
+			"data": {
+				"Type": "advancement_reward"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:advancement_reward/mithril",
+			"data": {
+				"Type": "advancement_reward"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:advancement_reward/orichalcum",
+			"data": {
+				"Type": "advancement_reward"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:advancement_reward/pure_magisteel",
+			"data": {
+				"Type": "advancement_reward"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:advancement_reward/ruler_of_monster",
+			"data": {
+				"Type": "advancement_reward"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:advancement_reward/ruler_of_the_skies",
+			"data": {
+				"Type": "advancement_reward"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:advancement_reward/shell_lizard",
+			"data": {
+				"Type": "advancement_reward"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:advancement_reward/vigilant",
+			"data": {
+				"Type": "advancement_reward"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:archaeology/ant_nest",
+			"data": {
+				"Type": "archaeology"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:archaeology/hell_ruins",
+			"data": {
+				"Type": "archaeology"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/acacia_tool_rack",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/adamantite_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/andesite_warp_pad",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/baffledil",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/bamboo_tool_rack",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/basalt_warp_pad",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/birch_tool_rack",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/blackstone_warp_pad",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/brick_warp_pad",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/bricks_magic_engine",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/calcite_warp_pad",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/charybdis_core",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/cherry_tool_rack",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/chilled_slime_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/chiseled_high_quality_magic_crystal_bricks",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/chiseled_low_quality_magic_crystal_bricks",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/chiseled_medium_quality_magic_crystal_bricks",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/chiseled_sarasa_sandstone",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/crimson_tool_rack",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/cut_sarasa_sandstone",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/cut_sarasa_sandstone_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/dark_oak_tool_rack",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/deepslate_bricks_magic_engine",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/deepslate_magic_ore",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/deepslate_silver_ore",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/deepslate_warp_pad",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/diorite_warp_pad",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/end_stone_bricks_magic_engine",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/end_stone_warp_pad",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/granite_warp_pad",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/high_magisteel_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/high_quality_magic_crystal_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/high_quality_magic_crystal_brick_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/high_quality_magic_crystal_brick_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/high_quality_magic_crystal_brick_wall",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/high_quality_magic_crystal_bricks",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/high_quality_magic_crystal_bricks_magic_engine",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/high_quality_magic_crystal_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/high_quality_magic_crystal_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/hihiirokane_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/hipokute_grass",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/jungle_tool_rack",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/kiln",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/kiln_mithril",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/kiln_orichalcum",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/loose_dirt",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/loose_gravel",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/low_magisteel_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/low_quality_magic_crystal_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/low_quality_magic_crystal_brick_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/low_quality_magic_crystal_brick_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/low_quality_magic_crystal_brick_wall",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/low_quality_magic_crystal_bricks",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/low_quality_magic_crystal_bricks_magic_engine",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/low_quality_magic_crystal_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/low_quality_magic_crystal_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/magic_ore",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/magic_ore_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/mangrove_tool_rack",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/medium_quality_magic_crystal_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/medium_quality_magic_crystal_brick_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/medium_quality_magic_crystal_brick_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/medium_quality_magic_crystal_brick_wall",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/medium_quality_magic_crystal_bricks",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/medium_quality_magic_crystal_bricks_magic_engine",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/medium_quality_magic_crystal_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/meidum_quality_magic_crystal_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/mining_station",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/mithril_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/moth_egg",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/mud_bricks_magic_engine",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/nether_brick_warp_pad",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/nether_bricks_magic_engine",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/oak_tool_rack",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/orc_disaster_head",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/orichalcum_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/packed_mud_warp_pad",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/palm_button",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/palm_door",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/palm_fence",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/palm_fence_gate",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/palm_hanging_sign",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/palm_leaves",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/palm_log",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/palm_planks",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/palm_pressure_plate",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/palm_sapling",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/palm_sign",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/palm_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/palm_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/palm_tool_rack",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/palm_trapdoor",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/palm_wall_hanging_sign",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/palm_wall_sign",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/palm_wood",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/polished_blackstone_bricks_magic_engine",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/potted_baffledil",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/potted_hipokute_flower",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/potted_palm_sapling",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/prismarine_brick_warp_pad",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/prismarine_bricks_magic_engine",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/pure_magisteel_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/purpur_bricks_magic_engine",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/purpur_warp_pad",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/quartz_bricks_magic_engine",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/quartz_warp_pad",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/quickmud",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/quicksand",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/raw_silver_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/red_nether_brick_warp_pad",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/red_nether_bricks_magic_engine",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/red_quicksand",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/red_sandstone_warp_pad",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/sandstone_warp_pad",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/sarasa_quicksand",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/sarasa_sand",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/sarasa_sandstone",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/sarasa_sandstone_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/sarasa_sandstone_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/sarasa_sandstone_wall",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/sarasa_sandstone_warp_pad",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/silver_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/silver_ore",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/single_tatami_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/single_tatami_carpet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/slime_chunk_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/smithing_bench",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/smooth_sarasa_sandstone",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/smooth_sarasa_sandstone_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/smooth_sarasa_sandstone_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/spellbinding_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/spider_egg",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/spruce_tool_rack",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/stone_bricks_magic_engine",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/stone_warp_pad",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/stripped_palm_log",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/stripped_palm_wood",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/tatami_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/tatami_carpet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/thatch_bed",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/thatch_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/thatch_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/thatch_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/thatch_wall",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/training_dummy",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/tuff_bricks_magic_engine",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/tuff_warp_pad",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/warped_tool_rack",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/web_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/web_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/web_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/webbed_cobblestone",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/webbed_cobblestone_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/webbed_cobblestone_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/webbed_cobblestone_wall",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/webbed_stone_brick_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/webbed_stone_brick_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/webbed_stone_brick_wall",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/webbed_stone_bricks",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blocks/woodcutter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:chests/acacia_goblin_village",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:chests/birch_goblin_village",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:chests/buried_wizard_tower",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:chests/burnt_wizard_tower",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:chests/dwarf_dojo",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:chests/dwarf_farm",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:chests/dwarf_fisherman",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:chests/dwarf_guard",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:chests/dwarf_home",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:chests/dwarf_library",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:chests/dwarf_lumberjack",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:chests/dwarf_magic_trainer",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:chests/dwarf_market",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:chests/dwarf_merchant",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:chests/dwarf_royal_tower",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:chests/dwarf_smithy",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:chests/frozen_wizard_tower",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:chests/goblin_tower",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:chests/hell_ruins",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:chests/jungle_goblin_village",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:chests/lizardman_bedroom",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:chests/lizardman_jail",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:chests/lizardman_mess_hall",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:chests/lizardman_smithy",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:chests/lizardman_storage",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:chests/lizardman_throne",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:chests/lizardman_tower",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:chests/oak_goblin_village",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:chests/orc_storage",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:chests/orc_tent",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:chests/palm_goblin_village",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:chests/rotted_wizard_tower",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:chests/ruined_wizard_tower",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:chests/spider_nest",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:chests/spruce_goblin_village",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/akash",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/aqua_frog",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/arch_daemon",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/armorsaurus",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/army_wasp",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/barghest",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/basilisk",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/beast_gnome",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/black_spider",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/blade_tiger",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/bone_golem",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/cattledeer",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/charybdis",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/clone",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/direwolf",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/dragon_peacock",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/dwarf",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/elemental_colossus",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/evil_centipede",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/falmuth_knight",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/feathered_serpent",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/folgen",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/gazel_dwargo",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/giant_ant",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/giant_bat",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/giant_bear",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/giant_cod",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/giant_salmon",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/goblin",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/greater_daemon",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/hell_caterpillar",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/hell_moth",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/hinata_sakaguchi",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/horned_bear",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/horned_rabbit",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/hound_dog",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/hover_lizard",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/ifrit",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/ifrit_clone",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/kirara_mizutani",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/knight_spider",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/kyoya_tachibana",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/landfish",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/leech_lizard",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/lesser_daemon",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/lizardman",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/mai_furuki",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/mark_lauren",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/megalodon",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/metal_slime",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/one_eyed_owl",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/orc",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/orc_disaster",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/orc_lord",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/pegacorn",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/pegasus",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/phantaspore",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/salamander",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/shin_ryusei",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/shinji_tanimura",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/shizu",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/shogo_taguchi",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/sissie",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/skeleton",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/slime",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/spear_toro",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/supermassive_slime",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/sylphide",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/tempest_serpent",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/training_dummy",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/undine",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/unicorn",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/war_gnome",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/winged_cat",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entities/zombie",
+			"data": {
+				"Type": "entity"
+			}
+		}
+	]
+}

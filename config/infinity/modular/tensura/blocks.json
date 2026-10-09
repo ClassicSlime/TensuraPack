@@ -1,0 +1,2345 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "tensura:acacia_tool_rack",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:adamantite_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:andesite_warp_pad",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:baffledil",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:bamboo_tool_rack",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:basalt_warp_pad",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:birch_tool_rack",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:black_fire",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blackstone_warp_pad",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:brick_warp_pad",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:bricks_magic_engine",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:calcite_warp_pad",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:charybdis_core",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cherry_tool_rack",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:chilled_slime_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:chiseled_high_quality_magic_crystal_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:chiseled_low_quality_magic_crystal_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:chiseled_medium_quality_magic_crystal_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:chiseled_sarasa_sandstone",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cream_labyrinth_brick_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cream_labyrinth_brick_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cream_labyrinth_brick_warp_pad",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cream_labyrinth_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cream_labyrinth_bricks_bl",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cream_labyrinth_bricks_br",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cream_labyrinth_bricks_magic_engine",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cream_labyrinth_bricks_tl",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cream_labyrinth_bricks_tr",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cream_labyrinth_stone",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cream_labyrinth_stone_bl",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cream_labyrinth_stone_br",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cream_labyrinth_stone_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cream_labyrinth_stone_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cream_labyrinth_stone_tl",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cream_labyrinth_stone_tr",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:crimson_tool_rack",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cut_sarasa_sandstone",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cut_sarasa_sandstone_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dark_labyrinth_brick_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dark_labyrinth_brick_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dark_labyrinth_brick_warp_pad",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dark_labyrinth_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dark_labyrinth_bricks_bl",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dark_labyrinth_bricks_br",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dark_labyrinth_bricks_magic_engine",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dark_labyrinth_bricks_tl",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dark_labyrinth_bricks_tr",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dark_labyrinth_stone",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dark_labyrinth_stone_bl",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dark_labyrinth_stone_br",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dark_labyrinth_stone_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dark_labyrinth_stone_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dark_labyrinth_stone_tl",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dark_labyrinth_stone_tr",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dark_oak_tool_rack",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:deepslate_bricks_magic_engine",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:deepslate_magic_ore",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:deepslate_silver_ore",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:deepslate_warp_pad",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:diorite_warp_pad",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:end_stone_bricks_magic_engine",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:end_stone_warp_pad",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:granite_warp_pad",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:hell_portal",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:high_magisteel_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:high_quality_magic_crystal_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:high_quality_magic_crystal_brick_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:high_quality_magic_crystal_brick_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:high_quality_magic_crystal_brick_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:high_quality_magic_crystal_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:high_quality_magic_crystal_bricks_magic_engine",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:high_quality_magic_crystal_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:high_quality_magic_crystal_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:hihiirokane_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:hipokute_grass",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:jungle_tool_rack",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:kiln",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:kiln_mithril",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:kiln_orichalcum",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_barrier_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_brick_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_brick_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_brick_warp_pad",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_bricks_bl",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_bricks_br",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_bricks_magic_engine",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_bricks_tl",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_bricks_tr",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_crystal",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_lamp",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_lamp_bl",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_lamp_br",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_lamp_tl",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_lamp_tr",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_light_path",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_light_path_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_light_path_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_lit_lamp",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_lit_lamp_bl",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_lit_lamp_br",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_lit_lamp_tl",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_lit_lamp_tr",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_portal",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_praying_path",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_stone",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_stone_bl",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_stone_br",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_stone_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_stone_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_stone_tl",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_stone_tr",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:light_air",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:loose_dirt",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:loose_gravel",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:low_magisteel_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:low_quality_magic_crystal_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:low_quality_magic_crystal_brick_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:low_quality_magic_crystal_brick_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:low_quality_magic_crystal_brick_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:low_quality_magic_crystal_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:low_quality_magic_crystal_bricks_magic_engine",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:low_quality_magic_crystal_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:low_quality_magic_crystal_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:magic_ore",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:magic_ore_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:mangrove_tool_rack",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:medium_quality_magic_crystal_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:medium_quality_magic_crystal_brick_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:medium_quality_magic_crystal_brick_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:medium_quality_magic_crystal_brick_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:medium_quality_magic_crystal_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:medium_quality_magic_crystal_bricks_magic_engine",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:medium_quality_magic_crystal_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:meidum_quality_magic_crystal_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:mining_station",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:mithril_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:moth_egg",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:mud_bricks_magic_engine",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:nether_brick_warp_pad",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:nether_bricks_magic_engine",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:oak_tool_rack",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:orc_disaster_head",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:orichalcum_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:packed_mud_warp_pad",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:palm_button",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:palm_door",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:palm_fence",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:palm_fence_gate",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:palm_hanging_sign",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:palm_leaves",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"persistent": "true"
+				},
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:palm_log",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:palm_planks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:palm_pressure_plate",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:palm_sapling",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:palm_sign",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:palm_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:palm_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:palm_tool_rack",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:palm_trapdoor",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:palm_wall_hanging_sign",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:palm_wall_sign",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:palm_wood",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:polished_blackstone_bricks_magic_engine",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:potted_baffledil",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:potted_hipokute_flower",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:potted_palm_sapling",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:prismarine_brick_warp_pad",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:prismarine_bricks_magic_engine",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:pure_magisteel_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:purpur_bricks_magic_engine",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:purpur_warp_pad",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:quartz_bricks_magic_engine",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:quartz_warp_pad",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:quickmud",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:quicksand",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:raw_silver_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:red_nether_brick_warp_pad",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:red_nether_bricks_magic_engine",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:red_quicksand",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:red_sandstone_warp_pad",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:royal_dwarven_warp_pad",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:sandstone_warp_pad",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:sarasa_quicksand",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:sarasa_sand",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:sarasa_sandstone",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:sarasa_sandstone_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:sarasa_sandstone_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:sarasa_sandstone_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:sarasa_sandstone_warp_pad",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:silver_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:silver_ore",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:single_tatami_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:single_tatami_carpet",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:slime_chunk_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:smithing_bench",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:smooth_sarasa_sandstone",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:smooth_sarasa_sandstone_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:smooth_sarasa_sandstone_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:solid_space",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:spellbinding_table",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:spider_egg",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:spruce_tool_rack",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:sticky_cobweb",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"persistent": "true"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:sticky_steel_cobweb",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"Properties": {
+					"persistent": "true"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:stone_bricks_magic_engine",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:stone_warp_pad",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:stripped_palm_log",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:stripped_palm_wood",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:tatami_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:tatami_carpet",
+			"data": {
+				"float": false,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:thatch_bed",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:thatch_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:thatch_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:thatch_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:thatch_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:training_dummy",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:tuff_bricks_magic_engine",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:tuff_warp_pad",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:warped_tool_rack",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:web_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:web_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:web_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:webbed_cobblestone",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:webbed_cobblestone_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:webbed_cobblestone_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:webbed_cobblestone_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:webbed_stone_brick_slab",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:webbed_stone_brick_stairs",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:webbed_stone_brick_wall",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:webbed_stone_bricks",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:woodcutter",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		}
+	]
+}

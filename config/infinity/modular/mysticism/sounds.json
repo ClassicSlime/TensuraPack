@@ -1,0 +1,52 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "mysticism:skill.bullet"
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:skill.bullet_punch"
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:skill.butcher_gui_confirm"
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:skill.butcher_stab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:skill.clangorous_soul"
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:skill.counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:skill.dispenser_heal"
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:skill.eye_of_insight"
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:skill.lightning_mode"
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:skill.missile_shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:skill.scythe_slash"
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:skill.sentry_shoot"
+		}
+	]
+}

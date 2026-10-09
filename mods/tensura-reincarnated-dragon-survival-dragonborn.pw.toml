@@ -1,0 +1,13 @@
+name = "Tensura: Reincarnated  & Dragon Survival & Dragonborn"
+filename = "dstensuracompat-1.21.1-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8554f33bd339272ac2cf8e8e7ab245cd175628aa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8748395
+project-id = 1668041

@@ -1,0 +1,22 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "troverhaul:mirror_absorption",
+			"data": {
+				"Instant": false,
+				"Color": 12578815,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "troverhaul:mirror_illusion",
+			"data": {
+				"Instant": false,
+				"Color": 9399295,
+				"Category": "harmful"
+			}
+		}
+	]
+}

@@ -1,0 +1,310 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "mysticism:aura_healing",
+			"data": {
+				"Instant": false,
+				"Color": -2213832,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:awakened_foresight",
+			"data": {
+				"Instant": false,
+				"Color": -10941826,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:brimstone_flames",
+			"data": {
+				"Instant": false,
+				"Color": -3040465,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:collective",
+			"data": {
+				"Instant": false,
+				"Color": -19200,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:constant_destruction",
+			"data": {
+				"Instant": false,
+				"Color": -16762824,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:constant_energy",
+			"data": {
+				"Instant": false,
+				"Color": -16762824,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:constant_energy_debuff",
+			"data": {
+				"Instant": false,
+				"Color": -16762824,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:constant_health",
+			"data": {
+				"Instant": false,
+				"Color": -16762824,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:countering",
+			"data": {
+				"Instant": false,
+				"Color": 16777215,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:cultivating",
+			"data": {
+				"Instant": false,
+				"Color": 30000000,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:dazzled",
+			"data": {
+				"Instant": false,
+				"Color": -19200,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:dragon_burn",
+			"data": {
+				"Instant": false,
+				"Color": -7400428,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:enkidu",
+			"data": {
+				"Instant": false,
+				"Color": -9435899,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:eternal_permafrost",
+			"data": {
+				"Instant": false,
+				"Color": -8856321,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:fixation",
+			"data": {
+				"Instant": false,
+				"Color": -15120641,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:gravity_fluctuation",
+			"data": {
+				"Instant": false,
+				"Color": -6938881,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:imbalanced",
+			"data": {
+				"Instant": false,
+				"Color": 16777215,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:intangible",
+			"data": {
+				"Instant": false,
+				"Color": 30000000,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:lightning_mode",
+			"data": {
+				"Instant": false,
+				"Color": -19200,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:marked_for_death",
+			"data": {
+				"Instant": false,
+				"Color": -19200,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:pay_it_forward",
+			"data": {
+				"Instant": false,
+				"Color": -19200,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:pressure",
+			"data": {
+				"Instant": false,
+				"Color": -10941826,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:provider_boost",
+			"data": {
+				"Instant": false,
+				"Color": -19200,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:reducer_holy_coat",
+			"data": {
+				"Instant": false,
+				"Color": -1,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:reducer_purity_edge",
+			"data": {
+				"Instant": false,
+				"Color": -1,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:revenants_horror",
+			"data": {
+				"Instant": false,
+				"Color": -10941826,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:rupturing",
+			"data": {
+				"Instant": false,
+				"Color": -60416,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:sanctifying_light",
+			"data": {
+				"Instant": false,
+				"Color": -3631490,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:severed_arm",
+			"data": {
+				"Instant": false,
+				"Color": -30000000,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:severed_leg",
+			"data": {
+				"Instant": false,
+				"Color": -30000000,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:stagnate",
+			"data": {
+				"Instant": false,
+				"Color": -19200,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:stillness",
+			"data": {
+				"Instant": false,
+				"Color": -10941826,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:tailed_beast_cloak",
+			"data": {
+				"Instant": false,
+				"Color": -32256,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:unstable_requiem",
+			"data": {
+				"Instant": false,
+				"Color": -19200,
+				"Category": "beneficial"
+			}
+		}
+	]
+}

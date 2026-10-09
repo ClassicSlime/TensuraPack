@@ -1,0 +1,13 @@
+name = "SauceLib"
+filename = "sauce-1.21.1-0.0.62.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "310247adbb5fbc62c1a4fb886df5165628fe489b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9059314
+project-id = 1453853

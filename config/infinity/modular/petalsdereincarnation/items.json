@@ -1,0 +1,296 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:blood_axe_tier_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:blood_axe_tier_10"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:blood_axe_tier_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:blood_axe_tier_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:blood_axe_tier_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:blood_axe_tier_5"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:blood_axe_tier_6"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:blood_axe_tier_7"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:blood_axe_tier_8"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:blood_axe_tier_9"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:branch_of_reincarnation"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:enigma_mark"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:grand_silver_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:grand_silver_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:greatkind_plan"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:humanoid_flesh"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:insecticide"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:instrument_of_hell"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:japanese_grenade"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:japanese_rifle"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:lunatic_cleaver"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:maingauche_testament_rapier_maingauche"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:mg34"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:otherworlder_albert_einstein_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:otherworlder_albert_hamilton_fish_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:otherworlder_gaius_julius_caesar_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:otherworlder_hans_driesch_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:otherworlder_hans_ulrich_rudel_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:otherworlder_hiroshi_funasaka_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:otherworlder_pol_pot_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:shield_testament_lance_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:simo_hayha_magazine"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:simo_hayha_rifle"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:testament_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:testament_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:testament_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:testament_claymore"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:testament_dagger"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:testament_executioner"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:testament_five_fire_lance"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:testament_flail"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:testament_flamethrower"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:testament_glaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:testament_greatsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:testament_halberd"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:testament_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:testament_javelin"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:testament_jousting_lance"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:testament_jumonji_yari"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:testament_katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:testament_lance_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:testament_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:testament_longbow"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:testament_longsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:testament_morningstar"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:testament_naginata"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:testament_nodachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:testament_pavois"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:testament_rapier"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:testament_rapier_maingauche"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:testament_ribaudequin"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:testament_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:testament_shotel"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:testament_sickle"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:testament_swordbreaker"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:testament_tomahawk"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:testament_tonfa"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:them_bleed_weapon"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:them_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:them_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:them_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:them_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation:them_slow_weapon"
+		}
+	]
+}

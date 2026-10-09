@@ -1,0 +1,98 @@
+#Dragon Speed Config: per-dragon speed multiplier + shared vertical flight settings.
+[Flight]
+	#Ascend key (jump) climb speed, as a ratio of the dragon's own max horizontal air speed.
+	# Default: 0.5
+	# Range: 0.05 ~ 3.0
+	flight_climb_speed_ratio = 0.5
+	#Descend key (sneak) dive speed, as a ratio of the dragon's own max horizontal air speed.
+	# Default: 0.6
+	# Range: 0.05 ~ 3.0
+	flight_descent_speed_ratio = 0.6
+	#Speed bonus while the rider holds the dragon-sprint key and moves forward.
+	# Default: 1.4
+	# Range: 1.0 ~ 5.0
+	flight_sprint_multiplier = 1.4
+
+["Night Fury"]
+	#Overall speed multiplier (flying, walking, climbing and diving). 1.0 = vanilla behavior.
+	# Default: 1.0
+	# Range: 0.1 ~ 5.0
+	night_fury_speed_multiplier = 1.0
+
+["Light Fury"]
+	#Overall speed multiplier (flying, walking, climbing and diving). 1.0 = vanilla behavior.
+	# Default: 1.0
+	# Range: 0.1 ~ 5.0
+	light_fury_speed_multiplier = 1.0
+
+["Night Light"]
+	#Overall speed multiplier (flying, walking, climbing and diving). 1.0 = vanilla behavior.
+	# Default: 1.0
+	# Range: 0.1 ~ 5.0
+	night_light_speed_multiplier = 1.0
+
+["Triple Stryke"]
+	#Overall speed multiplier (flying, walking, climbing and diving). 1.0 = vanilla behavior.
+	# Default: 1.0
+	# Range: 0.1 ~ 5.0
+	triple_stryke_speed_multiplier = 1.0
+
+[Skrill]
+	#Overall speed multiplier (flying, walking, climbing and diving). 1.0 = vanilla behavior.
+	# Default: 1.0
+	# Range: 0.1 ~ 5.0
+	skrill_speed_multiplier = 1.0
+
+["Deadly Nadder"]
+	#Overall speed multiplier (flying, walking, climbing and diving). 1.0 = vanilla behavior.
+	# Default: 1.0
+	# Range: 0.1 ~ 5.0
+	deadly_nadder_speed_multiplier = 1.0
+
+[Gronckle]
+	#Overall speed multiplier (flying, walking, climbing and diving). 1.0 = vanilla behavior.
+	# Default: 1.0
+	# Range: 0.1 ~ 5.0
+	gronckle_speed_multiplier = 1.0
+
+["Monstrous Nightmare"]
+	#Overall speed multiplier (flying, walking, climbing and diving). 1.0 = vanilla behavior.
+	# Default: 1.0
+	# Range: 0.1 ~ 5.0
+	nightmare_speed_multiplier = 1.0
+
+[Stormcutter]
+	#Overall speed multiplier (flying, walking, climbing and diving). 1.0 = vanilla behavior.
+	# Default: 1.0
+	# Range: 0.1 ~ 5.0
+	stormcutter_speed_multiplier = 1.0
+
+[Zippleback]
+	#Overall speed multiplier (flying, walking, climbing and diving). 1.0 = vanilla behavior.
+	# Default: 1.0
+	# Range: 0.1 ~ 5.0
+	zippleback_speed_multiplier = 1.0
+
+["Speed Stinger"]
+	#Overall speed multiplier (flying, walking, climbing and diving). 1.0 = vanilla behavior.
+	# Default: 1.0
+	# Range: 0.1 ~ 5.0
+	speed_stinger_speed_multiplier = 1.0
+
+["Speed Stinger Leader"]
+	#Overall speed multiplier (flying, walking, climbing and diving). 1.0 = vanilla behavior.
+	# Default: 1.0
+	# Range: 0.1 ~ 5.0
+	speed_stinger_leader_speed_multiplier = 1.0
+
+[Stinger]
+	#Overall speed multiplier (flying, walking, climbing and diving). 1.0 = vanilla behavior.
+	# Default: 1.0
+	# Range: 0.1 ~ 5.0
+	stinger_speed_multiplier = 1.0
+
+["Terrible Terror"]
+	#Overall speed multiplier (flying, walking, climbing and diving). 1.0 = vanilla behavior.
+	# Default: 1.0
+	# Range: 0.1 ~ 5.0
+	terrible_terror_speed_multiplier = 1.0

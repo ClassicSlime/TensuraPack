@@ -1,0 +1,13 @@
+name = "Primordial Ascent"
+filename = "PrimordialAscent-1.21.1-0.2.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "178dfc156153646d80d8aa222cf81192b54d203e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8649376
+project-id = 1547505

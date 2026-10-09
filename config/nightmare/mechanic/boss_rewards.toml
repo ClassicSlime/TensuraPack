@@ -1,0 +1,321 @@
+	[boss_rewards.sentient_boss_gii_crimson]
+		#If true, this boss grants EP rewards using baseEpReward.
+		grantEpReward = true
+		#Base EP reward used for aura/magicule rewards when this boss dies.
+		# Default: 6666666
+		# Range: > 0
+		baseEpReward = 6666666
+		#Item drop entries: modid:item,min,max,chance
+		itemDrops = ["tensura:daemon_essence,1,3,1.0", "trnightmare:elder_essence,1,1,0.5"]
+		#Skill drop entries: modid:skill or modid:skill,chance. If chance is omitted, the Tensura otherworlder skill drop setting is used.
+		skillDrops = ["tensura:pride"]
+		#Magic tome pool entries: skill1;skill2;skill3 or chance;skill1;skill2;skill3. One random skill from the pool becomes a tome if the entry succeeds.
+		magicTomePools = ["tensura:fire_storm;tensura:icicle_rain;tensura:thunder_orb;tensura:tornado_blade;tensura:recovery;tensura:sleep_mist;tensura:freeze;tensura:magic_resistance;tensura:possession;tensura:ice_breaker;tensura:dimensional_cutter;tensura:full_recovery;tensura:fire_lance;tensura:ice_blizzard;tensura:thunder_rain;tensura:wind_gust"]
+
+	[boss_rewards.sentient_boss_ancient_daemon]
+		#If true, this boss grants EP rewards using baseEpReward.
+		grantEpReward = true
+		#Base EP reward used for aura/magicule rewards when this boss dies.
+		# Default: 850000
+		# Range: > 0
+		baseEpReward = 850000
+		#Item drop entries: modid:item,min,max,chance
+		itemDrops = ["tensura:daemon_essence,1,3,1.0"]
+		#Skill drop entries: modid:skill or modid:skill,chance. If chance is omitted, the Tensura otherworlder skill drop setting is used.
+		skillDrops = []
+		#Magic tome pool entries: skill1;skill2;skill3 or chance;skill1;skill2;skill3. One random skill from the pool becomes a tome if the entry succeeds.
+		magicTomePools = ["tensura:fire_storm;tensura:icicle_rain;tensura:thunder_orb;tensura:tornado_blade;tensura:recovery;tensura:sleep_mist;tensura:freeze;tensura:magic_resistance;tensura:possession;tensura:ice_breaker;tensura:dimensional_cutter;tensura:full_recovery;tensura:fire_lance;tensura:ice_blizzard;tensura:thunder_rain;tensura:wind_gust"]
+
+	[boss_rewards.sentient_boss_primordial_daemon]
+		#If true, this boss grants EP rewards using baseEpReward.
+		grantEpReward = true
+		#Base EP reward used for aura/magicule rewards when this boss dies.
+		# Default: 6666666
+		# Range: > 0
+		baseEpReward = 6666666
+		#Item drop entries: modid:item,min,max,chance
+		itemDrops = ["tensura:daemon_essence,1,3,1.0", "trnightmare:elder_essence,1,1,0.5"]
+		#Skill drop entries: modid:skill or modid:skill,chance. If chance is omitted, the Tensura otherworlder skill drop setting is used.
+		skillDrops = []
+		#Magic tome pool entries: skill1;skill2;skill3 or chance;skill1;skill2;skill3. One random skill from the pool becomes a tome if the entry succeeds.
+		magicTomePools = ["tensura:fire_storm;tensura:icicle_rain;tensura:thunder_orb;tensura:tornado_blade;tensura:recovery;tensura:sleep_mist;tensura:freeze;tensura:magic_resistance;tensura:possession;tensura:ice_breaker;tensura:dimensional_cutter;tensura:full_recovery;tensura:fire_lance;tensura:ice_blizzard;tensura:thunder_rain;tensura:wind_gust"]
+
+	[boss_rewards.sentient_boss_vert]
+		#If true, this boss grants EP rewards using baseEpReward.
+		grantEpReward = false
+		#Base EP reward used for aura/magicule rewards when this boss dies.
+		# Default: 0
+		# Range: > 0
+		baseEpReward = 0
+		#Item drop entries: modid:item,min,max,chance
+		itemDrops = []
+		#Skill drop entries: modid:skill or modid:skill,chance. If chance is omitted, the Tensura otherworlder skill drop setting is used.
+		skillDrops = []
+		#Magic tome pool entries: skill1;skill2;skill3 or chance;skill1;skill2;skill3. One random skill from the pool becomes a tome if the entry succeeds.
+		magicTomePools = []
+
+	[boss_rewards.sentient_boss_bleu]
+		#If true, this boss grants EP rewards using baseEpReward.
+		grantEpReward = false
+		#Base EP reward used for aura/magicule rewards when this boss dies.
+		# Default: 0
+		# Range: > 0
+		baseEpReward = 0
+		#Item drop entries: modid:item,min,max,chance
+		itemDrops = []
+		#Skill drop entries: modid:skill or modid:skill,chance. If chance is omitted, the Tensura otherworlder skill drop setting is used.
+		skillDrops = []
+		#Magic tome pool entries: skill1;skill2;skill3 or chance;skill1;skill2;skill3. One random skill from the pool becomes a tome if the entry succeeds.
+		magicTomePools = []
+
+	[boss_rewards.sentient_boss_jaune]
+		#If true, this boss grants EP rewards using baseEpReward.
+		grantEpReward = false
+		#Base EP reward used for aura/magicule rewards when this boss dies.
+		# Default: 0
+		# Range: > 0
+		baseEpReward = 0
+		#Item drop entries: modid:item,min,max,chance
+		itemDrops = []
+		#Skill drop entries: modid:skill or modid:skill,chance. If chance is omitted, the Tensura otherworlder skill drop setting is used.
+		skillDrops = []
+		#Magic tome pool entries: skill1;skill2;skill3 or chance;skill1;skill2;skill3. One random skill from the pool becomes a tome if the entry succeeds.
+		magicTomePools = []
+
+	[boss_rewards.sentient_boss_blanc]
+		#If true, this boss grants EP rewards using baseEpReward.
+		grantEpReward = false
+		#Base EP reward used for aura/magicule rewards when this boss dies.
+		# Default: 0
+		# Range: > 0
+		baseEpReward = 0
+		#Item drop entries: modid:item,min,max,chance
+		itemDrops = []
+		#Skill drop entries: modid:skill or modid:skill,chance. If chance is omitted, the Tensura otherworlder skill drop setting is used.
+		skillDrops = []
+		#Magic tome pool entries: skill1;skill2;skill3 or chance;skill1;skill2;skill3. One random skill from the pool becomes a tome if the entry succeeds.
+		magicTomePools = []
+
+	[boss_rewards.sentient_boss_violet]
+		#If true, this boss grants EP rewards using baseEpReward.
+		grantEpReward = false
+		#Base EP reward used for aura/magicule rewards when this boss dies.
+		# Default: 0
+		# Range: > 0
+		baseEpReward = 0
+		#Item drop entries: modid:item,min,max,chance
+		itemDrops = []
+		#Skill drop entries: modid:skill or modid:skill,chance. If chance is omitted, the Tensura otherworlder skill drop setting is used.
+		skillDrops = []
+		#Magic tome pool entries: skill1;skill2;skill3 or chance;skill1;skill2;skill3. One random skill from the pool becomes a tome if the entry succeeds.
+		magicTomePools = []
+
+	[boss_rewards.sentient_boss_noir]
+		#If true, this boss grants EP rewards using baseEpReward.
+		grantEpReward = false
+		#Base EP reward used for aura/magicule rewards when this boss dies.
+		# Default: 0
+		# Range: > 0
+		baseEpReward = 0
+		#Item drop entries: modid:item,min,max,chance
+		itemDrops = []
+		#Skill drop entries: modid:skill or modid:skill,chance. If chance is omitted, the Tensura otherworlder skill drop setting is used.
+		skillDrops = []
+		#Magic tome pool entries: skill1;skill2;skill3 or chance;skill1;skill2;skill3. One random skill from the pool becomes a tome if the entry succeeds.
+		magicTomePools = []
+
+	[boss_rewards.sentient_boss_milim_wrath]
+		#If true, this boss grants EP rewards using baseEpReward.
+		grantEpReward = true
+		#Base EP reward used for aura/magicule rewards when this boss dies.
+		# Default: 7000000
+		# Range: > 0
+		baseEpReward = 7000000
+		#Item drop entries: modid:item,min,max,chance
+		itemDrops = ["tensura:dragon_essence,1,3,0.5", "trnightmare:elder_essence,1,1,0.45"]
+		#Skill drop entries: modid:skill or modid:skill,chance. If chance is omitted, the Tensura otherworlder skill drop setting is used.
+		skillDrops = ["tensura:wrath"]
+		#Magic tome pool entries: skill1;skill2;skill3 or chance;skill1;skill2;skill3. One random skill from the pool becomes a tome if the entry succeeds.
+		magicTomePools = []
+
+	[boss_rewards.sentient_boss_yuuki_desire]
+		#If true, this boss grants EP rewards using baseEpReward.
+		grantEpReward = true
+		#Base EP reward used for aura/magicule rewards when this boss dies.
+		# Default: 2100000
+		# Range: > 0
+		baseEpReward = 2100000
+		#Item drop entries: modid:item,min,max,chance
+		itemDrops = []
+		#Skill drop entries: modid:skill or modid:skill,chance. If chance is omitted, the Tensura otherworlder skill drop setting is used.
+		skillDrops = ["tensura:creator"]
+		#Magic tome pool entries: skill1;skill2;skill3 or chance;skill1;skill2;skill3. One random skill from the pool becomes a tome if the entry succeeds.
+		magicTomePools = []
+
+	[boss_rewards.sentient_boss_frey]
+		#If true, this boss grants EP rewards using baseEpReward.
+		grantEpReward = false
+		#Base EP reward used for aura/magicule rewards when this boss dies.
+		# Default: 1800000
+		# Range: > 0
+		baseEpReward = 1800000
+		#Item drop entries: modid:item,min,max,chance
+		itemDrops = []
+		#Skill drop entries: modid:skill or modid:skill,chance. If chance is omitted, the Tensura otherworlder skill drop setting is used.
+		skillDrops = ["tensura:reflector"]
+		#Magic tome pool entries: skill1;skill2;skill3 or chance;skill1;skill2;skill3. One random skill from the pool becomes a tome if the entry succeeds.
+		magicTomePools = []
+
+	[boss_rewards.sentient_boss_kokuyou]
+		#If true, this boss grants EP rewards using baseEpReward.
+		grantEpReward = false
+		#Base EP reward used for aura/magicule rewards when this boss dies.
+		# Default: 0
+		# Range: > 0
+		baseEpReward = 0
+		#Item drop entries: modid:item,min,max,chance
+		itemDrops = []
+		#Skill drop entries: modid:skill or modid:skill,chance. If chance is omitted, the Tensura otherworlder skill drop setting is used.
+		skillDrops = []
+		#Magic tome pool entries: skill1;skill2;skill3 or chance;skill1;skill2;skill3. One random skill from the pool becomes a tome if the entry succeeds.
+		magicTomePools = []
+
+	[boss_rewards.sentient_boss_masayuuki]
+		#If true, this boss grants EP rewards using baseEpReward.
+		grantEpReward = false
+		#Base EP reward used for aura/magicule rewards when this boss dies.
+		# Default: 10000000
+		# Range: > 0
+		baseEpReward = 10000000
+		#Item drop entries: modid:item,min,max,chance
+		itemDrops = ["trnightmare:holy_essence,2,10,0.5"]
+		#Skill drop entries: modid:skill or modid:skill,chance. If chance is omitted, the Tensura otherworlder skill drop setting is used.
+		skillDrops = ["tensura:absolute_severance"]
+		#Magic tome pool entries: skill1;skill2;skill3 or chance;skill1;skill2;skill3. One random skill from the pool becomes a tome if the entry succeeds.
+		magicTomePools = []
+
+	[boss_rewards.sentient_boss_mariabell_rosso]
+		#If true, this boss grants EP rewards using baseEpReward.
+		grantEpReward = false
+		#Base EP reward used for aura/magicule rewards when this boss dies.
+		# Default: 1400000
+		# Range: > 0
+		baseEpReward = 1400000
+		#Item drop entries: modid:item,min,max,chance
+		itemDrops = []
+		#Skill drop entries: modid:skill or modid:skill,chance. If chance is omitted, the Tensura otherworlder skill drop setting is used.
+		skillDrops = ["tensura:greed"]
+		#Magic tome pool entries: skill1;skill2;skill3 or chance;skill1;skill2;skill3. One random skill from the pool becomes a tome if the entry succeeds.
+		magicTomePools = []
+
+	[boss_rewards.sentient_boss_agera]
+		#If true, this boss grants EP rewards using baseEpReward.
+		grantEpReward = false
+		#Base EP reward used for aura/magicule rewards when this boss dies.
+		# Default: 600000
+		# Range: > 0
+		baseEpReward = 600000
+		#Item drop entries: modid:item,min,max,chance
+		itemDrops = ["tensura:daemon_essence,1,3,1.0", "trnightmare:elder_essence,1,1,0.05"]
+		#Skill drop entries: modid:skill or modid:skill,chance. If chance is omitted, the Tensura otherworlder skill drop setting is used.
+		skillDrops = []
+		#Magic tome pool entries: skill1;skill2;skill3 or chance;skill1;skill2;skill3. One random skill from the pool becomes a tome if the entry succeeds.
+		magicTomePools = []
+
+	[boss_rewards.sentient_boss_arios]
+		#If true, this boss grants EP rewards using baseEpReward.
+		grantEpReward = false
+		#Base EP reward used for aura/magicule rewards when this boss dies.
+		# Default: 400000
+		# Range: > 0
+		baseEpReward = 400000
+		#Item drop entries: modid:item,min,max,chance
+		itemDrops = []
+		#Skill drop entries: modid:skill or modid:skill,chance. If chance is omitted, the Tensura otherworlder skill drop setting is used.
+		skillDrops = []
+		#Magic tome pool entries: skill1;skill2;skill3 or chance;skill1;skill2;skill3. One random skill from the pool becomes a tome if the entry succeeds.
+		magicTomePools = []
+
+	[boss_rewards.sentient_boss_glenda]
+		#If true, this boss grants EP rewards using baseEpReward.
+		grantEpReward = false
+		#Base EP reward used for aura/magicule rewards when this boss dies.
+		# Default: 300000
+		# Range: > 0
+		baseEpReward = 300000
+		#Item drop entries: modid:item,min,max,chance
+		itemDrops = []
+		#Skill drop entries: modid:skill or modid:skill,chance. If chance is omitted, the Tensura otherworlder skill drop setting is used.
+		skillDrops = ["tensura:sniper"]
+		#Magic tome pool entries: skill1;skill2;skill3 or chance;skill1;skill2;skill3. One random skill from the pool becomes a tome if the entry succeeds.
+		magicTomePools = []
+
+	[boss_rewards.sentient_boss_lucius]
+		#If true, this boss grants EP rewards using baseEpReward.
+		grantEpReward = false
+		#Base EP reward used for aura/magicule rewards when this boss dies.
+		# Default: 200000
+		# Range: > 0
+		baseEpReward = 200000
+		#Item drop entries: modid:item,min,max,chance
+		itemDrops = []
+		#Skill drop entries: modid:skill or modid:skill,chance. If chance is omitted, the Tensura otherworlder skill drop setting is used.
+		skillDrops = ["tensura:fusionist"]
+		#Magic tome pool entries: skill1;skill2;skill3 or chance;skill1;skill2;skill3. One random skill from the pool becomes a tome if the entry succeeds.
+		magicTomePools = []
+
+	[boss_rewards.sentient_boss_raymond]
+		#If true, this boss grants EP rewards using baseEpReward.
+		grantEpReward = false
+		#Base EP reward used for aura/magicule rewards when this boss dies.
+		# Default: 200000
+		# Range: > 0
+		baseEpReward = 200000
+		#Item drop entries: modid:item,min,max,chance
+		itemDrops = []
+		#Skill drop entries: modid:skill or modid:skill,chance. If chance is omitted, the Tensura otherworlder skill drop setting is used.
+		skillDrops = ["tensura:fighter"]
+		#Magic tome pool entries: skill1;skill2;skill3 or chance;skill1;skill2;skill3. One random skill from the pool becomes a tome if the entry succeeds.
+		magicTomePools = []
+
+	[boss_rewards.sentient_boss_veldora]
+		#If true, this boss grants EP rewards using baseEpReward.
+		grantEpReward = true
+		#Base EP reward used for aura/magicule rewards when this boss dies.
+		# Default: 30000000
+		# Range: > 0
+		baseEpReward = 30000000
+		#Item drop entries: modid:item,min,max,chance
+		itemDrops = ["tensura:dragon_essence,3,13,0.5", "trnightmare:elder_essence,1,1,0.8", "mysticism:lightning_essence,3,10,0.75"]
+		#Skill drop entries: modid:skill or modid:skill,chance. If chance is omitted, the Tensura otherworlder skill drop setting is used.
+		skillDrops = ["trnightmare:investigator"]
+		#Magic tome pool entries: skill1;skill2;skill3 or chance;skill1;skill2;skill3. One random skill from the pool becomes a tome if the entry succeeds.
+		magicTomePools = []
+
+	[boss_rewards.sentient_boss_velzard]
+		#If true, this boss grants EP rewards using baseEpReward.
+		grantEpReward = true
+		#Base EP reward used for aura/magicule rewards when this boss dies.
+		# Default: 30000000
+		# Range: > 0
+		baseEpReward = 30000000
+		#Item drop entries: modid:item,min,max,chance
+		itemDrops = ["tensura:dragon_essence,3,13,0.5", "trnightmare:elder_essence,1,1,0.8", "mysticism:ice_essence,3,10,0.75"]
+		#Skill drop entries: modid:skill or modid:skill,chance. If chance is omitted, the Tensura otherworlder skill drop setting is used.
+		skillDrops = ["trnightmare:stasis", "tensura:envy"]
+		#Magic tome pool entries: skill1;skill2;skill3 or chance;skill1;skill2;skill3. One random skill from the pool becomes a tome if the entry succeeds.
+		magicTomePools = []
+
+	[boss_rewards.sentient_boss_velgrynd]
+		#If true, this boss grants EP rewards using baseEpReward.
+		grantEpReward = true
+		#Base EP reward used for aura/magicule rewards when this boss dies.
+		# Default: 30000000
+		# Range: > 0
+		baseEpReward = 30000000
+		#Item drop entries: modid:item,min,max,chance
+		itemDrops = ["tensura:dragon_essence,3,13,0.5", "trnightmare:elder_essence,1,1,0.8", "mysticism:blaze_essence,3,10,0.75"]
+		#Skill drop entries: modid:skill or modid:skill,chance. If chance is omitted, the Tensura otherworlder skill drop setting is used.
+		skillDrops = ["trnightmare:endorse"]
+		#Magic tome pool entries: skill1;skill2;skill3 or chance;skill1;skill2;skill3. One random skill from the pool becomes a tome if the entry succeeds.
+		magicTomePools = []

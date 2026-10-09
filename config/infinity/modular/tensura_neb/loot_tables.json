@@ -1,0 +1,39 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "tensura_neb:entities/carrion",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura_neb:entities/luminous_valentine",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura_neb:entities/rimuru_clone",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura_neb:entities/rimuru_ogre_fight",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura_neb:entities/veldora",
+			"data": {
+				"Type": "entity"
+			}
+		}
+	]
+}

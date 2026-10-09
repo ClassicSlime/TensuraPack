@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "mysticism:elemental_realm_portal",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:ice_ore",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		}
+	]
+}

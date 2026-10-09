@@ -1,0 +1,60 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "tensura:ancient_forest",
+			"data": {
+				"Color": -10899920
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:barren_land",
+			"data": {
+				"Color": 10387789
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:desert_of_death",
+			"data": {
+				"Color": 10387789
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:miasmic_plains",
+			"data": {
+				"Color": -9984172
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:underworld_barrens",
+			"data": {
+				"Color": -7363765
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:underworld_red_sands",
+			"data": {
+				"Color": -7363765
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:underworld_sands",
+			"data": {
+				"Color": -7363765
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:underworld_spikes",
+			"data": {
+				"Color": -7363765
+			}
+		}
+	]
+}

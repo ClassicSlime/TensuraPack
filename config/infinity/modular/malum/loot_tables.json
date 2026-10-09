@@ -1,0 +1,2153 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/aerial_spirited_glass",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/aerial_varnished_terracotta",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/aqueous_spirited_glass",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/aqueous_varnished_terracotta",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/arcana_pylon",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/arcane_spirited_glass",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/arcane_varnished_terracotta",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/azure_runewood_leaves",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/azure_runewood_sapling",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/blazing_quartz_cluster",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/blazing_quartz_ore",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/blight",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/blighted_earth",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/blighted_growth",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/blighted_soulwood",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/blightpearl",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/blightroot",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/block_of_alchemical_calx",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/block_of_arcane_charcoal",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/block_of_astral_weave",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/block_of_auric_embers",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/block_of_blazing_quartz",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/block_of_brilliance",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/block_of_cthonic_gold",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/block_of_grim_talc",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/block_of_hallowed_gold",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/block_of_hex_ash",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/block_of_living_flesh",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/block_of_malignant_lead",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/block_of_malignant_pewter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/block_of_mnemonic_fragment",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/block_of_null_slate",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/block_of_raw_soulstone",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/block_of_rotting_essence",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/block_of_soul_stained_steel",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/block_of_soulstone",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/block_of_void_salts",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/block_of_warp_flux",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/bolted_runewood_boards_door",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/bolted_runewood_boards_trapdoor",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/bolted_runewood_door",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/bolted_runewood_trapdoor",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/bolted_soulwood_boards_door",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/bolted_soulwood_boards_trapdoor",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/bolted_soulwood_door",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/bolted_soulwood_trapdoor",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/brilliant_deepslate",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/brilliant_obelisk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/brilliant_stone",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/checkered_tainted_rock",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/checkered_twisted_rock",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/chiseled_tainted_rock",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/chiseled_twisted_rock",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/clinging_blight",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/cthonic_gold_cluster",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/cthonic_gold_ore",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/cut_runewood_planks",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/cut_soulwood_planks",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/cut_tainted_rock",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/cut_twisted_rock",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/deepslate_quartz_ore",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/deepslate_soulstone_ore",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/earthen_spirited_glass",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/earthen_varnished_terracotta",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/eldritch_spirited_glass",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/eldritch_varnished_terracotta",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/ether",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/ether_torch",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/exposed_runewood_log",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/exposed_soulwood_log",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/gilded_runewood_item_pedestal",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/gilded_runewood_item_stand",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/gust_igniter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/hanging_azure_runewood_leaves",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/hanging_runewood_leaves",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/hanging_soulwood_leaves",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/infernal_spirited_glass",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/infernal_varnished_terracotta",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/iridescent_ether",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/iridescent_ether_torch",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/large_strange_crystal",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/mass_of_blighted_gunk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/natural_quartz_cluster",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/natural_quartz_ore",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/ornate_soulwood_item_pedestal",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/ornate_soulwood_item_stand",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/polished_tainted_rock",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/polished_tainted_rock_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/polished_tainted_rock_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/polished_tainted_rock_wall",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/polished_twisted_rock",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/polished_twisted_rock_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/polished_twisted_rock_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/polished_twisted_rock_wall",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/potted_azure_runewood_sapling",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/potted_blightpearl",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/potted_blightroot",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/potted_runewood_sapling",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/potted_soulwood_sapling",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/potted_strangeroot",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/primordial_soup",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/repair_pylon",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/revealed_runewood_log",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/revealed_soulwood_log",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/rite_anchor",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/rite_unweaver",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/ritual_plinth",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runewood",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runewood_beam",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runewood_boards",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runewood_boards_door",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runewood_boards_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runewood_boards_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runewood_boards_trapdoor",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runewood_boards_wall",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runewood_door",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runewood_item_pedestal",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runewood_item_stand",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runewood_leaves",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runewood_log",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runewood_obelisk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runewood_panel",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runewood_planks",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runewood_planks_button",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runewood_planks_fence",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runewood_planks_fence_gate",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runewood_planks_pressure_plate",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runewood_planks_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runewood_planks_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runewood_sapling",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runewood_sign",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runewood_tiles",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runewood_tiles_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runewood_tiles_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runewood_totem_base",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runewood_trapdoor",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runewood_wall_sign",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runic_small_tainted_rock_bricks",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runic_small_tainted_rock_bricks_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runic_small_tainted_rock_bricks_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runic_small_tainted_rock_bricks_wall",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runic_small_twisted_rock_bricks",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runic_small_twisted_rock_bricks_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runic_small_twisted_rock_bricks_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runic_small_twisted_rock_bricks_wall",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runic_tainted_rock_bricks",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runic_tainted_rock_bricks_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runic_tainted_rock_bricks_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runic_tainted_rock_bricks_wall",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runic_tainted_rock_tiles",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runic_tainted_rock_tiles_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runic_tainted_rock_tiles_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runic_tainted_rock_tiles_wall",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runic_twisted_rock_bricks",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runic_twisted_rock_bricks_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runic_twisted_rock_bricks_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runic_twisted_rock_bricks_wall",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runic_twisted_rock_tiles",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runic_twisted_rock_tiles_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runic_twisted_rock_tiles_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runic_twisted_rock_tiles_wall",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/runic_workbench",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/rustic_runewood_planks",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/rustic_runewood_planks_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/rustic_runewood_planks_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/rustic_runewood_tiles",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/rustic_runewood_tiles_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/rustic_runewood_tiles_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/rustic_soulwood_planks",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/rustic_soulwood_planks_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/rustic_soulwood_planks_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/rustic_soulwood_tiles",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/rustic_soulwood_tiles_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/rustic_soulwood_tiles_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/sacred_spirited_glass",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/sacred_varnished_terracotta",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/scarstone",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/small_tainted_rock_bricks",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/small_tainted_rock_bricks_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/small_tainted_rock_bricks_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/small_tainted_rock_bricks_wall",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/small_twisted_rock_bricks",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/small_twisted_rock_bricks_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/small_twisted_rock_bricks_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/small_twisted_rock_bricks_wall",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/smooth_tainted_rock",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/smooth_tainted_rock_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/smooth_tainted_rock_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/smooth_tainted_rock_wall",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/smooth_twisted_rock",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/smooth_twisted_rock_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/smooth_twisted_rock_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/smooth_twisted_rock_wall",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/soulbinding_brazier",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/soulstone_ore",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/soulwood",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/soulwood_beam",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/soulwood_boards",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/soulwood_boards_door",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/soulwood_boards_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/soulwood_boards_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/soulwood_boards_trapdoor",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/soulwood_boards_wall",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/soulwood_door",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/soulwood_item_pedestal",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/soulwood_item_stand",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/soulwood_leaves",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/soulwood_log",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/soulwood_panel",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/soulwood_planks",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/soulwood_planks_button",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/soulwood_planks_fence",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/soulwood_planks_fence_gate",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/soulwood_planks_pressure_plate",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/soulwood_planks_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/soulwood_planks_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/soulwood_sapling",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/soulwood_sign",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/soulwood_tiles",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/soulwood_tiles_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/soulwood_tiles_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/soulwood_totem_base",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/soulwood_trapdoor",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/soulwood_wall_sign",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/soulwoven_banner",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/spirit_altar",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/spirit_catalyzer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/spirit_crucible",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/spirit_jar",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/spirit_mote",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/strange_crystal",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/strangeroot",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/stripped_runewood",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/stripped_runewood_log",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/stripped_soulwood",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/stripped_soulwood_log",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/tainted_ether_brazier",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/tainted_iridescent_ether_brazier",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/tainted_rock",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/tainted_rock_bricks",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/tainted_rock_bricks_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/tainted_rock_bricks_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/tainted_rock_bricks_wall",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/tainted_rock_button",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/tainted_rock_column",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/tainted_rock_column_cap",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/tainted_rock_item_pedestal",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/tainted_rock_item_stand",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/tainted_rock_pressure_plate",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/tainted_rock_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/tainted_rock_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/tainted_rock_tiles",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/tainted_rock_tiles_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/tainted_rock_tiles_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/tainted_rock_tiles_wall",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/tainted_rock_wall",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/the_device",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/the_vessel",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/twisted_ether_brazier",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/twisted_iridescent_ether_brazier",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/twisted_rock",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/twisted_rock_bricks",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/twisted_rock_bricks_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/twisted_rock_bricks_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/twisted_rock_bricks_wall",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/twisted_rock_button",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/twisted_rock_column",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/twisted_rock_column_cap",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/twisted_rock_item_pedestal",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/twisted_rock_item_stand",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/twisted_rock_pressure_plate",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/twisted_rock_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/twisted_rock_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/twisted_rock_tiles",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/twisted_rock_tiles_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/twisted_rock_tiles_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/twisted_rock_tiles_wall",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/twisted_rock_wall",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/vertical_runewood_boards",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/vertical_runewood_boards_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/vertical_runewood_boards_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/vertical_runewood_planks",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/vertical_runewood_planks_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/vertical_runewood_planks_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/vertical_rustic_runewood_planks",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/vertical_rustic_runewood_planks_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/vertical_rustic_runewood_planks_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/vertical_rustic_soulwood_planks",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/vertical_rustic_soulwood_planks_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/vertical_rustic_soulwood_planks_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/vertical_soulwood_boards",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/vertical_soulwood_boards_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/vertical_soulwood_boards_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/vertical_soulwood_planks",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/vertical_soulwood_planks_slab",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/vertical_soulwood_planks_stairs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/void_conduit",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/wavebanker",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/wavebreaker",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/wavecharger",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/waveform_runewood_totem_base",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/waveform_soulwood_totem_base",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/wavemaker",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/weavers_workbench",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/wicked_spirited_glass",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/wicked_varnished_terracotta",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blocks/wind_tunnel",
+			"data": {
+				"Type": "block"
+			}
+		}
+	]
+}

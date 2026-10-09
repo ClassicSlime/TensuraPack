@@ -1,0 +1,67 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation_tensura_addon:blood_leech",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation_tensura_addon:otherworlder_albert_einstein",
+			"data": {
+				"Category": "creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation_tensura_addon:otherworlder_albert_hamilton_fish",
+			"data": {
+				"Category": "creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation_tensura_addon:otherworlder_gaius_julius_caesar",
+			"data": {
+				"Category": "creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation_tensura_addon:otherworlder_hans_driesch",
+			"data": {
+				"Category": "creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation_tensura_addon:otherworlder_hans_ulrich_rudel",
+			"data": {
+				"Category": "creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation_tensura_addon:otherworlder_hiroshi_funasaka",
+			"data": {
+				"Category": "creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation_tensura_addon:otherworlder_pol_pot",
+			"data": {
+				"Category": "creature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation_tensura_addon:them",
+			"data": {
+				"Category": "creature"
+			}
+		}
+	]
+}

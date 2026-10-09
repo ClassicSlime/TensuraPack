@@ -1,0 +1,232 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:belzium"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:belzium_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:belzium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:belzium_dagger"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:belzium_doubleaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:belzium_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:belzium_mace"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:belzium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:belzium_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:belzium_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:belzium_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:book_of_dragons"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:deadly_nadder_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:dragon_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:gronckle_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:gronckle_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:gronckle_iron_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:gronckle_iron_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:gronckle_iron_brew"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:gronckle_iron_dagger"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:gronckle_iron_doubleaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:gronckle_iron_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:gronckle_iron_mace"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:gronckle_iron_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:gronckle_iron_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:gronckle_iron_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:gronckle_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:light_fury_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:lightfury_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:love_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:monstrous_nightmare_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:monstrous_nightmare_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:nadder_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:night_fury_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:night_light_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:nightfury_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:nightlight_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:raw_gronckle_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:scale_compass"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:skrill_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:skrill_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:speed_stinger_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:speed_stinger_egg_floutscout"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:speed_stinger_egg_ice_breaker"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:speed_stinger_egg_sweet_sting"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:speed_stinger_leader_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:speed_stinger_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:stinger_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:stinger_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:stormcutter_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:stormcutter_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:terrible_terror_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:terrible_terror_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:triple_stryke_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:triple_stryke_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:zippleback_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:zippleback_spawn_egg"
+		}
+	]
+}

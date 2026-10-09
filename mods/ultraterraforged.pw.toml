@@ -1,0 +1,13 @@
+name = "UltraTerraForged"
+filename = "ultraterraforged-1.0.1+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "499e9ed2089d7f55362afebee28f7862f352e807"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9026116
+project-id = 1715379

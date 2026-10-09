@@ -1,0 +1,40 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "traddon:atomic_annihilation",
+			"data": {
+				"Instant": false,
+				"Color": -1,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "traddon:despair",
+			"data": {
+				"Instant": false,
+				"Color": -10739784,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "traddon:photon_blade",
+			"data": {
+				"Instant": false,
+				"Color": -1723383,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "traddon:post_mortem_surge",
+			"data": {
+				"Instant": false,
+				"Color": -65536,
+				"Category": "beneficial"
+			}
+		}
+	]
+}

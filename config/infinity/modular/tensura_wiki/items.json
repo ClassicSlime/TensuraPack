@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "tensura_wiki:example_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura_wiki:example_item"
+		}
+	]
+}

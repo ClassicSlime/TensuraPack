@@ -1,0 +1,666 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "tensura:ancient_forest/mushroom",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"id": "tensura:ancient_forest/mushroom"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ancient_forest/rock",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"id": "tensura:ancient_forest/rock"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ancient_forest/tree",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"id": "tensura:ancient_forest/tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:charybdis_cave/desert",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"id": "tensura:charybdis_cave/desert"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:charybdis_cave/ice",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"id": "tensura:charybdis_cave/ice"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:charybdis_cave/mesa",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"id": "tensura:charybdis_cave/mesa"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:charybdis_cave/plains",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"id": "tensura:charybdis_cave/plains"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:hell/hell_gate",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"id": "tensura:hell/hell_gate"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:hell/red_sand_ruin",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "tensura:hell/red_sand_ruin"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:hell/sand_ruin",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "tensura:hell/sand_ruin"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth/labyrinth_tree",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"id": "tensura:labyrinth/labyrinth_tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:nests/black_spider",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"type": "tensura:black_spider",
+								"weight": 1,
+								"minCount": 3,
+								"maxCount": 5
+							}
+						]
+					},
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"id": "tensura:nests/black_spider"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:nests/giant_ant",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"type": "tensura:giant_ant",
+								"weight": 1,
+								"minCount": 3,
+								"maxCount": 5
+							}
+						]
+					},
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"id": "tensura:nests/giant_ant"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ruin/warp/cold_warp_pad",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "tensura:ruin/warp/cold_warp_pad"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ruin/warp/desert_warp_pad",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "tensura:ruin/warp/desert_warp_pad"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ruin/warp/mesa_warp_pad",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "tensura:ruin/warp/mesa_warp_pad"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ruin/warp/plains_warp_pad",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "tensura:ruin/warp/plains_warp_pad"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ruin/warp/swamp_warp_pad",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "tensura:ruin/warp/swamp_warp_pad"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ruin/wizard_tower/buried",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "tensura:ruin/wizard_tower/buried"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ruin/wizard_tower/burnt",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "tensura:ruin/wizard_tower/burnt"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ruin/wizard_tower/frozen",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "tensura:ruin/wizard_tower/frozen"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ruin/wizard_tower/rotted",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "tensura:ruin/wizard_tower/rotted"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ruin/wizard_tower/ruined",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "tensura:ruin/wizard_tower/ruined"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:villages/dwarf_village",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"type": "tensura:dwarf",
+								"weight": 1,
+								"minCount": 1,
+								"maxCount": 2
+							}
+						]
+					},
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"id": "tensura:villages/dwarf_village"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:villages/goblin_village/acacia",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"type": "tensura:goblin",
+								"weight": 1,
+								"minCount": 1,
+								"maxCount": 2
+							}
+						]
+					},
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"id": "tensura:villages/goblin_village/acacia"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:villages/goblin_village/birch",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"type": "tensura:goblin",
+								"weight": 1,
+								"minCount": 1,
+								"maxCount": 2
+							}
+						]
+					},
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"id": "tensura:villages/goblin_village/birch"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:villages/goblin_village/jungle",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"type": "tensura:goblin",
+								"weight": 1,
+								"minCount": 1,
+								"maxCount": 2
+							}
+						]
+					},
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"id": "tensura:villages/goblin_village/jungle"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:villages/goblin_village/oak",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"type": "tensura:goblin",
+								"weight": 1,
+								"minCount": 1,
+								"maxCount": 2
+							}
+						]
+					},
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"id": "tensura:villages/goblin_village/oak"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:villages/goblin_village/palm",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"type": "tensura:goblin",
+								"weight": 1,
+								"minCount": 1,
+								"maxCount": 2
+							}
+						]
+					},
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"id": "tensura:villages/goblin_village/palm"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:villages/goblin_village/spruce",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"type": "tensura:goblin",
+								"weight": 1,
+								"minCount": 1,
+								"maxCount": 2
+							}
+						]
+					},
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"id": "tensura:villages/goblin_village/spruce"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:villages/lizardmen_village/tower_short",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"id": "tensura:villages/lizardmen_village/tower_short"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:villages/lizardmen_village/tower_tall",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"id": "tensura:villages/lizardmen_village/tower_tall"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:villages/lizardmen_village/underground",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"type": "tensura:lizardman",
+								"weight": 1,
+								"minCount": 1,
+								"maxCount": 2
+							}
+						]
+					},
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"id": "tensura:villages/lizardmen_village/underground"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:villages/lizardmen_village/water",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"type": "tensura:lizardman",
+								"weight": 1,
+								"minCount": 1,
+								"maxCount": 2
+							}
+						]
+					},
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"id": "tensura:villages/lizardmen_village/water"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:villages/orc_village",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"type": "tensura:orc",
+								"weight": 1,
+								"minCount": 3,
+								"maxCount": 5
+							}
+						]
+					},
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"id": "tensura:villages/orc_village"
+			}
+		}
+	]
+}

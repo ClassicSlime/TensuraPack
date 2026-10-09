@@ -1,0 +1,158 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "ancient_remnants:aquaduct1",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "ancient_remnants:aquaduct1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_remnants:aquaduct_older",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "ancient_remnants:aquaduct_older"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_remnants:collapsing_pillar",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "ancient_remnants:collapsing_pillar"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_remnants:collapsing_pillar_ocean",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "ancient_remnants:collapsing_pillar_ocean"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_remnants:large_bridge",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "ancient_remnants:large_bridge"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_remnants:large_bridge_ocean",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "ancient_remnants:large_bridge_ocean"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_remnants:pillar_large",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "ancient_remnants:pillar_large"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_remnants:pillar_large_ocean",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "ancient_remnants:pillar_large_ocean"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_remnants:pillar_medium",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "ancient_remnants:pillar_medium"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_remnants:pillar_medium_ocean",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "ancient_remnants:pillar_medium_ocean"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_remnants:pillar_small",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "ancient_remnants:pillar_small"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_remnants:pillar_small_ocean",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "ancient_remnants:pillar_small_ocean"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_remnants:simple_hand",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "ancient_remnants:simple_hand"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_remnants:simple_hand_ocean",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "ancient_remnants:simple_hand_ocean"
+			}
+		}
+	]
+}

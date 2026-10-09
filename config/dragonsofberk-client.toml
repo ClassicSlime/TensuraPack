@@ -1,0 +1,8 @@
+#Dragons of Berk Main Config
+["Animation fix for shaders"]
+	#Set to true if you experience issues with animations when using shaders
+	disable_transition_ticks = false
+
+["Flight camera"]
+	#Set to true to stop the camera from rolling (banking) with the dragon while flying. Does not affect the visible tilt of the dragon/rider model, only the camera view.
+	disable_camera_roll = false

@@ -1,0 +1,139 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "antarchy:bleeding",
+			"data": {
+				"Instant": false,
+				"Color": 9375776,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:blood_moon",
+			"data": {
+				"Instant": false,
+				"Color": 11868973,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:bloodglass_ward",
+			"data": {
+				"Instant": false,
+				"Color": 11288156,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:commanded",
+			"data": {
+				"Instant": false,
+				"Color": 13938487,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:contracted",
+			"data": {
+				"Instant": false,
+				"Color": 14001722,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:dilated",
+			"data": {
+				"Instant": false,
+				"Color": 7097014,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:dread",
+			"data": {
+				"Instant": false,
+				"Color": 1706522,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:glimmering",
+			"data": {
+				"Instant": false,
+				"Color": 6737151,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:gooped",
+			"data": {
+				"Instant": false,
+				"Color": 3323982,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:growth",
+			"data": {
+				"Instant": false,
+				"Color": 11393254,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:inverted",
+			"data": {
+				"Instant": false,
+				"Color": 9109504,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:paralyzed",
+			"data": {
+				"Instant": false,
+				"Color": 8421504,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:royal_vitality_penalty",
+			"data": {
+				"Instant": false,
+				"Color": 14198059,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:shrinking",
+			"data": {
+				"Instant": false,
+				"Color": 16776960,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:stinky",
+			"data": {
+				"Instant": false,
+				"Color": 6715194,
+				"Category": "harmful"
+			}
+		}
+	]
+}

@@ -1,0 +1,13 @@
+name = "Tensura Reincarnated Traits"
+filename = "Tensura-Reincarnated-Traits-3.8.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "133907162d8e0a7ec742e5eee535c04ea8d71be4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8919063
+project-id = 1693447

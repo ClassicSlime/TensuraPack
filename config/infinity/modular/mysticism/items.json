@@ -1,0 +1,56 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "mysticism:axiom"
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:cryptid_essence"
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:darkness_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:elemental_realm_portal"
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:flame_essence"
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:ice_essence"
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:ice_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:lightning_essence"
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:memoires_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:okami_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:ritual_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:shadow_imp_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:waltz"
+		}
+	]
+}

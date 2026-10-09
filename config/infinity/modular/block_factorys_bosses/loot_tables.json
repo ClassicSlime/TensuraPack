@@ -1,0 +1,452 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:blocks/big_chain",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:blocks/big_oak_planks",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:blocks/big_oak_planks_broken",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:blocks/big_oak_planks_cracked",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:blocks/big_oak_planks_straight",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:blocks/big_oak_planks_variation",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:blocks/big_oak_planks_wet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:blocks/big_oak_planks_wet_broken",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:blocks/big_oak_planks_wet_cracked",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:blocks/big_oak_planks_wet_straight",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:blocks/big_oak_planks_wet_variation",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:blocks/bone_remains",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:blocks/bone_remains_legs",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:blocks/bone_remains_rib_cage",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:blocks/boss_spawner",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:blocks/candles",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:blocks/cannonball",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:blocks/coin_pile",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:blocks/corpse",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:blocks/dragon_banner",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:blocks/dragon_skull",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:blocks/guardrail",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:blocks/guardrail_diagonal",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:blocks/ice_block_particules",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:blocks/kraken_spawner",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:blocks/net",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:blocks/plank",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:blocks/prison_door",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:blocks/rope_roll",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:blocks/rusty_prison_door",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:blocks/ship_lantern",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:blocks/ship_steering_wheel",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:blocks/tall_candles",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:blocks/tall_candles_cross",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:blocks/tall_vase",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:blocks/under_world_tall_candle_cross",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:blocks/underwold_candles",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:blocks/underwold_wall_torch",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:blocks/underworld_arena_door",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:blocks/underworld_tall_candles",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:blocks/vase",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:blocks/wall_torch",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:chests/dragon_tower",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:chests/dragon_tower_common",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:chests/underworld_arena_common",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:chests/underworld_arena_rare",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:chests/underworld_arena_trash",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:chests/underworld_arena_vault",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:entities/crossbow_pirate",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:entities/dragon_guard_sword",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:entities/flaming_skeleton_guard_fireball",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:entities/flaming_skeleton_guard_sword",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:entities/infernal_dragon",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:entities/kraken",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:entities/pirate_captain",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:entities/pirate_rook",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:entities/sandworm",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:entities/soul_knight_wither_skeleton",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:entities/soul_skeleton",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:entities/underworld_knight",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:entities/yeti",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:kraken",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:spawners/ancient_trial_key",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:spawners/underworld_arena/underworld_arena_key",
+			"data": {
+				"Type": "chest"
+			}
+		}
+	]
+}

@@ -1,0 +1,652 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_abyss_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_abyss_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_abyss_bone_golem"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_abyss_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_abyss_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_abyss_great_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_abyss_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_abyss_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_abyss_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_abyss_katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_abyss_kodachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_abyss_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_abyss_long_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_abyss_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_abyss_odachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_abyss_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_abyss_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_abyss_short_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_abyss_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_abyss_sickle"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_abyss_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_abyss_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_abyss_tachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_bone_golem"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_earth_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_earth_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_earth_bone_golem"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_earth_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_earth_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_earth_great_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_earth_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_earth_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_earth_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_earth_katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_earth_kodachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_earth_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_earth_long_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_earth_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_earth_odachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_earth_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_earth_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_earth_short_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_earth_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_earth_sickle"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_earth_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_earth_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_earth_tachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_frost_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_frost_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_frost_bone_golem"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_frost_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_frost_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_frost_great_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_frost_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_frost_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_frost_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_frost_katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_frost_kodachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_frost_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_frost_long_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_frost_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_frost_odachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_frost_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_frost_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_frost_short_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_frost_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_frost_sickle"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_frost_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_frost_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_frost_tachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_gear_schematic"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_great_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_kodachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_long_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_odachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_scorch_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_scorch_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_scorch_bone_golem"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_scorch_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_scorch_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_scorch_great_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_scorch_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_scorch_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_scorch_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_scorch_katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_scorch_kodachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_scorch_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_scorch_long_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_scorch_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_scorch_odachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_scorch_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_scorch_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_scorch_short_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_scorch_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_scorch_sickle"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_scorch_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_scorch_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_scorch_tachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_short_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_sickle"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_star_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_star_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_star_bone_golem"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_star_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_star_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_star_great_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_star_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_star_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_star_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_star_katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_star_kodachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_star_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_star_long_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_star_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_star_odachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_star_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_star_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_star_short_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_star_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_star_sickle"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_star_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_star_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_star_tachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_storm_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_storm_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_storm_bone_golem"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_storm_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_storm_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_storm_great_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_storm_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_storm_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_storm_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_storm_katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_storm_kodachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_storm_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_storm_long_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_storm_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_storm_odachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_storm_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_storm_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_storm_short_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_storm_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_storm_sickle"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_storm_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_storm_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_storm_tachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_tachi"
+		}
+	]
+}

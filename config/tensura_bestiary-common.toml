@@ -1,0 +1,10 @@
+[ftb_quests]
+	#Legacy tagged FTB Quests Custom-task objectives. Add one rule tag to a task's Tags list.
+	#The four named Bestiary task types are configured directly in the FTB editor instead.
+	#Format: tag|kind|subject|target. Tags must begin with tensura_bestiary_.
+	#Kinds: discover (target 1), kills, count, percent (target 1..100).
+	#discover/kills subject: full entity ID. count/percent subject: * or mod namespace.
+	#Progress uses an individual player's lifetime archive; FTB shares its highest value with the team.
+	#Historical discoveries count. These milestones are unsuitable for repeatable quests.
+	#Restart after changing these legacy rules or tags. Empty list disables only tagged Custom objectives.
+	objectives = ["tensura_bestiary_discover_cow|discover|minecraft:cow|1", "tensura_bestiary_kill_cow_10|kills|minecraft:cow|10", "tensura_bestiary_discover_25|count|*|25", "tensura_bestiary_tensura_25_percent|percent|tensura|25"]

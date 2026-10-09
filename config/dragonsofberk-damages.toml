@@ -1,0 +1,368 @@
+#Dragon Damage Config: HP, armor, bite damage and special-ability damage per dragon.
+["Night Fury"]
+	#Max health.
+	# Default: 80.0
+	# Range: 1.0 ~ 1024.0
+	night_fury_max_health = 80.0
+	#Armor.
+	# Default: 2.0
+	# Range: 0.0 ~ 30.0
+	night_fury_armor = 2.0
+	#Bite (melee) damage.
+	# Default: 4.0
+	# Range: 0.0 ~ 500.0
+	night_fury_bite_damage = 4.0
+	#FuryBolt damage, charge tier 1.
+	# Default: 10.0
+	# Range: 0.0 ~ 500.0
+	night_fury_bolt_tier1_damage = 10.0
+	#FuryBolt damage, charge tier 2.
+	# Default: 13.0
+	# Range: 0.0 ~ 500.0
+	night_fury_bolt_tier2_damage = 13.0
+	#FuryBolt damage, charge tier 3.
+	# Default: 16.0
+	# Range: 0.0 ~ 500.0
+	night_fury_bolt_tier3_damage = 16.0
+	#FuryBolt damage, charge tier 4 (full charge).
+	# Default: 20.0
+	# Range: 0.0 ~ 500.0
+	night_fury_bolt_tier4_damage = 20.0
+	#Bonus damage on a full-charge (tier 4) FuryBolt, as a fraction of the target's max HP: 0.2 = +20%, 1.0 = +100%.
+	# Default: 0.2
+	# Range: 0.0 ~ 10.0
+	night_fury_full_charge_max_health_bonus_percent = 0.2
+	#Damage per lightning strike from the thunderstorm ability.
+	# Default: 5.0
+	# Range: 0.0 ~ 500.0
+	night_fury_thunderstorm_damage = 5.0
+
+["Light Fury"]
+	#Max health.
+	# Default: 60.0
+	# Range: 1.0 ~ 1024.0
+	light_fury_max_health = 60.0
+	#Armor.
+	# Default: 0.0
+	# Range: 0.0 ~ 30.0
+	light_fury_armor = 0.0
+	#Bite (melee) damage.
+	# Default: 2.0
+	# Range: 0.0 ~ 500.0
+	light_fury_bite_damage = 2.0
+	#Light projectile damage, charge tier 1.
+	# Default: 8.0
+	# Range: 0.0 ~ 500.0
+	light_fury_bolt_tier1_damage = 8.0
+	#Light projectile damage, charge tier 2.
+	# Default: 11.0
+	# Range: 0.0 ~ 500.0
+	light_fury_bolt_tier2_damage = 11.0
+	#Light projectile damage, charge tier 3.
+	# Default: 14.0
+	# Range: 0.0 ~ 500.0
+	light_fury_bolt_tier3_damage = 14.0
+	#Light projectile damage, charge tier 4 (full charge).
+	# Default: 17.0
+	# Range: 0.0 ~ 500.0
+	light_fury_bolt_tier4_damage = 17.0
+	#Bonus damage on a full-charge (tier 4) hit, as a fraction of the target's max HP: 0.1 = +10%, 1.0 = +100%.
+	# Default: 0.1
+	# Range: 0.0 ~ 10.0
+	light_fury_full_charge_max_health_bonus_percent = 0.1
+
+["Night Light"]
+	#Max health.
+	# Default: 70.0
+	# Range: 1.0 ~ 1024.0
+	night_light_max_health = 70.0
+	#Armor.
+	# Default: 0.0
+	# Range: 0.0 ~ 30.0
+	night_light_armor = 0.0
+	#Bite (melee) damage.
+	# Default: 4.0
+	# Range: 0.0 ~ 500.0
+	night_light_bite_damage = 4.0
+	#Bonus damage on a full-charge (tier 4) hit, as a fraction of the target's max HP: 0.15 = +15%, 1.0 = +100%. Tier damage itself is inherited from the Light Fury.
+	# Default: 0.15
+	# Range: 0.0 ~ 10.0
+	night_light_full_charge_max_health_bonus_percent = 0.15
+
+["Triple Stryke"]
+	#Max health.
+	# Default: 140.0
+	# Range: 1.0 ~ 1024.0
+	triple_stryke_max_health = 140.0
+	#Armor.
+	# Default: 4.0
+	# Range: 0.0 ~ 30.0
+	triple_stryke_armor = 4.0
+	#Bite (melee) damage.
+	# Default: 6.0
+	# Range: 0.0 ~ 500.0
+	triple_stryke_bite_damage = 6.0
+	#Light sting hit (knockback pass).
+	# Default: 5.0
+	# Range: 0.0 ~ 500.0
+	triple_stryke_light_sting_damage = 5.0
+	#Heavy sting hit (poison + weakness pass); also used against the Ender Dragon.
+	# Default: 18.0
+	# Range: 0.0 ~ 500.0
+	triple_stryke_heavy_sting_damage = 18.0
+	#Fire-breath direct hit damage. A continuous flame, not a charged bolt, hence no charge tiers; beam ticks use fire_breath_projectile_beam_tick_damage.
+	# Default: 10.0
+	# Range: 0.0 ~ 500.0
+	triple_stryke_fire_breath_damage = 10.0
+
+[Skrill]
+	#Max health.
+	# Default: 60.0
+	# Range: 1.0 ~ 1024.0
+	skrill_max_health = 60.0
+	#Armor.
+	# Default: 2.0
+	# Range: 0.0 ~ 30.0
+	skrill_armor = 2.0
+	#Bite (melee) damage.
+	# Default: 4.0
+	# Range: 0.0 ~ 500.0
+	skrill_bite_damage = 4.0
+	#Retaliation damage dealt back to a melee attacker that hits this dragon at close range.
+	# Default: 4.0
+	# Range: 0.0 ~ 500.0
+	skrill_counter_attack_damage = 4.0
+	#Lightning damage against the Ender Dragon only; every other target uses the two fields below.
+	# Default: 3.0
+	# Range: 0.0 ~ 500.0
+	skrill_lightning_damage = 3.0
+	#Lightning direct-hit damage, mobGriefing enabled. This is the normal-hit value.
+	# Default: 18.0
+	# Range: 0.0 ~ 500.0
+	skrill_lightning_griefing_damage = 18.0
+	#Lightning direct-hit damage, mobGriefing disabled. Babies and tamed animals are spared entirely.
+	# Default: 12.0
+	# Range: 0.0 ~ 500.0
+	skrill_lightning_no_griefing_damage = 12.0
+	#Lightning beam damage, once per entity per shot, plus the SHOCK effect.
+	# Default: 4.0
+	# Range: 0.0 ~ 500.0
+	skrill_lightning_beam_tick_damage = 4.0
+
+["Deadly Nadder"]
+	#Max health.
+	# Default: 50.0
+	# Range: 1.0 ~ 1024.0
+	deadly_nadder_max_health = 50.0
+	#Armor.
+	# Default: 2.0
+	# Range: 0.0 ~ 30.0
+	deadly_nadder_armor = 2.0
+	#Bite (melee) damage.
+	# Default: 8.0
+	# Range: 0.0 ~ 500.0
+	deadly_nadder_bite_damage = 8.0
+	#Unused in practice: the spike is an arrow and computes its own speed-based damage (two fields below). Kept for forward-compatibility.
+	# Default: 7.0
+	# Range: 0.0 ~ 500.0
+	deadly_nadder_spike_damage = 7.0
+	#DeadlyNadderSpike actual damage against players: projectile speed * this value, rounded up.
+	# Default: 4.0
+	# Range: 0.0 ~ 500.0
+	deadly_nadder_spike_player_damage_multiplier = 4.0
+	#DeadlyNadderSpike actual damage against everything else: projectile speed * this value, rounded up.
+	# Default: 3.0
+	# Range: 0.0 ~ 500.0
+	deadly_nadder_spike_base_damage = 3.0
+
+[Gronckle]
+	#Max health.
+	# Default: 60.0
+	# Range: 1.0 ~ 1024.0
+	gronckle_max_health = 60.0
+	#Armor. Was 10, which made it two and a half times the next toughest dragon in the roster and the only species anywhere near that figure; brought to 7 on 2026-08-30 so it stays the tankiest without being in a class of its own.
+	# Default: 7.0
+	# Range: 0.0 ~ 30.0
+	gronckle_armor = 7.0
+	#Bite (melee) damage.
+	# Default: 6.0
+	# Range: 0.0 ~ 500.0
+	gronckle_bite_damage = 6.0
+	#Direct ram hit damage.
+	# Default: 10.0
+	# Range: 0.0 ~ 500.0
+	gronckle_ram_damage = 10.0
+	#Ram knockback-pass damage.
+	# Default: 6.0
+	# Range: 0.0 ~ 500.0
+	gronckle_ram_knockback_damage = 6.0
+	#LavaBlob damage, charge tier 1.
+	# Default: 10.0
+	# Range: 0.0 ~ 500.0
+	gronckle_lava_blob_tier1_damage = 10.0
+	#LavaBlob damage, charge tier 2.
+	# Default: 12.0
+	# Range: 0.0 ~ 500.0
+	gronckle_lava_blob_tier2_damage = 12.0
+	#LavaBlob damage, charge tier 3.
+	# Default: 14.0
+	# Range: 0.0 ~ 500.0
+	gronckle_lava_blob_tier3_damage = 14.0
+	#LavaBlob damage, charge tier 4 (full charge).
+	# Default: 16.0
+	# Range: 0.0 ~ 500.0
+	gronckle_lava_blob_tier4_damage = 16.0
+
+["Monstrous Nightmare"]
+	#Max health.
+	# Default: 120.0
+	# Range: 1.0 ~ 1024.0
+	nightmare_max_health = 120.0
+	#Armor.
+	# Default: 4.0
+	# Range: 0.0 ~ 30.0
+	nightmare_armor = 4.0
+	#Bite (melee) damage.
+	# Default: 7.0
+	# Range: 0.0 ~ 500.0
+	nightmare_bite_damage = 7.0
+	#Retaliation damage dealt back to a melee attacker (also sets them on fire).
+	# Default: 4.0
+	# Range: 0.0 ~ 500.0
+	nightmare_retaliation_burn_damage = 4.0
+	#FireBreathProjectile direct-hit damage.
+	# Default: 3.0
+	# Range: 0.0 ~ 500.0
+	nightmare_fire_breath_damage = 3.0
+	#Continuous beam damage per entity hit per tick, shared by every dragon that fires a FireBreathProjectile (currently Monstrous Nightmare's fire breath AND Triple Stryke's projectile) - separate code path from either dragon's direct-hit damage.
+	# Default: 3.0
+	# Range: 0.0 ~ 500.0
+	fire_breath_projectile_beam_tick_damage = 3.0
+
+["Hideous Zippleback"]
+	#Max health.
+	# Default: 100.0
+	# Range: 1.0 ~ 1024.0
+	zippleback_max_health = 100.0
+	#Armor.
+	# Default: 0.0
+	# Range: 0.0 ~ 30.0
+	zippleback_armor = 0.0
+	#Bite (melee) damage.
+	# Default: 6.0
+	# Range: 0.0 ~ 500.0
+	zippleback_bite_damage = 6.0
+	#ZipBreath gas beam damage per entity per hit-tick while standing in the stream.
+	# Default: 0.8
+	# Range: 0.0 ~ 500.0
+	zippleback_gas_beam_tick_damage = 0.8
+	#ZipBreath projectile direct-hit damage (mob griefing allowed).
+	# Default: 2.8
+	# Range: 0.0 ~ 500.0
+	zippleback_gas_direct_hit_damage = 2.8
+	#ZipBreath projectile direct-hit damage (mob griefing disabled).
+	# Default: 1.6
+	# Range: 0.0 ~ 500.0
+	zippleback_gas_direct_hit_damage_no_griefing = 1.6
+	#Damage at the gas-ignition blast's center, falling off to 0 at the 5-block edge.
+	# Default: 20.0
+	# Range: 0.0 ~ 500.0
+	zippleback_synchronized_explosion_max_damage = 20.0
+
+["Speed Stinger"]
+	#Max health.
+	# Default: 40.0
+	# Range: 1.0 ~ 1024.0
+	speed_stinger_max_health = 40.0
+	#Max health while still a baby; swapped for 'speed_stinger_max_health' when it grows up.
+	# Default: 14.0
+	# Range: 1.0 ~ 1024.0
+	speed_stinger_baby_max_health = 14.0
+	#Armor.
+	# Default: 0.0
+	# Range: 0.0 ~ 30.0
+	speed_stinger_armor = 0.0
+	#Bite (melee) damage. Paralysis is a pure status effect with no separate damage component.
+	# Default: 4.0
+	# Range: 0.0 ~ 500.0
+	speed_stinger_bite_damage = 4.0
+
+["Speed Stinger Leader"]
+	#Max health.
+	# Default: 60.0
+	# Range: 1.0 ~ 1024.0
+	speed_stinger_leader_max_health = 60.0
+	#Armor.
+	# Default: 0.0
+	# Range: 0.0 ~ 30.0
+	speed_stinger_leader_armor = 0.0
+	#Bite (melee) damage.
+	# Default: 8.0
+	# Range: 0.0 ~ 500.0
+	speed_stinger_leader_bite_damage = 8.0
+
+[Stinger]
+	#Max health.
+	# Default: 80.0
+	# Range: 1.0 ~ 1024.0
+	stinger_max_health = 80.0
+	#Armor.
+	# Default: 2.0
+	# Range: 0.0 ~ 30.0
+	stinger_armor = 2.0
+	#Bite (melee) damage.
+	# Default: 8.0
+	# Range: 0.0 ~ 500.0
+	stinger_bite_damage = 8.0
+	#Direct ram hit damage (before the speed multiplier).
+	# Default: 8.0
+	# Range: 0.0 ~ 500.0
+	stinger_ram_damage = 8.0
+	#Ram knockback-pass damage (before the speed multiplier).
+	# Default: 5.0
+	# Range: 0.0 ~ 500.0
+	stinger_ram_knockback_damage = 5.0
+
+[Stormcutter]
+	#Max health.
+	# Default: 125.0
+	# Range: 1.0 ~ 1024.0
+	stormcutter_max_health = 125.0
+	#Armor. Level with the Monstrous Nightmare and Triple Stryke, the other heavies. It was briefly raised to 5 to close a gap with the Gronckle; the Gronckle was brought down instead, so this went back to the tier's normal figure.
+	# Default: 4.0
+	# Range: 0.0 ~ 30.0
+	stormcutter_armor = 4.0
+	#Bite (melee) damage.
+	# Default: 7.0
+	# Range: 0.0 ~ 500.0
+	stormcutter_bite_damage = 7.0
+	#FireBreathProjectile direct-hit damage. Raised from 4 on tester feedback (2026-08-30): the fire read as too weak. Doubled to 8 first, then settled at 5 by the user - most of a breath's damage comes from the beam tick below, not from this.
+	# Default: 5.0
+	# Range: 0.0 ~ 500.0
+	stormcutter_fire_breath_damage = 5.0
+	#Continuous beam damage per entity per tick, for the Stormcutter ONLY. Exists because the shared fire_breath_projectile_beam_tick_damage is where nearly all of a breath's damage actually comes from, so doubling the direct hit alone would barely have been felt - and the user asked for the Stormcutter's fire to double without touching the other breath users. Double the shared value of 3.
+	# Default: 6.0
+	# Range: 0.0 ~ 500.0
+	stormcutter_fire_breath_beam_tick_damage = 6.0
+	#Sonic boom (2nd ability) damage. Small on purpose: the payload is the stun, not the damage.
+	# Default: 3.0
+	# Range: 0.0 ~ 500.0
+	stormcutter_sonic_boom_damage = 3.0
+
+["Terrible Terror"]
+	#Max health.
+	# Default: 20.0
+	# Range: 1.0 ~ 1024.0
+	terrible_terror_max_health = 20.0
+	#Armor.
+	# Default: 0.0
+	# Range: 0.0 ~ 30.0
+	terrible_terror_armor = 0.0
+	#Bite (melee) damage.
+	# Default: 2.0
+	# Range: 0.0 ~ 500.0
+	terrible_terror_bite_damage = 2.0
+	#Small flame projectile damage.
+	# Default: 4.0
+	# Range: 0.0 ~ 500.0
+	terrible_terror_flame_damage = 4.0

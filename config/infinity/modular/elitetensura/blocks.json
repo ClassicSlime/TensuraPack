@@ -1,0 +1,894 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "elitetensura:common_crate",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:elite_crate",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:forge_station_basic",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:forge_station_dragonforge",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:forge_station_magisteel",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:forge_station_mythril",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:magic_ore_cluster",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:magic_ore_large_bud",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:magic_ore_medium_bud",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:magic_ore_mother_rock",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:magic_ore_small_bud",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_allay",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_armadillo",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_axolotl",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_bat",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_bee",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_blaze",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_breeze",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_camel",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_cat",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_cave_spider",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_chewie",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_chicken",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_cow",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_creeper",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_dan_rolo",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_dark_father",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_dolphin",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_donkey",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_drowned",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_elder_guardian",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_emperor",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_enderdragon",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_enderman",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_evoker",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_fox",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_frog",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_ghast",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_glow_squid",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_goat",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_guardian",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_hoglin",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_horse",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_husk",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_iron_golem",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_llama",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_magma_cube",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_mooshroom",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_mule",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_panda",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_parrot",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_peter",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_phantom",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_pig",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_piglin",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_piglin_brute",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_pillager",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_polar_bear",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_pufferfish",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_rabbit",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_ravanger",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_sheep",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_shulker",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_skeleton_horse",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_slime",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_sniffer",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_spider",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_squid",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_storm_soldier",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_stray",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_strider",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_trader_lama",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_turtle",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_vex",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_villager",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_vindicator",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_wandering_trader",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_warden",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_witch",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_wither",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_wither_skeleton",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_wolf",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_yoga",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_zoglin",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_zombie",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_zombie_villager",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_zombified_piglin",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:rare_crate",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		}
+	]
+}

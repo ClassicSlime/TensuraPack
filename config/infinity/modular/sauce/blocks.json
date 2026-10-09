@@ -1,0 +1,44 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "sauce:arcane_plinth",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "sauce:source_jar_core",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "sauce:source_jar_frame",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "sauce:source_jar_valve",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": true
+			}
+		}
+	]
+}

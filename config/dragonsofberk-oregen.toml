@@ -1,0 +1,41 @@
+#Ore generation compatibility.
+#Each ore already generates in a shipped biome tag
+#(#dragonsofberk:belzium_generates_in / #dragonsofberk:gronckle_iron_generates_in,
+#which point at #minecraft:is_end / #c:is_end and #minecraft:is_overworld).
+#The lists below ADD biomes on top of that tag - for mods that add End (or
+#Overworld) biomes without tagging them. Changes take effect on the next
+#world/server (re)start.
+[Belzium]
+	#Catch-all. Also treat as an End biome ANY biome that is in neither
+	##minecraft:is_overworld nor #minecraft:is_nether. BCLib / Worldweaver /
+	#Stellarity and many datapacks register End biomes with no dimension tag,
+	#and this covers every one of them - present and future - without having
+	#to name the mod. Safe by construction: Belzium's ore only ever replaces
+	#end stone (and the c:end_stones family), so a biome from an unrelated
+	#modded dimension just gets an unused feature entry, not stray ore.
+	#Set to false to require an explicit tag / namespace / id match below.
+	assume_end_when_untagged = true
+	#Mod namespaces whose biomes count as End biomes for Belzium, even when
+	#assume_end_when_untagged is false. Whitelists EVERY biome of that mod -
+	#only safe when the mod adds End biomes exclusively (all of the defaults
+	#do). Example: ["betterend", "someotherendmod"]
+	biome_namespaces = ["betterend", "stellarity", "nullscape", "endergetic"]
+	#Exact biome ids where Belzium may generate, when a namespace rule is
+	#too broad. Example: ["somemod:end_meadow"]
+	biome_ids = []
+
+[GronckleIron]
+	#Catch-all for Gronckle Iron: treat as Overworld any biome in neither
+	##minecraft:is_nether nor #minecraft:is_end. OFF by default -
+	##minecraft:is_overworld is reliably populated by biome mods, and
+	#Gronckle Iron replaces stone/deepslate, which DO occur in other modded
+	#dimensions, so this toggle is not free of side effects. Only enable it
+	#for an Overworld-overhaul mod that skips the tag.
+	assume_overworld_when_untagged = false
+	#Mod namespaces whose biomes count as Overworld biomes for Gronckle Iron.
+	#Normally left empty: #minecraft:is_overworld is reliably populated by
+	#biome mods. Only needed for a mod that replaces Overworld generation
+	#without tagging its biomes.
+	biome_namespaces = []
+	#Exact biome ids where Gronckle Iron may generate.
+	biome_ids = []

@@ -1,0 +1,27 @@
+#Dragon Target Config: what a WILD dragon may hunt, and when it gives up.
+#Tamed dragons are NOT filtered here - defending or being told to attack
+#goes through other goals, and a pet must obey even a hopeless fight.
+[Targeting]
+	#Entity ids a wild dragon must NEVER hunt.
+	#Exact ids ("minecraft:cow") or a whole namespace ("somemod:*").
+	#This mod's own dragons are always excluded, list or no list.
+	#Example: ["somemod:*", "minecraft:villager"]
+	never_target = []
+	#If this list is NOT empty, a wild dragon may hunt ONLY what is in it.
+	#Same syntax as never_target. never_target is applied first and still wins.
+	#Leave empty (the default) to allow everything that is not excluded.
+	only_target = []
+
+[GiveUp]
+	#Ticks a wild dragon keeps a target whose health never drops, before
+	#giving up on it. 20 ticks = 1 second. 0 disables the rule entirely.
+	#The clock resets the moment the target loses any health at all, so a
+	#tough fight the dragon IS winning never trips it.
+	# Default: 600
+	# Range: 0 ~ 72000
+	give_up_ticks = 600
+	#Ticks a target the dragon gave up on is ignored for afterwards.
+	#Without this it would simply pick the same one again on the next tick.
+	# Default: 2400
+	# Range: 20 ~ 72000
+	refusal_ticks = 2400

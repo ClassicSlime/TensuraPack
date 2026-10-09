@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "tensurabrewablearcanepotions:high_quality_arcane_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensurabrewablearcanepotions:low_quality_arcane_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensurabrewablearcanepotions:magic_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensurabrewablearcanepotions:medium_quality_arcane_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensurabrewablearcanepotions:silver_dust"
+		}
+	]
+}

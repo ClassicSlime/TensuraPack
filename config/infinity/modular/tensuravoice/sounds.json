@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "tensuravoice:continueing"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensuravoice:extra_acquire"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensuravoice:unique_acquire"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensuravoice:unique_to_ultimate_evolution"
+		}
+	]
+}

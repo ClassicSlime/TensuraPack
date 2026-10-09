@@ -1,0 +1,13 @@
+name = "Tensura Wiki"
+filename = "tensura_wiki-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3fa4e29350a5cbcbdc2db3bd181499dd7009d159"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8339881
+project-id = 1583083

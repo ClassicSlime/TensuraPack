@@ -1,0 +1,48 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "trying_to_make_an_addon:adalman_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "trying_to_make_an_addon:benimaru_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "trying_to_make_an_addon:bosstest_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "trying_to_make_an_addon:chloeaubert_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "trying_to_make_an_addon:geld_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "trying_to_make_an_addon:musardroptoksawery_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "trying_to_make_an_addon:ogre_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "trying_to_make_an_addon:primordialnoir_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "trying_to_make_an_addon:rimurutruedemonlord_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "trying_to_make_an_addon:velzardfrost_dragon_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "trying_to_make_an_addon:yug_spawn_egg"
+		}
+	]
+}

@@ -1,0 +1,624 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.barrier.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.blood_ray.loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.breath.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.breath.poison"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.breath.thunder"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.breath.water"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.breath.wind"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.buff.activate"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.buff.deactivate"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.cast.dark_cast"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.cast.earth_cast"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.cast.energy_drain"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.cast.fire_cast"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.cast.generic"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.cast.generic_fail"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.cast.generic_heal"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.cast.generic_split"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.cast.generic_uncast"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.cast.ice_cast"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.cast.light_cast"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.cast.lightning_cast"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.cast.presence_concealment"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.cast.space_cast"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.cast.water_cast"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.cast.wind_cast"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.coercion.start"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.debuff.activate"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.debuff.deactivate"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.defence.activate"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.defence.deactivate"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.disintegration.start"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.earthshatter_kick.start"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.eater.start"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.haki.loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.haki.start"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.instant_move.start"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.megiddo.shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.mist.release"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.predation.loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.reflection.reverse"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.sticky_steel_thread.start"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.storage.open"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.swipe.start"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.transform.beast"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.transform.berserker"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.transform.dragon"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.transform.ogre"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:effect.acid.sizzle"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.armorsaurus.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.armorsaurus.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.armorsaurus.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.barghest.aggro"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.barghest.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.barghest.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.barghest.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.basilisk.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.basilisk.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.basilisk.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.bear.aggro"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.bear.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.bear.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.bear.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.bird.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.bird.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.bird.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.bite.big"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.cat.aggro"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.cat.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.cat.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.cat.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.centipede.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.centipede.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.centipede.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.daemon.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.daemon.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.daemon.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.direwolf.aggro"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.direwolf.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.direwolf.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.direwolf.howl"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.direwolf.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.dog.aggro"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.dog.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.dog.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.dog.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.fish.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.fish.flop"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.fish.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.generic.splash"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.generic.water_jump"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.gnome.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.gnome.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.gnome.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.goblin.aggro"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.goblin.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.goblin.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.goblin.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.golem.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.golem.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.golem.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.hover_lizard.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.hover_lizard.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.hover_lizard.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.insect.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.insect.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.insect.fly"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.insect.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.leech_lizard.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.leech_lizard.attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.leech_lizard.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.leech_lizard.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.lizardman.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.lizardman.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.lizardman.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.megalodon.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.megalodon.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.megalodon.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.metal_slime.attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.metal_slime.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.metal_slime.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.metal_slime.squish"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.orc.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.orc.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.orc.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.orc.laugh"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.orc.transform"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.owl.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.owl.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.owl.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.serpent.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.serpent.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.serpent.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.sissie.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.sissie.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.sissie.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.spear_toro.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.spear_toro.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.spear_toro.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.spirit_flame.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.spirit_flame.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.spirit_flame.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.spirit_space.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.spirit_space.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.spirit_space.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.spirit_water.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.spirit_water.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.spirit_water.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.spirit_wind.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.spirit_wind.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.spirit_wind.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.tiger.aggro"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.tiger.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.tiger.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.tiger.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:entity.wind.blow"
+		}
+	]
+}

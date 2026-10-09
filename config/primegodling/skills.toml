@@ -1,0 +1,261 @@
+[primordial_bloom]
+	#Primordial Bloom — Unique Skill (Stage 2)
+	#Magicule regeneration rate per second (percent of max)
+	# Default: 3
+	# Range: 1 ~ 50
+	regen_rate_percent_per_second = 3
+
+[cosmic_awareness]
+	#Cosmic Awareness — Intrinsic Skill (Stage 2)
+	#Detection range for invisible entities and presence sense
+	# Default: 32
+	# Range: 8 ~ 128
+	detection_range = 32
+
+[stellar_ascension]
+	#Stellar Ascension — Intrinsic Skill (Stage 3)
+	#Bonus attack damage when toggled on
+	# Default: 4.0
+	# Range: 0.0 ~ 100.0
+	attack_bonus = 4.0
+	#Bonus max health when toggled on
+	# Default: 20.0
+	# Range: 0.0 ~ 1000.0
+	health_bonus = 20.0
+	#Bonus magic damage dealt on attack (non-mastered)
+	# Default: 2.0
+	# Range: 0.0 ~ 50.0
+	damage_bonus = 2.0
+	#Bonus magic damage dealt on attack (mastered)
+	# Default: 4.0
+	# Range: 0.0 ~ 50.0
+	mastered_damage_bonus = 4.0
+	#Energy cost per tick while toggled on
+	# Default: 5.0
+	# Range: 0.0 ~ 1000.0
+	energy_cost = 5.0
+
+[ecliptic_mastery]
+	#Ecliptic Mastery — Intrinsic Skill (Stage 3)
+	#Bonus armor when skill is learned
+	# Default: 6.0
+	# Range: 0.0 ~ 100.0
+	armor = 6.0
+	#Bonus armor toughness when skill is learned
+	# Default: 4.0
+	# Range: 0.0 ~ 100.0
+	toughness = 4.0
+	#Damage reflected back to attackers (non-mastered)
+	# Default: 1.0
+	# Range: 0.0 ~ 100.0
+	reflect_damage = 1.0
+	#Damage reflected back to attackers (mastered)
+	# Default: 3.0
+	# Range: 0.0 ~ 100.0
+	mastered_reflect_damage = 3.0
+	#Chance to negate incoming damage (non-mastered, 0.05 = 5%)
+	# Default: 0.05
+	# Range: 0.0 ~ 1.0
+	negate_chance = 0.05
+	#Chance to negate incoming damage (mastered, 0.10 = 10%)
+	# Default: 0.1
+	# Range: 0.0 ~ 1.0
+	mastered_negate_chance = 0.1
+
+[luminarch_blessing]
+	#Luminarch Blessing — Intrinsic Skill (Stage 4)
+	#Energy cost per tick while toggled on
+	# Default: 200
+	# Range: 0 ~ 10000
+	energy_cost_per_tick = 200
+	#Glowing detection range (non-mastered)
+	# Default: 24
+	# Range: 4 ~ 128
+	glow_range = 24
+	#Glowing detection range (mastered)
+	# Default: 48
+	# Range: 4 ~ 128
+	mastered_glow_range = 48
+	#Range for healing nearby allies (mastered only)
+	# Default: 4.0
+	# Range: 1.0 ~ 32.0
+	heal_range = 4.0
+
+[primordial_fortitude]
+	#Primordial Fortitude — Intrinsic Skill (Stage 5)
+	#Bonus attack damage
+	# Default: 10.0
+	# Range: 0.0 ~ 100.0
+	attack_bonus = 10.0
+	#Bonus max health
+	# Default: 40.0
+	# Range: 0.0 ~ 1000.0
+	health_bonus = 40.0
+	#Bonus armor
+	# Default: 12.0
+	# Range: 0.0 ~ 100.0
+	armor = 12.0
+	#Bonus armor toughness
+	# Default: 8.0
+	# Range: 0.0 ~ 100.0
+	toughness = 8.0
+	#Movement speed multiplier (0.1 = 10% faster)
+	# Default: 0.1
+	# Range: 0.0 ~ 5.0
+	speed_multiplier = 0.1
+	#Damage reduction factor (non-mastered, 0.55 = 55% reduction, 1.0 = 100%)
+	# Default: 0.55
+	# Range: 0.0 ~ 1.0
+	damage_reduction = 0.55
+	#Damage reduction factor (mastered, 0.65 = 65% reduction, 1.0 = 100%)
+	# Default: 0.65
+	# Range: 0.0 ~ 1.0
+	mastered_damage_reduction = 0.65
+	#Bonus to ability learning rate
+	# Default: 50.0
+	# Range: 0.0 ~ 1000.0
+	learning_gain = 50.0
+	#Bonus to ability mastery rate
+	# Default: 50.0
+	# Range: 0.0 ~ 1000.0
+	mastery_gain = 50.0
+	#Chant speed multiplier
+	# Default: 5.0
+	# Range: 1.0 ~ 50.0
+	chant_speed = 5.0
+
+[creation_authority]
+	#Creation Authority — Ultimate Skill (Stage 6)
+	#Cooldown in ticks after use (non-mastered)
+	# Default: 200
+	# Range: 10 ~ 1200
+	cooldown_ticks = 200
+	#Cooldown in ticks after use (mastered)
+	# Default: 60
+	# Range: 10 ~ 1200
+	mastered_cooldown_ticks = 60
+	#Energy cost to activate
+	# Default: 5000.0
+	# Range: 0.0 ~ 100000.0
+	energy_cost = 5000.0
+	#Explosion radius (non-mastered)
+	# Default: 12.0
+	# Range: 1.0 ~ 64.0
+	explosion_radius = 12.0
+	#Explosion radius (mastered)
+	# Default: 18.0
+	# Range: 1.0 ~ 64.0
+	mastered_explosion_radius = 18.0
+	#Invulnerability duration in ticks after activation
+	# Default: 40
+	# Range: 0 ~ 200
+	immunity_duration = 40
+
+[divine_devour]
+	#Divine Devour — Unique Skill (Universal)
+	#Chance to steal Common/Intrinsic/Extra skills (0.10 = 10%)
+	# Default: 0.1
+	# Range: 0.01 ~ 1.0
+	success_chance = 0.1
+	#Chance to steal UNIQUE skills when allow_unique_skills is true (0.05 = 5%)
+	# Default: 0.05
+	# Range: 0.01 ~ 1.0
+	unique_success_chance = 0.05
+	#Chance to steal ULTIMATE skills when allow_ultimate_skills is true (0.01 = 1%)
+	# Default: 0.01
+	# Range: 0.01 ~ 1.0
+	ultimate_success_chance = 0.01
+	#Allow Divine Devour to copy UNIQUE skills from targets
+	#Default: false (only Common/Intrinsic/Extra skills can be copied)
+	allow_unique_skills = false
+	#Allow Divine Devour to copy ULTIMATE skills from targets
+	#Default: false (only Common/Intrinsic/Extra skills can be copied)
+	allow_ultimate_skills = false
+	#List of skills that Divine Devour cannot copy.
+	#Format: "modid:skill_id" (e.g. "tensura:predation")
+	#These skills will never be stolen regardless of allow_unique_skills or allow_ultimate_skills.
+	skill_blacklist = []
+	#Cooldown in ticks after use (non-mastered)
+	# Default: 10
+	# Range: 1 ~ 200
+	cooldown_ticks = 10
+	#Cooldown in ticks after use (mastered)
+	# Default: 5
+	# Range: 1 ~ 200
+	mastered_cooldown_ticks = 5
+	#Maximum range to target a mob for skill stealing
+	# Default: 32.0
+	# Range: 4.0 ~ 128.0
+	range = 32.0
+
+[divine_disruption]
+	#Divine Disruption — Unique Skill (AoE Magicule Nullification)
+	#Magicule cost on activation as a fraction of max magicule (0.10 = 10%)
+	# Default: 0.1
+	# Range: 0.01 ~ 1.0
+	activation_cost = 0.1
+	#Magicule cost on activation when mastered (0.05 = 5%)
+	# Default: 0.05
+	# Range: 0.01 ~ 1.0
+	activation_cost_mastered = 0.05
+	#Magicule cost per 10 ticks while active as a fraction of max magicule (0.05 = 5%)
+	# Default: 0.05
+	# Range: 0.01 ~ 1.0
+	tick_cost = 0.05
+	#Magicule cost per 10 ticks while active when mastered (0.02 = 2%)
+	# Default: 0.02
+	# Range: 0.01 ~ 1.0
+	tick_cost_mastered = 0.02
+	#Radius of the disruption aura in blocks
+	# Default: 15.0
+	# Range: 4.0 ~ 64.0
+	aoe_radius = 15.0
+	#Ticks between each sustained magicule cost drain
+	# Default: 10
+	# Range: 1 ~ 100
+	cost_interval = 10
+
+[divine_nexus]
+	#Divine Nexus — Awakening prerequisites (New God only)
+	#Minimum unique skills required to unlock Divine Nexus path
+	# Default: 5
+	# Range: 1 ~ 20
+	min_unique_skills = 5
+	#Minimum EP required to see Divine Nexus option
+	# Default: 150000
+	# Range: 0 ~ 10000000
+	min_ep_required = 150000
+	#EP cost per Nexus Core consumed
+	# Default: 10000
+	# Range: 0 ~ 1000000
+	nexus_core_ep_cost = 10000
+
+[divine_nexus_awakening]
+	#Divine Nexus — Full awakening requirements
+	#Minimum EP required to attempt Divine Nexus awakening
+	# Default: 1000000
+	# Range: 0 ~ 1000000000
+	ep_required = 1000000
+	#Number of Nexus Cores required to attempt Divine Nexus awakening
+	# Default: 1000
+	# Range: 0 ~ 100000
+	cores_required = 1000
+	#Path A: Number of True Demon Lord PLAYERS you must kill.
+	#These must be actual players who have awakened as True Demon Lord.
+	#Killing NPC demon lords does NOT count for this requirement.
+	# Default: 3
+	# Range: 0 ~ 100
+	demon_lord_kills_required = 3
+	#Path B: Number of hostile mobs you must kill.
+	#This is the alternative to Path A, combined with boss kills below.
+	# Default: 50000
+	# Range: 0 ~ 10000000
+	hostile_mob_kills_required = 50000
+	#Path B: Whether killing Hinata Sakaguchi is required.
+	#Part of the alternative path if you choose not to kill 3 True Demon Lord players.
+	require_hinata_kill = true
+	#Path B: List of specific boss mobs that must ALL be killed.
+	#Format: "modid:entity_id" (e.g. "tensura:hinata_sakaguchi")
+	#Part of the alternative path if you choose not to kill 3 True Demon Lord players.
+	#Hinata is controlled by require_hinata_kill above; add her here only if you want dual counting.
+	boss_mobs = []

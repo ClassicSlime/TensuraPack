@@ -1,0 +1,96 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "malum:blight"
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blight_placeable_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blight_removable"
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blight_replaceable"
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:blighted_plants"
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:greater_aerial_whitelist"
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:inextinguishable_flame"
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:is_rite_immune"
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:runewood_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:soulwood_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:sundering_anchor_please_be_a_knife"
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:tainted_rock"
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:tainted_rock_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:tainted_rock_slabs"
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:tainted_rock_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:tainted_rock_walls"
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:twisted_rock"
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:twisted_rock_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:twisted_rock_slabs"
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:twisted_rock_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:twisted_rock_walls"
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:unchained_rite_catalyst"
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:weeping_well"
+		}
+	]
+}

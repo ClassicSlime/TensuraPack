@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation_tensura_addon:black_petal"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation_tensura_addon:blood_mist"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation_tensura_addon:gravity_arc"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation_tensura_addon:red_petal"
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation_tensura_addon:shadow_carpet"
+		}
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "sauce:contingency",
+			"data": {
+				"Instant": false,
+				"Color": 0,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "sauce:mana_cost_down",
+			"data": {
+				"Instant": false,
+				"Color": 8080895,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "sauce:rage",
+			"data": {
+				"Instant": false,
+				"Color": 16762624,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "sauce:spell_crit_up",
+			"data": {
+				"Instant": false,
+				"Color": 8080895,
+				"Category": "beneficial"
+			}
+		}
+	]
+}

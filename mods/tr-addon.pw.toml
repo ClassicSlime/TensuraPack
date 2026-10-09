@@ -1,0 +1,13 @@
+name = "Tensura: Reincarnated Addon"
+filename = "traddon-neoforge-2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0cbb72baaf6a7c7008043b99b299326417a53bce"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7899584
+project-id = 1132105

@@ -1,0 +1,128 @@
+{
+	"biomes": [
+		"mysticism:wind_biome"
+	],
+	"rule": {
+		"type": "minecraft:sequence",
+		"sequence": [
+			{
+				"type": "minecraft:sequence",
+				"sequence": [
+					{
+						"if_true": {
+							"type": "minecraft:stone_depth",
+							"secondary_depth_range": 0,
+							"offset": 0,
+							"surface_type": "floor",
+							"add_surface_depth": false
+						},
+						"then_run": {
+							"type": "minecraft:block",
+							"result_state": {
+								"Name": "minecraft:moss_block"
+							}
+						},
+						"type": "minecraft:condition"
+					},
+					{
+						"if_true": {
+							"type": "minecraft:stone_depth",
+							"secondary_depth_range": 0,
+							"offset": 0,
+							"surface_type": "floor",
+							"add_surface_depth": true
+						},
+						"then_run": {
+							"type": "minecraft:block",
+							"result_state": {
+								"Name": "minecraft:mossy_cobblestone"
+							}
+						},
+						"type": "minecraft:condition"
+					},
+					{
+						"if_true": {
+							"type": "minecraft:stone_depth",
+							"secondary_depth_range": 30,
+							"offset": 0,
+							"surface_type": "floor",
+							"add_surface_depth": true
+						},
+						"then_run": {
+							"type": "minecraft:block",
+							"result_state": {
+								"Name": "minecraft:stone"
+							}
+						},
+						"type": "minecraft:condition"
+					},
+					{
+						"type": "minecraft:block",
+						"result_state": {
+							"Name": "minecraft:moss_block"
+						}
+					}
+				]
+			},
+			{
+				"type": "minecraft:sequence",
+				"sequence": [
+					{
+						"if_true": {
+							"type": "minecraft:stone_depth",
+							"secondary_depth_range": 0,
+							"offset": 0,
+							"surface_type": "floor",
+							"add_surface_depth": false
+						},
+						"then_run": {
+							"type": "minecraft:block",
+							"result_state": {
+								"Name": "minecraft:moss_block"
+							}
+						},
+						"type": "minecraft:condition"
+					},
+					{
+						"if_true": {
+							"type": "minecraft:stone_depth",
+							"secondary_depth_range": 0,
+							"offset": 0,
+							"surface_type": "floor",
+							"add_surface_depth": true
+						},
+						"then_run": {
+							"type": "minecraft:block",
+							"result_state": {
+								"Name": "minecraft:mossy_cobblestone"
+							}
+						},
+						"type": "minecraft:condition"
+					},
+					{
+						"if_true": {
+							"type": "minecraft:stone_depth",
+							"secondary_depth_range": 30,
+							"offset": 0,
+							"surface_type": "floor",
+							"add_surface_depth": true
+						},
+						"then_run": {
+							"type": "minecraft:block",
+							"result_state": {
+								"Name": "minecraft:stone"
+							}
+						},
+						"type": "minecraft:condition"
+					},
+					{
+						"type": "minecraft:block",
+						"result_state": {
+							"Name": "minecraft:moss_block"
+						}
+					}
+				]
+			}
+		]
+	}
+}

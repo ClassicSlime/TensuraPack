@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "ultimateultimateaddon:example_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "ultimateultimateaddon:example_item"
+		}
+	]
+}

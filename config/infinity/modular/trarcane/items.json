@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "trarcane:eclipse_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "trarcane:gauntlet"
+		},
+		{
+			"weight": 1.0,
+			"key": "trarcane:lich_book"
+		},
+		{
+			"weight": 1.0,
+			"key": "trarcane:phylactery"
+		}
+	]
+}

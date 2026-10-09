@@ -1,0 +1,54 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "trnightmare:cadence_accel_glass",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:domicile_door",
+			"data": {
+				"float": false,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:domicile_trapdoor",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:gabriel_snow_crystal",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:stasis_lattice",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		}
+	]
+}

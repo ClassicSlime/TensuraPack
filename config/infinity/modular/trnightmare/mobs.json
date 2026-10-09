@@ -1,0 +1,382 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "trnightmare:ancient_giant",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:angel_knight",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:arch_angel",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:arch_fallen",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:arch_phantom",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:death_oni",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:divine_bird",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:divine_fighter",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:divine_giant",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:divine_oni",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:dragon_clone_veldora",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:dragon_clone_velgrynd",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:dragon_clone_velzard",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:enlightened_ogre",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:giant",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:greater_angel",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:greater_fallen",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:greater_phantom",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:harpy",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:harpy_queen",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:kijin",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:lesser_angel",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:lesser_fallen",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:lesser_phantom",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:mystic_oni",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:ogre",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:sentient_boss_agera",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:sentient_boss_ancient_daemon",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:sentient_boss_arios",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:sentient_boss_blanc",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:sentient_boss_bleu",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:sentient_boss_frey",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:sentient_boss_gii_crimson",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:sentient_boss_glenda",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:sentient_boss_jaune",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:sentient_boss_kokuyou",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:sentient_boss_lucius",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:sentient_boss_mariabell_rosso",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:sentient_boss_masayuuki",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:sentient_boss_milim_wrath",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:sentient_boss_noir",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:sentient_boss_primordial_daemon",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:sentient_boss_raymond",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:sentient_boss_veldanava",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:sentient_boss_veldora",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:sentient_boss_velgrynd",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:sentient_boss_velzard",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:sentient_boss_vert",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:sentient_boss_violet",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:sentient_boss_yuuki_desire",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:seraph",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:spirit_bird",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:spirit_oni",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:wicked_oni",
+			"data": {
+				"Category": "monster"
+			}
+		}
+	]
+}

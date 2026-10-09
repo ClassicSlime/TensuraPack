@@ -1,0 +1,58 @@
+#Experimental sub-toggle for magicule exposure, entity contamination, deficit, and symptoms. The troverhaulExperimentalMagiculeDensity gamerule must also be enabled.
+enableMagiculeExposure = true
+#When true, monsters and spiritual beings can suffer deficit in magically dead or purified areas.
+enableMonsterStarvation = true
+#When true, villagers can build exposure from high magicule density. Damage is still slowed by profile tuning.
+enableVillagerExposure = true
+#When true, ordinary animals can build exposure from high magicule density.
+enableAnimalExposure = true
+#When true, high-current-magicule beings build Troverhaul biome/cave-surface environmental pressure.
+enableChunkContamination = true
+#Documents that aura logic remains separate from magicule density logic.
+auraSystemSeparate = true
+#Current magicules required before a being leaks meaningful magicules into the environment.
+magiculeLeakThreshold = 250000.0
+#Maximum suppressed magicules counted for SHP drain.
+maximumSuppressedMagiculesCounted = 1.0E9
+#SHP drained per second per one billion suppressed magicules.
+suppressionDrainPerBillion = 1.0
+#Percent of magicule leakage that still escapes during current suppression.
+suppressionLeakPercent = 1.0
+#Percent of magicule leakage that still escapes during basic suppression when the entity lacks control/sense skills.
+basicSuppressionLeakPercent = 25.0
+#SHP drain multiplier for controlled suppression.
+controlledSuppressionDrainMultiplier = 0.75
+#Multiplier for periodic exposure and deficit damage.
+exposureDamageMultiplier = 1.0
+#Multiplier for entity contamination/load/deficit decay.
+contaminationDecayRate = 1.0
+#Hard cap for direct chunk magicules added by admin contamination commands and legacy cleanup.
+maxChunkContamination = 1000000.0
+#Hard cap for Troverhaul biome/cave-surface pressure density.
+maxBiomePressure = 250.0
+#Horizontal block size used to merge nearby leakage into one biome/cave-surface pressure pocket.
+biomePressureCellSize = 32
+#Horizontal distance in blocks over which biome/cave-surface pressure fades out from each pressure pocket.
+biomePressureFalloffRadius = 192.0
+#Biome/cave-surface pressure density lost per second without new leakage.
+biomePressureDecayPerSecond = 0.35
+#How quickly current biome/cave-surface pressure approaches its target each second.
+biomePressureApproachRate = 0.2
+#Percent of leakage pressure that bleeds between surface and cave contexts of the same biome.
+biomePressureCrossLayerBleedPercent = 5.0
+#Ambient density required before Troverhaul adds extra current magicule regeneration.
+ambientMagiculeRegenDensityThreshold = 12.0
+#Current magicules restored per second for each ambient density point above the regen threshold.
+ambientMagiculeRegenPerDensity = 2.0
+#Maximum fraction of max magicules Troverhaul ambient regen can restore per second.
+ambientMagiculeRegenMaxRatio = 0.001
+#Ambient magicule regen multiplier for beings that do not naturally metabolize magicules.
+ambientMagiculeRegenNonMetabolizerMultiplier = 0.25
+#Current magicules counted as one density point of personal reserve against magicule deficit.
+selfMagiculeDeficitBufferScale = 1000.0
+#Current magicules drained per second for each missing ambient density point while reserve prevents deficit.
+selfMagiculeDeficitDrainPerDensity = 10.0
+#Seconds that magicule exposure damage can remember a pressure source for kill credit.
+magiculeKillCreditMemorySeconds = 30.0
+#Multiplier applied when future safe-zone protection is detected. Lower values are safer.
+safeZoneProtectionMultiplier = 1.0

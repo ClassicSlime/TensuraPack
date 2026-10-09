@@ -1,0 +1,13 @@
+name = "Tensura Bestiary"
+filename = "tensura_bestiary-0.0.0.2C.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ce2afac7826f3a8d27b57d590da36f52e0d4bfb3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9049709
+project-id = 1663734

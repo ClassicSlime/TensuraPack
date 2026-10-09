@@ -1,0 +1,176 @@
+[judgment]
+	#Minutes of online playtime between automatic judgments by the Voice of the World.
+	#Default 1440 = 24 hours of playtime.
+	# Default: 1440
+	# Range: 1 ~ 525600
+	judgmentIntervalMinutes = 1440
+	#Minimum playstyle score needed for the Voice to grant a skill.
+	# Default: 100.0
+	# Range: 0.0 ~ 1000000.0
+	minScore = 100.0
+	#Chance (0.0 - 1.0) that the granted Unique Skill is permanent.
+	#Otherwise it is temporary and expires after tempDurationSeconds.
+	# Default: 0.2
+	# Range: 0.0 ~ 1.0
+	permanentChance = 0.2
+	#How many real-time seconds a temporary skill grant lasts.
+	# Default: 3600
+	# Range: 10 ~ 1728000
+	tempDurationSeconds = 3600
+
+[mechanics]
+	#If the player already owns every skill in their pool, upgrade a temporary one:
+	#permanentChance roll makes it permanent, otherwise its duration is extended.
+	upgradeExisting = true
+	#Mastery head-start: granted skills start with (score * this) mastery points.
+	# Default: 0.02
+	# Range: 0.0 ~ 10.0
+	masteryPerScore = 0.02
+	#Maximum mastery points a skill can start with.
+	# Default: 20.0
+	# Range: 0.0 ~ 1000.0
+	masteryCap = 20.0
+	#Sin score needed before the Sinner path can trigger.
+	# Default: 50.0
+	# Range: 0.0 ~ 1000000.0
+	sinThreshold = 50.0
+	#Chance (0.0 - 1.0) that a qualifying sinner is judged by their sins instead of their playstyle.
+	# Default: 0.5
+	# Range: 0.0 ~ 1.0
+	sinChance = 0.5
+	#Halfway through the judgment cycle, the Voice whispers which path the player is walking.
+	enableWhispers = true
+	#Pause the judgment clock for players who are idle (no movement, camera motion, or actions).
+	enableAntiAfk = true
+	#Seconds without activity before a player counts as AFK.
+	# Default: 90
+	# Range: 5 ~ 3600
+	afkTimeoutSeconds = 90
+	#If true, skills are chosen weighted by an optional per-entry weight.
+	#Pool entries may be written as "skillid;weight" (e.g. "tensura:berserker;3"); default weight is 1.
+	weightedSelection = true
+
+[sin]
+	#Sin gained per kill. These feed the Sinner path (see mechanics.sinThreshold).
+	# Default: 5.0
+	# Range: 0.0 ~ 100000.0
+	sinPerVillagerKill = 5.0
+	# Default: 10.0
+	# Range: 0.0 ~ 100000.0
+	sinPerTamedKill = 10.0
+	# Default: 20.0
+	# Range: 0.0 ~ 100000.0
+	sinPerPlayerKill = 20.0
+
+[antiFarming]
+	#If true, damage dealt to and kills of passive mobs (animals, villagers) do NOT count toward
+	#combat archetypes. Only hostile mobs and players count. Stops farming a friendly punching bag.
+	combatIgnorePassive = true
+	#Diminishing returns exponent applied to every stat before weighting (value^exponent).
+	#1.0 = linear (off). Lower values (e.g. 0.7) mean grinding one stat pays less and less.
+	# Default: 1.0
+	# Range: 0.1 ~ 1.0
+	diminishingExponent = 1.0
+
+[existencePoints]
+	#Gate grants by the player's Tensura Existence Points (EP), so weak players are not flooded
+	#with top-tier uniques and strong players are more likely to keep them.
+	epGatingEnabled = false
+	#Below this EP the Voice will not grant anything (only applies when epGatingEnabled).
+	# Default: 0.0
+	# Range: 0.0 ~ 1.0E12
+	minEpForGrant = 0.0
+	#Below this EP every grant is temporary, regardless of permanentChance (only when epGatingEnabled).
+	# Default: 0.0
+	# Range: 0.0 ~ 1.0E12
+	minEpForPermanent = 0.0
+
+[feedback]
+	#Show a subtle action-bar line with the player's dominant path and time to next judgment.
+	enableActionBarHud = false
+	#Sound played to a player when the Voice grants them a skill. Empty string = silent.
+	grantSound = "minecraft:entity.player.levelup"
+
+[announcements]
+	#Announce permanent grants to the receiving player.
+	announcePermanentGrant = true
+	#Announce temporary grants to the receiving player.
+	announceTemporaryGrant = true
+	#Proclaim permanent grants to the whole server.
+	broadcastPermanentGrants = true
+	#Tell the player when a judgment happened but nothing was granted.
+	announceFailedJudgment = true
+
+[messages]
+	#Placeholders: {player} {archetype} {skill} {duration}. {skill} keeps Tensura's colored skill name.
+	prefix = "« Voice of the World » "
+	grantPermanent = "Confirmed. Individual {player} has walked the path of the {archetype}. Unique Skill {skill} has been etched into their soul permanently."
+	grantTemporary = "Confirmed. Individual {player} has walked the path of the {archetype}. Unique Skill {skill} is bestowed as a fleeting blessing — it will fade after {duration}."
+	upgradePermanent = "The World acknowledges {player}'s devotion to the path of the {archetype}. The fleeting blessing {skill} is now eternal."
+	extendTemporary = "The World sustains {player}'s blessing. {skill} shall remain for another {duration}."
+	sinGrant = "The World has witnessed the sins of Individual {player}. Unique Skill {skill} — such is the price, and the reward."
+	failedJudgment = "Judgment complete. Individual {player} has not yet fulfilled any conditions. Continue striving."
+	allOwned = "Judgment complete. Individual {player} already possesses all blessings fitting the path of the {archetype}."
+	broadcast = "The World proclaims: Individual {player} has acquired Unique Skill {skill} through the path of the {archetype}!"
+	whisper = "...The World watches your path of the {archetype}..."
+	lowEp = "Judgment complete. Individual {player} lacks the existence to bear such a blessing. Grow stronger."
+	doubleEdged = "But the World exacts a price. {player} is Marked — power and burden, bound as one."
+
+[alignment]
+	#If true, a playstyle path is only offered to players whose Tensura alignment matches the
+	#path's "alignment" field (good/neutral/evil; "any" always qualifies). Alignment still colours
+	#the Voice's whispers even when this is off.
+	alignmentGating = false
+
+[whispers]
+	#Contextual ambient lines. The mid-cycle whisper picks one matching the player's alignment,
+	#or the sinful pool when their sin is high. Placeholders {player} {archetype}.
+	#Leave a pool empty to fall back to messages.whisper.
+	neutral = ["...The World watches your path of the {archetype}...", "...{player}. The World has not looked away..."]
+	good = ["...Your deeds shine, {player}. The World smiles upon the {archetype}...", "...A righteous path, {player}. Walk it to its end..."]
+	evil = ["...The World tastes the malice in you, {player}...", "...Such hunger, {player}. The {archetype} feeds it well..."]
+	sinful = ["...Blood trails behind you, {player}. The World has counted every drop...", "...Sin clings to you, {player}. Soon it will answer..."]
+
+[titles]
+	#Give players an epithet that is reassigned every time the Voice grants them a skill.
+	enableTitles = true
+	#Show the epithet in front of the player's name in chat.
+	showInChat = true
+	#Show the epithet in the player list (tab).
+	showInTabList = true
+	#How the epithet wraps the name. {epithet} = the earned title.
+	titleFormat = "[{epithet}] "
+	#Colour of the epithet: a Minecraft ChatFormatting name (e.g. GOLD, AQUA, DARK_RED, LIGHT_PURPLE).
+	titleColor = "GOLD"
+	#Epithet applied when the Sinner path grants a skill.
+	sinEpithet = "the Sinner"
+	#Epithet applied when a judgment grants nothing - the World turns away.
+	worldlessEpithet = "the Worldless"
+
+[doubleEdged]
+	#Some grants come with a price: a lingering 'Marked by the World' effect alongside the skill.
+	enabled = false
+	#Chance (0.0 - 1.0) that a grant is double-edged.
+	# Default: 0.25
+	# Range: 0.0 ~ 1.0
+	chance = 0.25
+	#If true, only permanent grants can be double-edged.
+	permanentOnly = false
+	#Mob effect id applied as the mark. Empty string = message only, no effect.
+	markEffect = "minecraft:weakness"
+	#Mark duration in seconds.
+	# Default: 120
+	# Range: 1 ~ 86400
+	markDurationSeconds = 120
+	#Mark amplifier (0 = level I, 1 = level II, ...).
+	# Default: 0
+	# Range: 0 ~ 255
+	markAmplifier = 0
+
+[skillPools]
+	#Per-archetype skill pools now live in datapack JSON (data/<namespace>/votw_archetypes/*.json).
+	#These remaining pools are global. Entries are skill ids (namespace optional, tensura: assumed),
+	#optionally with a weight: "skillid;weight". /votw autoadd fills universal with addon uniques.
+	sinSkills = ["envy", "gluttony", "greed", "lust", "pride", "sloth", "wrath"]
+	universalSkills = ["absolute_severance", "ascension:bubble_majin", "ascension:deus_sanguis", "ascension:eye_of_mind", "ascension:great_mage", "ascension:imprisoned_jester", "ascension:king_of_curses", "berserk", "degenerate", "elitetensura:voidedge", "fusionist", "great_sage", "infinity_prison", "jeremis_tensura:evil_kitchen", "jeremis_tensura:false_mirage", "jeremis_tensura:heavenly_acceleration", "mortal_cultivation:qi_flight", "musician", "mysticism:butcher", "mysticism:captivator", "mysticism:constant", "mysticism:corroder", "mysticism:crasher", "mysticism:cultivator", "mysticism:dreamer", "mysticism:engineer", "mysticism:gardener", "mysticism:hidden_ruler", "mysticism:kyurem", "mysticism:malleable", "mysticism:melancholy", "mysticism:phaser", "mysticism:provider", "mysticism:reducer", "mysticism:repeater", "mysticism:reshiram", "mysticism:scholar", "mysticism:spiritualist", "mysticism:stagnator", "mysticism:subjugator", "mysticism:victorious_harbinger", "mysticism:zekrom", "predator", "reverser", "starved", "suppressor", "tensuramoreskills:adaptability", "tensuramoreskills:albis_vina", "tensuramoreskills:authority_of_greed", "tensuramoreskills:boogie_woogie", "tensuramoreskills:domain_of_negation", "traddon:total_reflection", "trarcane:holy", "trarcane:investigator", "trarcane:milim_eye", "trarcane:necro_lord", "trnightmare:acceleration", "trnightmare:carnation", "trnightmare:coffin_of_darkness", "trnightmare:deadly_poison", "trnightmare:ending", "trnightmare:infinity", "trnightmare:investigator", "trnightmare:projection_sorcery", "trnightmare:soul_shrine", "trnightmare:sunshine", "trnightmare:the_warden", "troverhaul:avenger", "troverhaul:awakener", "troverhaul:carnation", "troverhaul:guide", "troverhaul:leader", "troverhaul:looter", "troverhaul:manipulator", "troverhaul:megalomania", "troverhaul:overcomer", "troverhaul:paranoia", "troverhaul:portfolio", "troverhaul:responder", "troverhaul:sentient_being", "troverhaul:spiral_body", "troverhaul:supporter", "troverhaul:tempter", "usurper", "villain"]
+	blacklist = []

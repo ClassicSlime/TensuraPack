@@ -1,0 +1,93 @@
+# Bosses'Rise x Tensura: Reincarnated compatibility config
+# Grants EP (Existence Points) and Tensura skills to Bosses'Rise world bosses
+# the first time each boss is encountered.
+
+[general]
+# Grant EP to bosses on spawn.
+grant_ep = true
+# Grant Tensura skills to bosses on spawn.
+grant_skills = true
+# If false (default), a boss's EP is only set the first time it is seen
+# (i.e. only if its current EP is below the configured value). If true,
+# EP is force-set to the configured value every time the boss (re)loads.
+overwrite_existing_ep = false
+# Attach an AI goal to bosses/tentacle so they periodically cast one of
+# their active skills (e.g. Flame Breath, Water Domination). Minions never
+# get this goal regardless of this setting - only entries with active skills do.
+grant_active_skill_ai = true
+
+[infernal_dragon]
+# Infernal Dragon (boss-tier, can cast active skills)
+enabled = true
+ep = 400000
+
+[kraken]
+# Kraken (boss-tier, can cast active skills)
+enabled = true
+ep = 180000
+
+[kraken_tentacle]
+# Kraken Tentacle (boss-tier, can cast active skills)
+enabled = true
+ep = 60000
+
+[underworld_knight]
+# Underworld Knight (boss-tier, can cast active skills)
+enabled = true
+ep = 120000
+
+[yeti]
+# Yeti (boss-tier, can cast active skills)
+enabled = true
+ep = 90000
+
+[sandworm]
+# Sandworm (boss-tier, can cast active skills)
+enabled = true
+ep = 70000
+
+[soul_knight_wither_skeleton]
+# Soul Knight Wither Skeleton (minion)
+enabled = true
+ep = 25000
+
+[soul_skeleton]
+# Soul Skeleton (minion)
+enabled = true
+ep = 8000
+
+[crossbow_pirate]
+# Crossbow Pirate (minion)
+enabled = true
+ep = 10000
+
+[pirate_rook]
+# Pirate Rook (minion)
+enabled = true
+ep = 8000
+
+[pirate_captain]
+# Pirate Captain (minion)
+enabled = true
+ep = 22000
+
+[ghost_tentacle]
+# Ghost Tentacle (minion)
+enabled = true
+ep = 12000
+
+[dragon_guard_sword]
+# Dragon Guard (minion)
+enabled = true
+ep = 18000
+
+[flaming_skeleton_guard_sword]
+# Flaming Skeleton Guard (minion)
+enabled = true
+ep = 18000
+
+[flaming_skeleton_guard_fireball]
+# Flaming Skeleton Guard (Fireball) (minion)
+enabled = true
+ep = 16000
+

@@ -1,0 +1,13 @@
+name = "Blensura Tensura Addon"
+filename = "blensura-0.4.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3a5332b63a6cf8d20c230cc16a34179e0512c23c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8412816
+project-id = 1543953

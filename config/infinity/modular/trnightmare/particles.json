@@ -1,0 +1,112 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "trnightmare:acid_bubble"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:acid_effect"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:blank"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:bog_bubble"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:bog_effect"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:chaos_eater_effect"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:emerald_spark"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:greed_coin"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:grey_lightning"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:gust"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:hell_flare_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:mint_spark"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:mud_bubble"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:mud_effect"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:paralysing_bubble"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:paralysing_effect"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:poison_bubble"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:poison_effect"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:small_gust"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:sonic_blast"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:sonic_sound"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:sound_giant"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:sound_requiem"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:steam_effect"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:water_bubble"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:water_effect"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:white_fire"
+		}
+	]
+}

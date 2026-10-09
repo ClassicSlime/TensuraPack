@@ -1,0 +1,144 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "tensura:black_fire_source"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:boss_immune"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:breakable_by_monster"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:diggable_by_monster"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:kilns"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:loose_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:magic_engines"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:magic_explosion_immune"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:magic_ores"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:mobs_spawnable_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:openable_by_npc"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ores"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ores_deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ores_nether"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ores_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:silver_ores"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:skill/earth_dominating"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:skill/earth_manipulating"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:skill/earth_skill_breakable"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:skill/easy_to_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:skill/easy_to_smelt"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:skill/heat_source_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:skill/multi_block_ignore"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:skill/not_teleportable_against"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:skill/ore_skill_breakable"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:skill/trap_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:skill/treasure_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:skill/unbreakable"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:skill/unobtainable"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:sticky_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:warp_pads"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:web_available"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:web_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:web_replaceable"
+		}
+	]
+}

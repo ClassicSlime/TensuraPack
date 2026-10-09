@@ -1,0 +1,2 @@
+#When true, automatic Carnation evolution consumes mastered Gluttony and Sentient Being after Carnation is successfully learned.
+consumeRequirementsOnEvolution = false

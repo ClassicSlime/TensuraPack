@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "blensura:dominion_grimoire"
+		},
+		{
+			"weight": 1.0,
+			"key": "blensura:magic_pouch"
+		}
+	]
+}

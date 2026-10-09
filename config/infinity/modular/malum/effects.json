@@ -1,0 +1,274 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "malum:arcanaphage",
+			"data": {
+				"Instant": false,
+				"Color": -7578996,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:ascension",
+			"data": {
+				"Instant": false,
+				"Color": -11799590,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:avarice",
+			"data": {
+				"Instant": false,
+				"Color": -6563,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:burning_fervor",
+			"data": {
+				"Instant": false,
+				"Color": -353761,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:cancerous_growth",
+			"data": {
+				"Instant": false,
+				"Color": -8513185,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:desperate_need",
+			"data": {
+				"Instant": false,
+				"Color": -10987972,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:echoing_arcana",
+			"data": {
+				"Instant": false,
+				"Color": -45078,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:fiery_embrace",
+			"data": {
+				"Instant": false,
+				"Color": -353761,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:flawed_aim",
+			"data": {
+				"Instant": false,
+				"Color": -8654614,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:flowing_grasp",
+			"data": {
+				"Instant": false,
+				"Color": -14850840,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:gleeful_target",
+			"data": {
+				"Instant": false,
+				"Color": -331676,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:gluttony",
+			"data": {
+				"Instant": false,
+				"Color": -10987972,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:good_tides",
+			"data": {
+				"Instant": false,
+				"Color": -14850840,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:grim_certainty",
+			"data": {
+				"Instant": false,
+				"Color": -1323015,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:hatred",
+			"data": {
+				"Instant": false,
+				"Color": -353761,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:howling_gale",
+			"data": {
+				"Instant": false,
+				"Color": -11799590,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:imminent_deliverance",
+			"data": {
+				"Instant": false,
+				"Color": -1323015,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:lifted",
+			"data": {
+				"Instant": false,
+				"Color": -11799590,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:oaken_might",
+			"data": {
+				"Instant": false,
+				"Color": -11997671,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:rejected",
+			"data": {
+				"Instant": false,
+				"Color": -15462890,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:sacred_nourishment",
+			"data": {
+				"Instant": false,
+				"Color": -1168248,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:shaken_faith",
+			"data": {
+				"Instant": false,
+				"Color": -15172374,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:silenced",
+			"data": {
+				"Instant": false,
+				"Color": -15462890,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:sky_tether",
+			"data": {
+				"Instant": false,
+				"Color": -11799590,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:stone_ward",
+			"data": {
+				"Instant": false,
+				"Color": -11997671,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:trial_of_faith",
+			"data": {
+				"Instant": false,
+				"Color": -10987972,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:true_shot",
+			"data": {
+				"Instant": false,
+				"Color": -8654614,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:wicked_empowerment",
+			"data": {
+				"Instant": false,
+				"Color": -8835860,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:wicked_intent",
+			"data": {
+				"Instant": false,
+				"Color": -10987972,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "malum:wyrd_exhaustion",
+			"data": {
+				"Instant": false,
+				"Color": -12570524,
+				"Category": "harmful"
+			}
+		}
+	]
+}

@@ -1,0 +1,89 @@
+#Tensura: Wheelie client settings and legacy Page 1 migration source.
+#Keys are assigned separately in Options -> Controls -> Tensura: Wheelie.
+#Dynamic pages live per world/server under config/tensura-wheelie/worlds/; server-side policy remains authoritative.
+[wheel]
+	#Dead-zone radius in GUI-scaled pixels. Selection is retained while inside it.
+	# Default: 28
+	# Range: 8 ~ 64
+	dead_zone = 28
+	#Show the selected Wheel spell briefly near the crosshair after closing the Wheel.
+	show_selected_hud = true
+	#Show Tensura's original three Ability Slot HUD panel.
+	#Storage, presets, key mappings, input and casting remain unchanged.
+	show_tensura_ability_hud = false
+	#Show Wheelie's passive selected-spell HUD.
+	#The explicit Left Alt spell wheel, editor and inputs remain available when disabled.
+	show_wheelie_hud = true
+	#Ask before replacing an occupied wheel slot in Add to Wheelie.
+	#Change in-game with /wheelie config ask_confirmation true|false.
+	ask_confirmation = true
+	#Deprecated migration source. Use show_tensura_ability_hud instead.
+	hide_original_tensura_ability_hud = true
+	#Internal version for one-time, idempotent HUD preference migration.
+	# Default: 0
+	# Range: 0 ~ 1
+	hud_preferences_version = 1
+
+	[wheel.slot_1]
+		#Registry ID. Empty leaves this radial slot empty.
+		skill = ""
+		#Exact Tensura skill mode. Invalid values are rejected, never clamped into a cast.
+		mode = 0
+		#Legacy migration field. Wheel execution now comes from policy.
+		activation = "PRESS_RELEASE"
+
+	[wheel.slot_2]
+		#Registry ID. Empty leaves this radial slot empty.
+		skill = ""
+		#Exact Tensura skill mode. Invalid values are rejected, never clamped into a cast.
+		mode = 0
+		#Legacy migration field. Wheel execution now comes from policy.
+		activation = "PRESS_RELEASE"
+
+	[wheel.slot_3]
+		#Registry ID. Empty leaves this radial slot empty.
+		skill = ""
+		#Exact Tensura skill mode. Invalid values are rejected, never clamped into a cast.
+		mode = 0
+		#Legacy migration field. Wheel execution now comes from policy.
+		activation = "PRESS_RELEASE"
+
+	[wheel.slot_4]
+		#Registry ID. Empty leaves this radial slot empty.
+		skill = ""
+		#Exact Tensura skill mode. Invalid values are rejected, never clamped into a cast.
+		mode = 0
+		#Legacy migration field. Wheel execution now comes from policy.
+		activation = "PRESS_RELEASE"
+
+	[wheel.slot_5]
+		#Registry ID. Empty leaves this radial slot empty.
+		skill = ""
+		#Exact Tensura skill mode. Invalid values are rejected, never clamped into a cast.
+		mode = 0
+		#Legacy migration field. Wheel execution now comes from policy.
+		activation = "PRESS_RELEASE"
+
+	[wheel.slot_6]
+		#Registry ID. Empty leaves this radial slot empty.
+		skill = ""
+		#Exact Tensura skill mode. Invalid values are rejected, never clamped into a cast.
+		mode = 0
+		#Legacy migration field. Wheel execution now comes from policy.
+		activation = "PRESS_RELEASE"
+
+	[wheel.slot_7]
+		#Registry ID. Empty leaves this radial slot empty.
+		skill = ""
+		#Exact Tensura skill mode. Invalid values are rejected, never clamped into a cast.
+		mode = 0
+		#Legacy migration field. Wheel execution now comes from policy.
+		activation = "PRESS_RELEASE"
+
+	[wheel.slot_8]
+		#Registry ID. Empty leaves this radial slot empty.
+		skill = ""
+		#Exact Tensura skill mode. Invalid values are rejected, never clamped into a cast.
+		mode = 0
+		#Legacy migration field. Wheel execution now comes from policy.
+		activation = "PRESS_RELEASE"

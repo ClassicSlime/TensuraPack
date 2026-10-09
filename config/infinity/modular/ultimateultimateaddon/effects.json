@@ -1,0 +1,67 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "ultimateultimateaddon:decrepit",
+			"data": {
+				"Instant": false,
+				"Color": 3100495,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "ultimateultimateaddon:degrading_health",
+			"data": {
+				"Instant": false,
+				"Color": 9109504,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "ultimateultimateaddon:rapid_disintegration",
+			"data": {
+				"Instant": false,
+				"Color": 25600,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "ultimateultimateaddon:resistance_degrade",
+			"data": {
+				"Instant": false,
+				"Color": 5597999,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "ultimateultimateaddon:unpredictable",
+			"data": {
+				"Instant": false,
+				"Color": 9109643,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "ultimateultimateaddon:unstable",
+			"data": {
+				"Instant": false,
+				"Color": 4915330,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "ultimateultimateaddon:viral_infection",
+			"data": {
+				"Instant": false,
+				"Color": 10145074,
+				"Category": "harmful"
+			}
+		}
+	]
+}

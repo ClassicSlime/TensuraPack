@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation_tensura_addon:corrupted_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "petalsdereincarnation_tensura_addon:example_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		}
+	]
+}

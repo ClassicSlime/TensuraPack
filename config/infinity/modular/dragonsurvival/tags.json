@@ -1,0 +1,68 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:dragon_altars"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:dragon_bones"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:dragon_ore_drop"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:dragon_treasures"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:enables_hunter_effect"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:end_platform_non_replaceable"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:general_ores"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:is_grassy"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:is_wet"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:large_dragon_destructible"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:small_wooden_dragon_doors"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:speeds_up_cave_dragon"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:speeds_up_forest_dragon"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:speeds_up_sea_dragon"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:warm_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:wooden_dragon_doors"
+		}
+	]
+}

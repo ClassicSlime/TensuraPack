@@ -1,0 +1,46 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "mysticism:clay_golem",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:memoires",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:okami",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:relapse_clone",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:shadow_imp",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:uncontrolled_jinchuriki",
+			"data": {
+				"Category": "monster"
+			}
+		}
+	]
+}

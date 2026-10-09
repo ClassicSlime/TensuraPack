@@ -1,0 +1,123 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:cinematic_kraken",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:crossbow_pirate",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:dragon_guard_sword",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:flaming_skeleton_guard_fireball",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:flaming_skeleton_guard_sword",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:ghost_tentacle",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:infernal_dragon",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:kraken",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:kraken_tentacle",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:pile_of_bones",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:pirate_captain",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:pirate_rook",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:sandworm",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:soul_knight_wither_skeleton",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:soul_skeleton",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:underworld_knight",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:yeti",
+			"data": {
+				"Category": "monster"
+			}
+		}
+	]
+}

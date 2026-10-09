@@ -1,0 +1,103 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "elitetensura:bound",
+			"data": {
+				"Instant": false,
+				"Color": 5917242,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:celestial_mark",
+			"data": {
+				"Instant": false,
+				"Color": 16767334,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:cycle_armed",
+			"data": {
+				"Instant": false,
+				"Color": 10040012,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:cycle_debt",
+			"data": {
+				"Instant": false,
+				"Color": 4915330,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:dimensional_mark",
+			"data": {
+				"Instant": false,
+				"Color": 6950317,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:eternal_renewal",
+			"data": {
+				"Instant": false,
+				"Color": 3050327,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:fenrir_sword_effect",
+			"data": {
+				"Instant": false,
+				"Color": 49151,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:fractured_reality",
+			"data": {
+				"Instant": false,
+				"Color": 9055202,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:kaioken",
+			"data": {
+				"Instant": false,
+				"Color": -2354156,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:rend",
+			"data": {
+				"Instant": false,
+				"Color": 9109504,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:starlight_judgment",
+			"data": {
+				"Instant": false,
+				"Color": 16773810,
+				"Category": "harmful"
+			}
+		}
+	]
+}

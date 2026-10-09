@@ -1,0 +1,2 @@
+#If true, skill/menu text that normally uses a foreign word for flavor (e.g. Enigma's "Vorherrschaft" mode) is shown with an alternative, plain translation instead.
+useAlternativeText = false

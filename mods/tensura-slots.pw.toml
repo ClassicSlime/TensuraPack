@@ -1,0 +1,13 @@
+name = "Tensura Slots"
+filename = "tensuraslots-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "56e078cec7bafe1ce1e387094d8146a182ec1cd0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7935165
+project-id = 1515688

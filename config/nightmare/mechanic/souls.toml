@@ -1,0 +1,41 @@
+[Unlock]
+	#Chance (0.0 - 1.0) to assign a soul type when soul identity is rolled.
+	soulTypeUnlockChance = 1.0
+	#EP needed before a soul type can unlock.
+	soulTypeUnlockEp = 30000.0
+	#Chance (0.0 - 1.0) to assign a soul trait when soul identity is rolled.
+	soulTraitUnlockChance = 1.0
+	#EP needed before a soul trait can unlock.
+	soulTraitUnlockEp = 30000.0
+
+[SoulTraits]
+	#Soul count cost required to awaken/evolve a soul trait.
+	awakeningSoulCost = 0
+	#EP required to awaken/evolve a soul trait.
+	awakeningEpCost = 5000000.0
+	#Elder Essence used-stat requirement to awaken/evolve a soul trait.
+	awakeningElderEssenceCost = 10
+	#Weight for Neutral soul trait rolls.
+	neutralWeight = 75
+	holyWeight = 1
+	evilWeight = 1
+	esperWeight = 2
+	absurdCalculativeWeight = 1
+	honoredOneWeight = 1
+	dishonoredOneWeight = 1
+	dulledEgoWeight = 2
+	nullWeight = 2
+	luckyWeight = 2
+	physicallyGiftedWeight = 2
+	cookieLoverWeight = 2
+
+[SoulTypes]
+	darknessWeight = 10
+	earthWeight = 15
+	flameWeight = 15
+	lightWeight = 10
+	spaceWeight = 10
+	waterWeight = 15
+	windWeight = 15
+	battleWeight = 4
+	fantasyWeight = 4

@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:needs_belzium_tool"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:needs_gronckle_iron_tool"
+		}
+	]
+}

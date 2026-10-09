@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "elitetensura:elitetensura"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:gaia_reshapeable"
+		}
+	]
+}

@@ -1,0 +1,13 @@
+name = "Tensura:Reincarnated Overhaul"
+filename = "troverhaul-0.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5c997b3cd8b36511512d95b1966e088668f38c0c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9005642
+project-id = 1412244

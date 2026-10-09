@@ -1,0 +1,22 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:shock",
+			"data": {
+				"Instant": false,
+				"Color": 4149685,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:stunned",
+			"data": {
+				"Instant": false,
+				"Color": 10148080,
+				"Category": "harmful"
+			}
+		}
+	]
+}

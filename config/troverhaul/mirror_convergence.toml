@@ -1,0 +1,22 @@
+#Personal reflections that must be defeated to acquire Paranoia through Mirror Convergence.
+paranoiaReflectionVictories = 3
+#Extra stat multiplier added to each successive personal reflection.
+paranoiaReflectionStrengthStep = 0.35
+#Distinct non-player entity types that must be defeated to acquire Portfolio through Mirror Convergence.
+portfolioDistinctEntityTypes = 30
+#Minimum max EP for an ordinary entity type to count toward the Portfolio trial.
+portfolioMinimumTargetEp = 1000.0
+#Distinct boss or high-EP entity types that must be defeated to acquire Portfolio through Mirror Convergence.
+portfolioBossEntityTypes = 5
+#An entity at or above this max EP counts as a high-EP Portfolio trial target.
+portfolioHighEpThreshold = 250000.0
+#Active seconds that must be spent in Mirror World to acquire Megalomania through Mirror Convergence.
+megalomaniaMirrorWorldSeconds = 3600
+#Hostile entities that must be personally defeated in Mirror World to acquire Megalomania through Mirror Convergence.
+megalomaniaMirrorWorldKills = 250
+#Maximum EP required before mastered mirror prerequisites can converge into Rex.
+rexRequiredEp = 1750000.0
+#Seconds between uses of the trial-only Mirror World travel command.
+trialTravelCooldownSeconds = 10
+#When true, all unfinished convergence progress is removed after the player loses every qualifying mirror skill.
+resetProgressWithoutMirrorSkill = false

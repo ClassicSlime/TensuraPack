@@ -1,0 +1,36 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "ultraterraforged:clay"
+		},
+		{
+			"weight": 1.0,
+			"key": "ultraterraforged:deep_rock"
+		},
+		{
+			"weight": 1.0,
+			"key": "ultraterraforged:erodible"
+		},
+		{
+			"weight": 1.0,
+			"key": "ultraterraforged:ore_compatible_rock"
+		},
+		{
+			"weight": 1.0,
+			"key": "ultraterraforged:rock"
+		},
+		{
+			"weight": 1.0,
+			"key": "ultraterraforged:sediment"
+		},
+		{
+			"weight": 1.0,
+			"key": "ultraterraforged:soil"
+		},
+		{
+			"weight": 1.0,
+			"key": "ultraterraforged:strata_excluded"
+		}
+	]
+}

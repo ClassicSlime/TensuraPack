@@ -1,0 +1,11 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "primegodling:advancement_reward/divine_nexus",
+			"data": {
+				"Type": "advancement_reward"
+			}
+		}
+	]
+}

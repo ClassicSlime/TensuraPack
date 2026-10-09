@@ -1,0 +1,55 @@
+#Dragon Skin Config: extra skins you supply yourself.
+#
+#HOW TO ADD ONE
+#  1. Put your PNG in  config/dragonsofberk/skins/<species>/<name>.png
+#     (the folders are created for you the first time the game starts)
+#     A brand new PNG needs a /reload (or a restart) - that is what makes the
+#     game notice a file that was not there before.
+#  2. Add a line below, under that species. Saving this file is enough on its
+#     own: no restart, no /reload needed for the new line to take effect, even
+#     for players already in the world.
+#
+#A LINE IS:  index | weight | name
+#  index   1000 or above, and unique for that species.
+#          This is what gets written into your world save. Once dragons are
+#          wearing it, changing it repaints every one of them - so pick a number
+#          and leave it alone. Anything below 1000 belongs to the mod's own skins.
+#  weight  how common it is, 0 to 100. 100 = as common as a normal skin.
+#          0 = never appears on its own.
+#          /!\ Rarity is not only looks: a rarer skin also means MORE FEEDS to
+#          tame the dragon wearing it, the same way the mod's own rare skins do.
+#  name    the file name without .png. Lower-case letters, digits, _ and - only.
+#
+#EXAMPLE   night_fury = ["1000 | 40 | aurora"]
+#          reads config/dragonsofberk/skins/night_fury/aurora.png
+#
+#ON A SERVER the server's copy of this file wins, and it is sent to players when
+#they join. A player who does not have the PNG simply sees the dragon's normal
+#skin - nothing breaks for them.
+[Skins]
+	#Extra skins for deadly_nadder. Files go in config/dragonsofberk/skins/deadly_nadder/
+	deadly_nadder = []
+	#Extra skins for gronckle. Files go in config/dragonsofberk/skins/gronckle/
+	gronckle = []
+	#Extra skins for light_fury. Files go in config/dragonsofberk/skins/light_fury/
+	light_fury = []
+	#Extra skins for night_fury. Files go in config/dragonsofberk/skins/night_fury/
+	night_fury = []
+	#Extra skins for night_light. Files go in config/dragonsofberk/skins/night_light/
+	night_light = []
+	#Extra skins for nightmare. Files go in config/dragonsofberk/skins/nightmare/
+	nightmare = []
+	#Extra skins for skrill. Files go in config/dragonsofberk/skins/skrill/
+	skrill = []
+	#Extra skins for speed_stinger. Files go in config/dragonsofberk/skins/speed_stinger/
+	speed_stinger = []
+	#Extra skins for stinger. Files go in config/dragonsofberk/skins/stinger/
+	stinger = []
+	#Extra skins for stormcutter. Files go in config/dragonsofberk/skins/stormcutter/
+	stormcutter = []
+	#Extra skins for terrible_terror. Files go in config/dragonsofberk/skins/terrible_terror/
+	terrible_terror = []
+	#Extra skins for triple_stryke. Files go in config/dragonsofberk/skins/triple_stryke/
+	triple_stryke = []
+	#Extra skins for zippleback. Files go in config/dragonsofberk/skins/zippleback/
+	zippleback = []

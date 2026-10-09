@@ -1,0 +1,78 @@
+[_meta]
+	#Internal metadata — do not edit
+	# Default: 3
+	# Range: > 1
+	config_version = 3
+
+[races]
+	#Base race stats for primegodling:half_godling
+	# Default: 100
+	# Range: > -2147483648
+	half_godling_min_ep = 100
+	# Default: 4000
+	# Range: > -2147483648
+	half_godling_max_ep = 4000
+	# Default: 1000
+	# Range: > -2147483648
+	half_godling_magicule_cap = 1000
+
+[evolution]
+	#EP thresholds for each evolution stage
+	# Default: 50000
+	# Range: > -2147483648
+	stage1_demi_godling_ep = 50000
+	# Default: 100000
+	# Range: > -2147483648
+	stage2_prime_godling_ep = 100000
+	# Default: 200000
+	# Range: > -2147483648
+	stage3_celestial_godling_ep = 200000
+	# Default: 400000
+	# Range: > -2147483648
+	stage4_ecliptic_godling_ep = 400000
+	# Default: 800000
+	# Range: > -2147483648
+	stage5_new_god_ep = 800000
+
+[random_rewards]
+	#Random resistance and skill grants at evolution milestones
+	#Number of random resistances granted when reaching Prime Godling (stage 2)
+	# Default: 3
+	# Range: 0 ~ 22
+	prime_godling_resistance_count = 3
+	#Number of random Intrinsic/Common/Extra skills granted when reaching Prime Godling (stage 2)
+	# Default: 3
+	# Range: 0 ~ 20
+	prime_godling_skill_count = 3
+	#Number of random Intrinsic/Common/Extra skills granted/mastered when reaching Celestial Godling (stage 3)
+	# Default: 2
+	# Range: 0 ~ 20
+	celestial_godling_skill_count = 2
+
+[ep_gain]
+	#EP gain multiplier for Prime Godling races
+	#Multiplier applied to EP gained (lower = slower progression, default 0.5 = half speed)
+	# Default: 0.5
+	# Range: 0.01 ~ 10.0
+	ep_gain_multiplier = 0.5
+
+[creative_flight]
+	#Magicule costs for creative flight
+	# Default: 40
+	# Range: 0 ~ 10000
+	activation_cost = 40
+	# Default: 10
+	# Range: 0 ~ 10000
+	maintenance_cost = 10
+	# Default: 10
+	# Range: 1 ~ 200
+	maintenance_interval_ticks = 10
+	# Default: 20
+	# Range: 0 ~ 10000
+	activation_cost_subordinate = 20
+	# Default: 2
+	# Range: 0 ~ 10000
+	maintenance_cost_subordinate = 2
+	# Default: 100
+	# Range: 1 ~ 200
+	maintenance_interval_ticks_subordinate = 100

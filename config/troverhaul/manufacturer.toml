@@ -1,0 +1,4 @@
+#Magic Creation cooldown in skill-seconds.
+magicCreationCooldown = 600
+#When false, Manufacturer does not apply resistance/nullification degradation. Useful for testing Magic Alteration damage attributes.
+degradationEnabled = true

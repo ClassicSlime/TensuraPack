@@ -1,0 +1,13 @@
+name = "Tensura: Starlight"
+filename = "trstarlight-0.1.2-BETA-SOURCEBLOOD-PART1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "280e83d9b78050e57ad11eba18d9113a9fb75431"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8077247
+project-id = 1332777

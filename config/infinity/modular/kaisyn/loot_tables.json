@@ -1,0 +1,116 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "kaisyn:archeology/forest_ruins_common",
+			"data": {
+				"Type": "archaeology"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "kaisyn:archeology/forest_ruins_rare",
+			"data": {
+				"Type": "archaeology"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "kaisyn:outpost/common/armory",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "kaisyn:outpost/common/food",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "kaisyn:outpost/exclusives/outpost_beach_barrel",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "kaisyn:outpost/exclusives/outpost_mediterranean_barrel",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "kaisyn:outpost/exclusives/outpost_rustic_barrel",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "kaisyn:village/exclusives/village_classic_blacksmith",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "kaisyn:village/exclusives/village_mediterranean_house",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "kaisyn:village/exclusives/village_piglin_barrel",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "kaisyn:village/exclusives/village_piglin_house",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "kaisyn:village/exclusives/village_wandering_trader_hut",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "kaisyn:village/village_badlands_house",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "kaisyn:village/village_jungle_house",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "kaisyn:village/village_mushroom_house",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "kaisyn:village/village_swamp_house",
+			"data": {
+				"Type": "chest"
+			}
+		}
+	]
+}

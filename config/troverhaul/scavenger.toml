@@ -1,0 +1,22 @@
+#Base chance for mastered Scavenger to copy one Unique Skill from a killed target.
+uniqueChanceBase = 0.1
+#Chance added after each eligible failed Unique Skill copy attempt against the same mob type or same player UUID.
+uniqueChanceIncrease = 0.1
+#Maximum Unique Skill copy chance after repeated failures.
+uniqueChanceMax = 0.7
+#When true, the unique chance failure counter resets after a successful Unique Skill copy.
+uniqueChanceResetOnSuccess = true
+#Ticks without a qualifying kill before Unique-copy failure buildup decays. Default is 20 minutes.
+uniqueChanceDecayIntervalTicks = 24000
+#Failure-count steps removed each decay interval. With the default 10% chance increase, 1 step removes 10 percentage points.
+uniqueChanceDecayFailures = 1
+#Fraction of a killed target's max MP/AP consumed into Infinity Eater.
+killEnergyRatio = 0.05
+#Maximum MP or AP gained from one kill-consumption reward.
+killEnergyMax = 5000.0
+#Fraction of kill-consumed MP/AP restored to the user's current MP/AP. The full amount still enters Infinity Eater reserve.
+killCurrentRestoreRatio = 0.5
+#Maximum EP value one consumed item can provide before reserve/stat splitting.
+maxToolConsumptionEp = 10000.0
+#Maximum total item EP value Scavenger can consume per player per minute.
+maxToolConsumptionEpPerMinute = 25000.0

@@ -1,0 +1,13 @@
+name = "DS Dragonborn lib"
+filename = "dragonborn_lib-1.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1c8df7ff0f57e88aa9ba733ccf28ad5af2fabdf3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8858416
+project-id = 1409923

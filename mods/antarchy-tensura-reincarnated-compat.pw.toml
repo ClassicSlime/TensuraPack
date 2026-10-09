@@ -1,0 +1,13 @@
+name = "Antarchy & Tensura Reincarnated Compat"
+filename = "antarchy_tensura_compat-1.7.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4ef22f77c52577ddd37ac65b77ae652dac806b0d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9077639
+project-id = 1648077

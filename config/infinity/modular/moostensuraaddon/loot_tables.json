@@ -1,0 +1,11 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "moostensuraaddon:blocks/great_crystal_altar",
+			"data": {
+				"Type": "block"
+			}
+		}
+	]
+}

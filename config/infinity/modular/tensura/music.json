@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.music.blast"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ability.music.requiem"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:music_disc.nanoda"
+		}
+	]
+}

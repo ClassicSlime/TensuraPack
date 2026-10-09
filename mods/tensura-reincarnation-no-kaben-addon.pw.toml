@@ -1,0 +1,13 @@
+name = "Tensura : Reincarnation no Kaben Addon"
+filename = "petalsdereincarnation_tensura_addon-2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e7bda123c571589c39c9b3f017bdd112c24e6749"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8871403
+project-id = 1383670

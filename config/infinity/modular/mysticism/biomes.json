@@ -1,0 +1,60 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "mysticism:darkness_biome",
+			"data": {
+				"Color": -7363765
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:earth_biome",
+			"data": {
+				"Color": -7363765
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:fire_biome",
+			"data": {
+				"Color": -7363765
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:kamui_biome",
+			"data": {
+				"Color": -7363765
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:light_biome",
+			"data": {
+				"Color": -7363765
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:space_biome",
+			"data": {
+				"Color": -7363765
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:water_biome",
+			"data": {
+				"Color": -7363765
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mysticism:wind_biome",
+			"data": {
+				"Color": -7363765
+			}
+		}
+	]
+}

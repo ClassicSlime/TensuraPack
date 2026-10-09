@@ -1,0 +1,57 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "ascension:awakening_altar",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "ascension:chaos_fire",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "ascension:deepslate_magic_block",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "ascension:hyperbolic_fabric",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "ascension:magicule_enhancer",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"top": true,
+				"full": true
+			}
+		}
+	]
+}

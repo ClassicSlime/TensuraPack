@@ -1,0 +1,20 @@
+#Block cosmetic rendering from Essential
+blockCosmetics = true
+#Block emote equipping from Essential
+blockEmotes = true
+#Block all purchase and gift flows in the wardrobe
+blockPurchases = true
+#Block coin purchases and welcome coins
+blockCoins = true
+#Drop monetization packets sent to Essential servers
+blockCheckoutPackets = true
+#Block cosmetic and sale notices from Essential
+blockNotices = true
+#Block wardrobe upsell prompts
+blockWardrobeNag = true
+#Remove Essential monetization buttons from the main menu
+removeMainMenuButtons = true
+#Remove Essential monetization buttons from the pause menu
+removePauseMenuButtons = true
+#Remove Essential social features (chat, friends, world hosting, invite)
+removeSocialFeatures = false

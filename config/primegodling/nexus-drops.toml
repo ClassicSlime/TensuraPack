@@ -1,0 +1,12 @@
+[drops]
+	#Nexus Core mob drop settings
+	#Enable Nexus Core drops from mobs (disable to use crafting only)
+	drops_enabled = true
+	#List of mobs that drop Nexus Cores, in the format "modid:entity_id;chance;minAmount;maxAmount".
+	#chance is a decimal between 0.0 and 1.0 (e.g. 0.05 = 5% chance).
+	#minAmount and maxAmount define the range of cores dropped on successful roll.
+	#Examples:
+	#  "tensura:goblin;0.01;1;1"        — 1% chance, always 1 core
+	#  "tensura:rimuru;1.0;1;3"          — 100% chance, 1-3 cores
+	#  "minecraft:wither;0.50;1;1"       — 50% chance, 1 core
+	mob_drops = ["tensura:hinata_sakaguchi;1.0;1;1", "tensura:ifrit;1.0;1;1", "tensura:charybdis;1.0;1;1", "tensura:wyrm;0.50;1;1", "tensura:ogre;0.25;1;1", "tensura:armorsaurus;0.02;1;1", "tensura:black_wolf;0.02;1;1", "tensura:goblin;0.01;1;1", "tensura:orc;0.02;1;1", "tensura:lizardman;0.02;1;1"]

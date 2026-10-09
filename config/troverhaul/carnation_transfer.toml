@@ -1,0 +1,2 @@
+#Skill IDs Carnation cannot grant. Use exact namespace:path IDs, including skills from other mods. Example: othermod:some_unique_skill
+skillBlacklist = []

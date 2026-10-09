@@ -1,0 +1,424 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "elitetensura:ancient_runic_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:astral_edge"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:chronicle"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:common_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:common_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:elite_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:elite_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:fenrir_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:forge_station_basic"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:forge_station_dragonforge"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:forge_station_magisteel"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:forge_station_mythril"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:large_health_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:magic_ore_cluster"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:magic_ore_large_bud"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:magic_ore_medium_bud"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:magic_ore_mother_rock"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:magic_ore_small_bud"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:medium_health_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:mythical_runic_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_allay"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_armadillo"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_axolotl"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_bat"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_bee"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_blaze"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_breeze"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_camel"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_cat"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_cave_spider"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_chewie"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_chicken"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_cow"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_creeper"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_dan_rolo"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_dark_father"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_dolphin"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_donkey"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_drowned"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_elder_guardian"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_emperor"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_enderdragon"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_enderman"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_evoker"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_fox"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_frog"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_ghast"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_glow_squid"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_goat"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_guardian"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_hoglin"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_horse"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_husk"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_iron_golem"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_llama"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_magma_cube"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_mooshroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_mule"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_panda"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_parrot"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_peter"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_phantom"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_pig"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_piglin"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_piglin_brute"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_pillager"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_polar_bear"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_pufferfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_rabbit"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_ravanger"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_sheep"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_shulker"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_skeleton"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_skeleton_horse"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_slime"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_sniffer"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_spider"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_squid"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_storm_soldier"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_stray"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_strider"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_trader_lama"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_turtle"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_vex"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_villager"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_vindicator"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_wandering_trader"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_warden"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_witch"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_wither"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_wither_skeleton"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_wolf"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_yoga"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_zoglin"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_zombie"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_zombie_villager"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:plushie_zombified_piglin"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:potential_catalyst"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:rare_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:rare_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:renewed_runic_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:small_health_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:void_edge"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:walpurgis_orb"
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:walpurgis_seal"
+		}
+	]
+}

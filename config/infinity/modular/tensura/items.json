@@ -1,0 +1,3164 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "tensura:acacia_tool_rack"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:adamantite_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:adamantite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:adamantite_bone_golem"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:adamantite_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:adamantite_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:adamantite_gear_schematic"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:adamantite_great_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:adamantite_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:adamantite_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:adamantite_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:adamantite_katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:adamantite_kodachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:adamantite_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:adamantite_long_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:adamantite_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:adamantite_odachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:adamantite_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:adamantite_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:adamantite_short_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:adamantite_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:adamantite_sickle"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:adamantite_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:adamantite_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:adamantite_tachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:akash_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:andesite_warp_pad"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:angry_pierrot_mask"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ant_carapace_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ant_carapace_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ant_carapace_gear_schematic"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ant_carapace_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ant_carapace_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ant_crossbow"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:anti_magic_mask"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:anti_magic_mask_schematic"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:aqua_frog_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:arch_daemon_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:armorsaurus_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:armorsaurus_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:armorsaurus_gauntlet"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:armorsaurus_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:armorsaurus_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:armorsaurus_scale"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:armorsaurus_scalemail_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:armorsaurus_scalemail_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:armorsaurus_scalemail_gear_schematic"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:armorsaurus_scalemail_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:armorsaurus_scalemail_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:armorsaurus_shell"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:armorsaurus_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:armorsaurus_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:army_wasp_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:baffledil"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:bamboo_tool_rack"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:barghest_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:basalt_warp_pad"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:basic_bows_schematic"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:basilisk_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:bat_glider"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:battlewill_manual"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:beast_gnome_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:beast_horn"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:beast_horn_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:birch_tool_rack"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:black_fire_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:black_spider_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blackstone_warp_pad"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blade_tiger_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blade_tiger_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blade_tiger_steak"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blade_tiger_tail"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:brick_warp_pad"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:bricks_magic_engine"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:bronze_coin"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:bucket_of_cattledeer_milk"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:calcite_warp_pad"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cattledeer_beef"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cattledeer_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cattledeer_steak"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:centipede_dagger"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:centipede_stinger"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:character_reset_scroll"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:charybdis_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:charybdis_scale"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:charybdis_scalemail_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:charybdis_scalemail_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:charybdis_scalemail_gear_schematic"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:charybdis_scalemail_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:charybdis_scalemail_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:charybdis_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cherry_tool_rack"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:chilled_slime"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:chilled_slime_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:chiseled_high_quality_magic_crystal_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:chiseled_low_quality_magic_crystal_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:chiseled_medium_quality_magic_crystal_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:chiseled_sarasa_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cooked_armorsaurus_meat"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cooked_charybdis_meat"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cooked_giant_ant_leg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cooked_giant_bat_meat"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cooked_knight_spider_leg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cooked_megalodon_meat"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cooked_serpent_meat"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cooked_sissie_fin"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cooked_sissie_meat"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cooked_spear_toro_fin"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cooked_spear_toro_meat"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:copper_shell"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:crazy_pierrot_mask"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cream_labyrinth_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cream_labyrinth_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cream_labyrinth_brick_warp_pad"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cream_labyrinth_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cream_labyrinth_bricks_bl"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cream_labyrinth_bricks_br"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cream_labyrinth_bricks_magic_engine"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cream_labyrinth_bricks_tl"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cream_labyrinth_bricks_tr"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cream_labyrinth_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cream_labyrinth_stone_bl"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cream_labyrinth_stone_br"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cream_labyrinth_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cream_labyrinth_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cream_labyrinth_stone_tl"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cream_labyrinth_stone_tr"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:crimson_tool_rack"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cut_sarasa_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:cut_sarasa_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:daemon_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:daemon_essence"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dark_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dark_jacket"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dark_labyrinth_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dark_labyrinth_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dark_labyrinth_brick_warp_pad"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dark_labyrinth_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dark_labyrinth_bricks_bl"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dark_labyrinth_bricks_br"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dark_labyrinth_bricks_magic_engine"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dark_labyrinth_bricks_tl"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dark_labyrinth_bricks_tr"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dark_labyrinth_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dark_labyrinth_stone_bl"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dark_labyrinth_stone_br"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dark_labyrinth_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dark_labyrinth_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dark_labyrinth_stone_tl"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dark_labyrinth_stone_tr"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dark_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dark_oak_tool_rack"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dark_set_schematic"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dead_end_rainbow"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:deepslate_bricks_magic_engine"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:deepslate_magic_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:deepslate_silver_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:deepslate_warp_pad"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:diamond_gear_schematic"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:diamond_great_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:diamond_katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:diamond_kodachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:diamond_long_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:diamond_odachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:diamond_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:diamond_short_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:diamond_sickle"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:diamond_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:diamond_tachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:diorite_warp_pad"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:direwolf_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dragon_essence"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dragon_knuckle"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dragon_peacock_feather"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dragon_peacock_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dubious_food"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dwarf_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dwargon_banner_pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:earth_elemental_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:element_core_earth"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:element_core_empty"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:element_core_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:element_core_space"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:element_core_water"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:element_core_wind"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:elemental_colossus_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:elemental_essence"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:enchanted_silver_apple"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:end_stone_bricks_magic_engine"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:end_stone_warp_pad"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:evil_centipede_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:feathered_serpent_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:fire_elemental_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:folgen_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:full_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:gazel_dwargo_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:gehenna_moth_silk"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:giant_ant_carapace"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:giant_ant_leg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:giant_ant_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:giant_bat_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:giant_bat_wing"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:giant_bear_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:giant_cod_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:giant_salmon_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:goblin_club"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:goblin_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:gold_coin"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:gold_gear_schematic"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:golden_great_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:golden_katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:golden_kodachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:golden_long_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:golden_odachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:golden_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:golden_short_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:golden_sickle"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:golden_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:golden_tachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:granite_warp_pad"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:great_sword_schematic"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:greater_daemon_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:grimoire_a"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:grimoire_b"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:grimoire_c"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:grimoire_d"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:grimoire_special_a"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:hell_caterpillar_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:hell_moth_silk"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:hell_moth_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:hell_portal"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:high_arcane_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:high_magic_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:high_magisteel_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:high_magisteel_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:high_magisteel_bone_golem"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:high_magisteel_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:high_magisteel_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:high_magisteel_gear_schematic"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:high_magisteel_great_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:high_magisteel_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:high_magisteel_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:high_magisteel_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:high_magisteel_katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:high_magisteel_kodachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:high_magisteel_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:high_magisteel_long_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:high_magisteel_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:high_magisteel_odachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:high_magisteel_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:high_magisteel_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:high_magisteel_short_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:high_magisteel_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:high_magisteel_sickle"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:high_magisteel_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:high_magisteel_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:high_magisteel_tachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:high_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:high_quality_magic_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:high_quality_magic_crystal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:high_quality_magic_crystal_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:high_quality_magic_crystal_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:high_quality_magic_crystal_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:high_quality_magic_crystal_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:high_quality_magic_crystal_bricks_magic_engine"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:high_quality_magic_crystal_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:high_quality_magic_crystal_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:hihiirokane_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:hihiirokane_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:hihiirokane_bone_golem"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:hihiirokane_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:hihiirokane_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:hihiirokane_gear_schematic"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:hihiirokane_great_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:hihiirokane_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:hihiirokane_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:hihiirokane_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:hihiirokane_katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:hihiirokane_kodachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:hihiirokane_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:hihiirokane_long_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:hihiirokane_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:hihiirokane_odachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:hihiirokane_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:hihiirokane_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:hihiirokane_short_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:hihiirokane_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:hihiirokane_sickle"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:hihiirokane_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:hihiirokane_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:hihiirokane_tachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:hinata_sakaguchi_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:hipokute_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:hipokute_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:hipokute_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:holy_armaments_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:holy_armaments_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:holy_armaments_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:horned_bear_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:horned_rabbit_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:hound_dog_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:hover_lizard_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:hunting_knife_schematic"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ice_blade"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ifrit_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:insectar_carapace"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:invisible_arrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:invisible_feather"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:iron_gear_schematic"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:iron_great_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:iron_katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:iron_kodachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:iron_long_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:iron_odachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:iron_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:iron_short_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:iron_sickle"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:iron_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:iron_tachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:japanese_sword_schematic"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:jungle_tool_rack"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:kanabo"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:kiln"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:kiln_mithril"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:kiln_orichalcum"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:kirara_mizutani_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:knight_spider_carapace"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:knight_spider_carapace_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:knight_spider_carapace_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:knight_spider_carapace_gear_schematic"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:knight_spider_carapace_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:knight_spider_carapace_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:knight_spider_leg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:knight_spider_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:kunai"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:kunai_schematic"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:kyoya_tachibana_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_barrier_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_brick_warp_pad"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_bricks_bl"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_bricks_br"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_bricks_magic_engine"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_bricks_tl"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_bricks_tr"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_lamp_bl"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_lamp_br"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_lamp_tl"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_lamp_tr"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_light_path"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_light_path_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_light_path_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_lit_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_lit_lamp_bl"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_lit_lamp_br"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_lit_lamp_tl"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_lit_lamp_tr"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_portal"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_praying_path"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_stone_bl"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_stone_br"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_stone_tl"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:labyrinth_stone_tr"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:landfish_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:leather_gear_schematic"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:leech_lizard_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:lesser_daemon_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:lizardman_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:long_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:long_spider_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:long_sword_schematic"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:loose_dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:loose_gravel"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:low_arcane_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:low_magic_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:low_magisteel_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:low_magisteel_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:low_magisteel_bone_golem"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:low_magisteel_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:low_magisteel_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:low_magisteel_gear_schematic"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:low_magisteel_great_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:low_magisteel_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:low_magisteel_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:low_magisteel_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:low_magisteel_katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:low_magisteel_kodachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:low_magisteel_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:low_magisteel_long_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:low_magisteel_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:low_magisteel_odachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:low_magisteel_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:low_magisteel_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:low_magisteel_short_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:low_magisteel_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:low_magisteel_sickle"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:low_magisteel_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:low_magisteel_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:low_magisteel_tachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:low_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:low_quality_magic_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:low_quality_magic_crystal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:low_quality_magic_crystal_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:low_quality_magic_crystal_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:low_quality_magic_crystal_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:low_quality_magic_crystal_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:low_quality_magic_crystal_bricks_magic_engine"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:low_quality_magic_crystal_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:low_quality_magic_crystal_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:magic_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:magic_bottle_of_water"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:magic_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:magic_ore_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:magic_ore_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:magic_staff_schematic"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:magic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:magic_tome"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:mai_furuki_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:mangrove_tool_rack"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:marionette_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:mark_lauren_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:meat_crusher"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:medium_arcane_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:medium_magic_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:medium_quality_magic_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:medium_quality_magic_crystal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:medium_quality_magic_crystal_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:medium_quality_magic_crystal_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:medium_quality_magic_crystal_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:medium_quality_magic_crystal_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:medium_quality_magic_crystal_bricks_magic_engine"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:medium_quality_magic_crystal_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:megalodon_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:meidum_quality_magic_crystal_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:metal_slime_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:mining_station"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:mithril_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:mithril_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:mithril_bone_golem"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:mithril_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:mithril_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:mithril_gear_schematic"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:mithril_great_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:mithril_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:mithril_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:mithril_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:mithril_katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:mithril_kodachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:mithril_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:mithril_long_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:mithril_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:mithril_odachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:mithril_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:mithril_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:mithril_short_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:mithril_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:mithril_sickle"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:mithril_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:mithril_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:mithril_tachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:monster_leather_a"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:monster_leather_b"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:monster_leather_boots_a"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:monster_leather_boots_b"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:monster_leather_boots_c"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:monster_leather_boots_d"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:monster_leather_boots_special_a"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:monster_leather_c"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:monster_leather_chestplate_a"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:monster_leather_chestplate_b"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:monster_leather_chestplate_c"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:monster_leather_chestplate_d"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:monster_leather_chestplate_special_a"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:monster_leather_d"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:monster_leather_gear_schematic"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:monster_leather_helmet_a"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:monster_leather_helmet_b"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:monster_leather_helmet_c"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:monster_leather_helmet_d"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:monster_leather_helmet_special_a"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:monster_leather_leggings_a"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:monster_leather_leggings_b"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:monster_leather_leggings_c"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:monster_leather_leggings_d"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:monster_leather_leggings_special_a"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:monster_leather_special_a"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:monster_saddle"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:moonlight"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:moth_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:mud_bricks_magic_engine"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:music_disc_nanoda"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:nether_brick_warp_pad"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:nether_bricks_magic_engine"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:netherite_great_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:netherite_katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:netherite_kodachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:netherite_long_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:netherite_odachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:netherite_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:netherite_short_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:netherite_sickle"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:netherite_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:netherite_tachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:oak_tool_rack"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:one_eyed_owl_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:orb_of_domination"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:orc_disaster_head"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:orc_disaster_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:orc_lord_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:orc_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:orichalcum_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:orichalcum_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:orichalcum_bone_golem"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:orichalcum_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:orichalcum_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:orichalcum_gear_schematic"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:orichalcum_great_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:orichalcum_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:orichalcum_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:orichalcum_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:orichalcum_katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:orichalcum_kodachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:orichalcum_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:orichalcum_long_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:orichalcum_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:orichalcum_odachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:orichalcum_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:orichalcum_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:orichalcum_short_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:orichalcum_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:orichalcum_sickle"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:orichalcum_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:orichalcum_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:orichalcum_tachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:packed_mud_warp_pad"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:palm_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:palm_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:palm_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:palm_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:palm_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:palm_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:palm_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:palm_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:palm_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:palm_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:palm_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:palm_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:palm_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:palm_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:palm_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:palm_tool_rack"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:palm_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:palm_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:pegacorn_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:pegasus_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:phantaspore_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:pierrot_mask_schematic"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:polished_blackstone_bricks_magic_engine"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:pouch_a"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:pouch_b"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:pouch_c"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:pouch_d"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:pouch_special_a"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:prismarine_brick_warp_pad"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:prismarine_bricks_magic_engine"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:pure_magisteel_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:pure_magisteel_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:pure_magisteel_bone_golem"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:pure_magisteel_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:pure_magisteel_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:pure_magisteel_gear_schematic"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:pure_magisteel_great_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:pure_magisteel_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:pure_magisteel_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:pure_magisteel_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:pure_magisteel_katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:pure_magisteel_kodachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:pure_magisteel_kunai"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:pure_magisteel_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:pure_magisteel_long_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:pure_magisteel_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:pure_magisteel_odachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:pure_magisteel_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:pure_magisteel_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:pure_magisteel_short_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:pure_magisteel_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:pure_magisteel_sickle"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:pure_magisteel_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:pure_magisteel_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:pure_magisteel_tachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:purpur_bricks_magic_engine"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:purpur_warp_pad"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:quartz_bricks_magic_engine"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:quartz_warp_pad"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:quickmud"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:quicksand"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:race_reset_scroll"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:raw_armorsaurus_meat"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:raw_blade_tiger_meat"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:raw_charybdis_meat"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:raw_giant_bat_meat"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:raw_megalodon_meat"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:raw_serpent_meat"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:raw_silver"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:raw_silver_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:raw_sissie_meat"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:raw_spear_toro_meat"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:red_nether_brick_warp_pad"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:red_nether_bricks_magic_engine"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:red_quicksand"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:red_sandstone_warp_pad"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:revival_elixir"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:royal_blood"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:royal_dwarven_warp_pad"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ruhk"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:salamander_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:sandstone_warp_pad"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:sarasa_quicksand"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:sarasa_sand"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:sarasa_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:sarasa_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:sarasa_sandstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:sarasa_sandstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:sarasa_sandstone_warp_pad"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:serpent_scale"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:serpent_scalemail_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:serpent_scalemail_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:serpent_scalemail_gear_schematic"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:serpent_scalemail_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:serpent_scalemail_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:severer_blade"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:shadow_storage"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:shield_schematic"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:shin_ryusei_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:shinji_tanimura_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:shizu_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:shogo_taguchi_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:short_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:short_spider_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:short_sword_schematic"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:silver_apple"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:silver_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:silver_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:silver_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:silver_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:silver_coin"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:silver_gear_schematic"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:silver_great_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:silver_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:silver_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:silver_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:silver_katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:silver_kodachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:silver_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:silver_long_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:silver_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:silver_odachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:silver_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:silver_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:silver_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:silver_short_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:silver_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:silver_sickle"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:silver_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:silver_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:silver_tachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:single_tatami_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:single_tatami_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:sissie_fin"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:sissie_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:sissie_tooth"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:sissie_tooth_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:skeleton_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:skill_reset_scroll"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:slime_chunk"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:slime_chunk_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:slime_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:slime_in_a_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:slime_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:slime_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:smithing_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:smooth_sarasa_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:smooth_sarasa_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:smooth_sarasa_sandstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:space_elemental_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:spatial_bag"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:spatial_blade"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:spatial_blade_schematic"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:spear_schematic"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:spear_toro_fin"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:spear_toro_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:speared_fin_arrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:spellbinding_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:spider_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:spider_bows_schematic"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:spider_dagger"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:spider_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:spider_fang"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:spruce_tool_rack"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:steel_thread"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:stellar_gold_coin"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:sticky_cobweb"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:sticky_steel_cobweb"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:sticky_steel_web_cartridge"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:sticky_thread"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:sticky_web_cartridge"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:stone_bricks_magic_engine"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:stone_great_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:stone_katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:stone_kodachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:stone_long_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:stone_odachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:stone_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:stone_short_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:stone_sickle"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:stone_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:stone_tachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:stone_warp_pad"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:stripped_palm_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:stripped_palm_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:supermassive_slime_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:sylphide_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:tatami_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:tatami_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:teary_pierrot_mask"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:tempest_scale_knife"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:tempest_scale_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:tempest_scale_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:tempest_serpent_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:thatch"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:thatch_bed"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:thatch_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:thatch_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:thatch_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:thatch_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:training_dummy"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:tuff_bricks_magic_engine"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:tuff_warp_pad"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:unbound_tome"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:undine_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:unicorn_horn"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:unicorn_horn_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:unicorn_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:vacuumed_magic_bottle_of_water"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:vortex_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:walther_p99"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:war_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:war_gnome_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:war_spider_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:warp_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:warped_tool_rack"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:water_elemental_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:web_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:web_cartridge"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:web_gun"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:web_gun_schematic"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:web_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:web_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:webbed_cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:webbed_cobblestone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:webbed_cobblestone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:webbed_cobblestone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:webbed_stone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:webbed_stone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:webbed_stone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:webbed_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:wind_elemental_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:winged_cat_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:winged_shoes"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:wonder_pierrot_mask"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:woodcutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:wooden_great_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:wooden_katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:wooden_kodachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:wooden_long_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:wooden_odachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:wooden_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:wooden_short_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:wooden_sickle"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:wooden_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:wooden_tachi"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:zane_blood"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:zombie_spawn_egg"
+		}
+	]
+}

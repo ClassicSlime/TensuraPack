@@ -1,0 +1,19 @@
+[menu]
+	#Right-side Tensura menu slot used by the Bestiary tab.
+	#Slot 1 is deliberately unavailable because it belongs to Tensura.
+	#Allowed values: SLOT_2, SLOT_3, SLOT_4, DISABLED.
+	#Default: SLOT_2
+	#Allowed Values: SLOT_2, SLOT_3, SLOT_4, DISABLED
+	sidebar_slot = "SLOT_2"
+	#What to do when another addon already occupies the requested slot.
+	#NEXT_AVAILABLE searches the remaining allowed slots without using Slot 1.
+	#HIDE leaves the Bestiary accessible through its keybind only.
+	#Default: NEXT_AVAILABLE
+	#Allowed Values: NEXT_AVAILABLE, HIDE
+	conflict_behavior = "NEXT_AVAILABLE"
+	#Color preset used for the Bestiary backdrop, panels, selection, and accent.
+	#Allowed values: B (blue), R (red), G (green), P (purple).
+	#Close and reopen the Bestiary after changing this value.
+	#Default: B
+	#Allowed Values: B, R, G, P
+	color = "B"

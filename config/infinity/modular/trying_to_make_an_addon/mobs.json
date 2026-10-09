@@ -1,0 +1,74 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "trying_to_make_an_addon:adalman",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trying_to_make_an_addon:benimaru",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trying_to_make_an_addon:chloeaubert",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trying_to_make_an_addon:geld",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trying_to_make_an_addon:musardroptoksawery",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trying_to_make_an_addon:ogre",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trying_to_make_an_addon:primordialnoir",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trying_to_make_an_addon:rimurutruedemonlord",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trying_to_make_an_addon:velzardfrost_dragon",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trying_to_make_an_addon:yug",
+			"data": {
+				"Category": "monster"
+			}
+		}
+	]
+}

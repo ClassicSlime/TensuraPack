@@ -1,0 +1,13 @@
+name = "Dap ur Homies"
+filename = "coopmod-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "de5ee77512325379791d825edea2e8bb47bd8213"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9008210
+project-id = 1423094

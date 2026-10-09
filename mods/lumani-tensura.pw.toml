@@ -1,0 +1,13 @@
+name = "Lumani-tensura"
+filename = "lumani_tensura-1.0.266.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "38f73dc264f3df4db6674018b01207e40cfff301"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8130627
+project-id = 1518376

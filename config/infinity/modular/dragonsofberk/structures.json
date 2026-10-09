@@ -1,0 +1,92 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:ss_cave_nest",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"type": "dragonsofberk:speed_stinger",
+								"weight": 1,
+								"minCount": 1,
+								"maxCount": 4
+							}
+						]
+					}
+				},
+				"id": "dragonsofberk:ss_cave_nest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:ss_ice_nest",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"type": "dragonsofberk:speed_stinger",
+								"weight": 1,
+								"minCount": 1,
+								"maxCount": 4
+							}
+						]
+					}
+				},
+				"id": "dragonsofberk:ss_ice_nest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:ss_jungle_nest",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"type": "dragonsofberk:speed_stinger",
+								"weight": 1,
+								"minCount": 1,
+								"maxCount": 4
+							}
+						]
+					}
+				},
+				"id": "dragonsofberk:ss_jungle_nest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:ss_taiga_nest",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"type": "dragonsofberk:speed_stinger",
+								"weight": 1,
+								"minCount": 1,
+								"maxCount": 4
+							}
+						]
+					}
+				},
+				"id": "dragonsofberk:ss_taiga_nest"
+			}
+		}
+	]
+}

@@ -1,0 +1,46 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:hunter_ambusher",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:hunter_griffin",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:hunter_hound",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:hunter_knight",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:hunter_leader",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:hunter_spearman",
+			"data": {
+				"Category": "monster"
+			}
+		}
+	]
+}

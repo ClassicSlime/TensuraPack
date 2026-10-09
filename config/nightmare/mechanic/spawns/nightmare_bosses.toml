@@ -1,0 +1,109 @@
+	[natural_replacements.true_dragons]
+		#1 in X chance for Veldora to replace Leech Lizard. Set to 0 to disable.
+		# Default: 80000
+		# Range: > 0
+		veldoraRarity = 80000
+		#1 in X chance for Velzard to replace Leech Lizard. Set to 0 to disable.
+		# Default: 100000
+		# Range: > 0
+		velzardRarity = 100000
+		#1 in X chance for Velgrynd to replace Leech Lizard. Set to 0 to disable.
+		# Default: 100000
+		# Range: > 0
+		velgryndRarity = 100000
+
+	[natural_replacements.hell_bosses]
+		#1 in X chance for Gii Crimson to replace a daemon. Set to 0 to disable.
+		# Default: 25000
+		# Range: > 0
+		crimsonRarity = 25000
+		#1 in X chance for Agera to replace a daemon. Set to 0 to disable.
+		# Default: 1250
+		# Range: > 0
+		ageraRarity = 1250
+		#1 in X chance for Ancient Daemon to replace a Lesser Daemon. Set to 0 to disable.
+		# Default: 12500
+		# Range: > 0
+		ancientDaemonRarity = 12500
+		#1 in X chance for a Primordial Daemon aspect to replace a daemon in hell. Set to 0 to disable the whole pool.
+		# Default: 20000
+		# Range: > 0
+		primordialDaemonAspectRarity = 20000
+
+		[natural_replacements.hell_bosses.primordial_daemon_weights]
+			#Relative spawn weight for Vert in the Primordial Daemon aspect pool. Set to 0 to disable.
+			# Default: 1
+			# Range: > 0
+			vertWeight = 1
+			#Relative spawn weight for Bleu in the Primordial Daemon aspect pool. Set to 0 to disable.
+			# Default: 1
+			# Range: > 0
+			bleuWeight = 1
+			#Relative spawn weight for Jaune in the Primordial Daemon aspect pool. Set to 0 to disable.
+			# Default: 1
+			# Range: > 0
+			jauneWeight = 1
+			#Relative spawn weight for Blanc in the Primordial Daemon aspect pool. Set to 0 to disable.
+			# Default: 1
+			# Range: > 0
+			blancWeight = 1
+			#Relative spawn weight for Violet in the Primordial Daemon aspect pool. Set to 0 to disable.
+			# Default: 1
+			# Range: > 0
+			violetWeight = 1
+			#Relative spawn weight for Noir in the Primordial Daemon aspect pool. Set to 0 to disable.
+			# Default: 1
+			# Range: > 0
+			niorWeight = 1
+
+	[natural_replacements.otherworlder_bosses]
+		#1 in X chance for Milim Wrath to replace an Otherworlder. Set to 0 to disable.
+		# Default: 100
+		# Range: > 0
+		milimWrathRarity = 100
+		#1 in X chance for Yuuki Desire to replace an Otherworlder. Set to 0 to disable.
+		# Default: 50
+		# Range: > 0
+		yuukiRarity = 50
+		#1 in X chance for Mariabell Rosso to replace an Otherworlder. Set to 0 to disable.
+		# Default: 20
+		# Range: > 0
+		mariabellRarity = 20
+		#1 in X chance for the Glenda/Arios pool to replace an Otherworlder. Set to 0 to disable the whole pool.
+		# Default: 20
+		# Range: > 0
+		glendaAriosRarity = 20
+		#1 in X chance for the Lucius/Raymond pool to replace an Otherworlder. Set to 0 to disable the whole pool.
+		# Default: 20
+		# Range: > 0
+		luciusRaymondRarity = 20
+		#1 in X chance for Kokuyou to spawn additionally in Otherworlder biomes. Set to 0 to disable.
+		# Default: 1000000
+		# Range: > 0
+		kokuyouExtraChance = 1000000
+
+		[natural_replacements.otherworlder_bosses.glenda_arios_weights]
+			#Relative spawn weight for Glenda in the Glenda/Arios replacement pool. Set to 0 to disable.
+			# Default: 1
+			# Range: > 0
+			glendaWeight = 1
+			#Relative spawn weight for Arios in the Glenda/Arios replacement pool. Set to 0 to disable.
+			# Default: 1
+			# Range: > 0
+			ariosWeight = 1
+
+		[natural_replacements.otherworlder_bosses.lucius_raymond_weights]
+			#Relative spawn weight for Lucius in the Lucius/Raymond replacement pool. Set to 0 to disable.
+			# Default: 1
+			# Range: > 0
+			luciusWeight = 1
+			#Relative spawn weight for Raymond in the Lucius/Raymond replacement pool. Set to 0 to disable.
+			# Default: 1
+			# Range: > 0
+			raymondWeight = 1
+
+	[natural_replacements.phantom_bosses]
+		#1 in X chance for Frey to replace a Phantom. Set to 0 to disable.
+		# Default: 500
+		# Range: > 0
+		freyPhantomRarity = 500

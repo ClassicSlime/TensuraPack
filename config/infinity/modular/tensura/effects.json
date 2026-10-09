@@ -1,0 +1,697 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "tensura:ally_boost",
+			"data": {
+				"Instant": false,
+				"Color": -18688,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:anti_magic",
+			"data": {
+				"Instant": false,
+				"Color": -15412355,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:anti_shock",
+			"data": {
+				"Instant": false,
+				"Color": -15430957,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:anti_skill",
+			"data": {
+				"Instant": false,
+				"Color": -65536,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:auditory_sense",
+			"data": {
+				"Instant": false,
+				"Color": -5719206,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:aura_sword",
+			"data": {
+				"Instant": false,
+				"Color": -15864074,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:bats_mode",
+			"data": {
+				"Instant": false,
+				"Color": -16777216,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:beast_transformation",
+			"data": {
+				"Instant": false,
+				"Color": -16723201,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:black_burn",
+			"data": {
+				"Instant": false,
+				"Color": -14606304,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:burden",
+			"data": {
+				"Instant": false,
+				"Color": -12631743,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:chill",
+			"data": {
+				"Instant": false,
+				"Color": -14047562,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:confusion",
+			"data": {
+				"Instant": false,
+				"Color": -10342008,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:corrosion",
+			"data": {
+				"Instant": false,
+				"Color": -16431093,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:curse",
+			"data": {
+				"Instant": false,
+				"Color": -10739784,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:diamond_path",
+			"data": {
+				"Instant": false,
+				"Color": -16318465,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:disintegrating",
+			"data": {
+				"Instant": false,
+				"Color": -605168,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dragon_mode",
+			"data": {
+				"Instant": false,
+				"Color": -19200,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:drowsiness",
+			"data": {
+				"Instant": false,
+				"Color": -11719760,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:earth_lock",
+			"data": {
+				"Instant": false,
+				"Color": -10139598,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:enemy_search",
+			"data": {
+				"Instant": false,
+				"Color": -1283735,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:energy_blockade",
+			"data": {
+				"Instant": false,
+				"Color": -3405997,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:engorgement",
+			"data": {
+				"Instant": false,
+				"Color": -612352,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:falsifier",
+			"data": {
+				"Instant": false,
+				"Color": -9102849,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:fatal_poison",
+			"data": {
+				"Instant": false,
+				"Color": -11403121,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:fate_change",
+			"data": {
+				"Instant": false,
+				"Color": -13855645,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:fear",
+			"data": {
+				"Instant": false,
+				"Color": -12956846,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:flashed_blindness",
+			"data": {
+				"Instant": false,
+				"Color": -1,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:fragility",
+			"data": {
+				"Instant": false,
+				"Color": -10329500,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:frost",
+			"data": {
+				"Instant": false,
+				"Color": -13472776,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:future_vision",
+			"data": {
+				"Instant": false,
+				"Color": -15409026,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:guarded",
+			"data": {
+				"Instant": false,
+				"Color": -9869465,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:haki_coat",
+			"data": {
+				"Instant": false,
+				"Color": -12975871,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:healthcare",
+			"data": {
+				"Instant": false,
+				"Color": -5310351,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:holy_damage",
+			"data": {
+				"Instant": false,
+				"Color": -23036,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:hypnosis",
+			"data": {
+				"Instant": false,
+				"Color": -5951323,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:illusion_boost",
+			"data": {
+				"Instant": false,
+				"Color": -4388104,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:infection",
+			"data": {
+				"Instant": false,
+				"Color": -11074813,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:infinite_imprisonment",
+			"data": {
+				"Instant": false,
+				"Color": -9435899,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:insanity",
+			"data": {
+				"Instant": false,
+				"Color": -65536,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:inspiration",
+			"data": {
+				"Instant": false,
+				"Color": -1270966,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:instant_regeneration",
+			"data": {
+				"Instant": false,
+				"Color": -2213832,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:lust_drain",
+			"data": {
+				"Instant": false,
+				"Color": -13826497,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:lust_embracement",
+			"data": {
+				"Instant": false,
+				"Color": -1792,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:mad_ogre",
+			"data": {
+				"Instant": false,
+				"Color": -1896689,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:magic_aura",
+			"data": {
+				"Instant": false,
+				"Color": -1723383,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:magic_barrier",
+			"data": {
+				"Instant": false,
+				"Color": -4457387,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:magic_elemental_transformation",
+			"data": {
+				"Instant": false,
+				"Color": -16350,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:magic_interference",
+			"data": {
+				"Instant": false,
+				"Color": -10406027,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:magicule_poison",
+			"data": {
+				"Instant": false,
+				"Color": -1112755,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:magicule_regeneration",
+			"data": {
+				"Instant": false,
+				"Color": -12598217,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:mind_control",
+			"data": {
+				"Instant": false,
+				"Color": -2224792,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:movement_interference",
+			"data": {
+				"Instant": false,
+				"Color": -12435392,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ogre_berserker",
+			"data": {
+				"Instant": false,
+				"Color": -8629841,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:ogre_guillotine",
+			"data": {
+				"Instant": false,
+				"Color": -10468889,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:oppression",
+			"data": {
+				"Instant": false,
+				"Color": -12567994,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:paralysis",
+			"data": {
+				"Instant": false,
+				"Color": -2043895,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:petrification",
+			"data": {
+				"Instant": false,
+				"Color": -10592162,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:physical_barrier",
+			"data": {
+				"Instant": false,
+				"Color": -11141921,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:presence_concealment",
+			"data": {
+				"Instant": false,
+				"Color": -16777010,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:presence_sense",
+			"data": {
+				"Instant": false,
+				"Color": -10964788,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:protection",
+			"data": {
+				"Instant": false,
+				"Color": -8355712,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:rampage",
+			"data": {
+				"Instant": false,
+				"Color": -11264739,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:reinforcement",
+			"data": {
+				"Instant": false,
+				"Color": -12237756,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:rest",
+			"data": {
+				"Instant": false,
+				"Color": -14870183,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:self_regeneration",
+			"data": {
+				"Instant": false,
+				"Color": -495247,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:severance_blade",
+			"data": {
+				"Instant": false,
+				"Color": -11805036,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:shadow_step",
+			"data": {
+				"Instant": false,
+				"Color": -16777216,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:silence",
+			"data": {
+				"Instant": false,
+				"Color": -13553359,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:sleep",
+			"data": {
+				"Instant": false,
+				"Color": -16777216,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:soul_drain",
+			"data": {
+				"Instant": false,
+				"Color": -14154677,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:spatial_blockade",
+			"data": {
+				"Instant": false,
+				"Color": -9828404,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:spearhead",
+			"data": {
+				"Instant": false,
+				"Color": -15114868,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:strengthen",
+			"data": {
+				"Instant": false,
+				"Color": -4611461,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:true_blindness",
+			"data": {
+				"Instant": false,
+				"Color": -16777216,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:warping",
+			"data": {
+				"Instant": false,
+				"Color": -4771073,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:webbed",
+			"data": {
+				"Instant": false,
+				"Color": -4475724,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:wind_protection",
+			"data": {
+				"Instant": false,
+				"Color": -15409026,
+				"Category": "beneficial"
+			}
+		}
+	]
+}

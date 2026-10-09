@@ -1,0 +1,31 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragon_spirit_coat",
+			"data": {
+				"Instant": false,
+				"Color": -12975871,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragon_transformation",
+			"data": {
+				"Instant": false,
+				"Color": -16350,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trorigins:magicule_rich",
+			"data": {
+				"Instant": false,
+				"Color": -16723201,
+				"Category": "beneficial"
+			}
+		}
+	]
+}

@@ -1,0 +1,56 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:contrail"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:fire_coat"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:flame"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:flame_tail"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:gas"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:gas_aoe_emitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:light_fury_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:lightning_aoe_emitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:lightning_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:night_fury_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:skrill_lightning_particles"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:skrill_skill_particles"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:stun_star"
+		}
+	]
+}

@@ -1,0 +1,76 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:activate_beacon"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:apply_effect"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:bonk"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:deactivate_beacon"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:fire_breath_end"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:fire_breath_loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:fire_breath_start"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:forest_breath_end"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:forest_breath_loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:forest_breath_start"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:storm_breath_end"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:storm_breath_loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:storm_breath_start"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:treasure_gem_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:treasure_gem_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:treasure_metal_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:treasure_metal_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:upgrade_beacon"
+		}
+	]
+}

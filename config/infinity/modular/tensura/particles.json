@@ -1,0 +1,100 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "tensura:bats_mode"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:black_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:black_lightning_effect"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:black_lightning_spark"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:blossom"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dark_purple_lightning_spark"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:dark_red_lightning_spark"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:falling_acid"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:falling_heal_drop"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:heat_effect"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:illusion_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:landing_acid"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:landing_heal_drop"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:lightning_effect"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:lightning_spark"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:plasma_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:purple_lightning_spark"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:red_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:snowflake"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:snowflake_effect"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:solar_flash"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:soul"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:weather_manipulation"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura:yellow_lightning_spark"
+		}
+	]
+}

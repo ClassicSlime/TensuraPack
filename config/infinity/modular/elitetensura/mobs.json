@@ -1,0 +1,18 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "elitetensura:gravebound_colossus",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "elitetensura:lich_boss",
+			"data": {
+				"Category": "monster"
+			}
+		}
+	]
+}

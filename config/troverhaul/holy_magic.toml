@@ -1,0 +1,54 @@
+#Minimum maximum EP required to complete Patron Ascension.
+patronMinimumEp = 1.0E7
+#Current magicules consumed by Patron Ascension.
+patronAscensionMagiculeCost = 1000000.0
+#Faith required to become a Believer and activate the soul channel.
+believerFaith = 1000
+#Faith required to become Devout.
+devoutFaith = 5000
+#Faith required to become Consecrated.
+consecratedFaith = 20000
+#Faith required to become an Apostle.
+apostleFaith = 50000
+#Percentage of faith retained when voluntarily changing deities.
+deityChangeFaithRetention = 0.1
+#Faith gained by a valid prayer.
+prayerFaithGain = 100
+#Whether the first successful prayer immediately grants enough faith to become a Believer and unlock basic Holy Magic.
+firstPrayerUnlocksHolyMagic = true
+#Seconds between prayers that can grant faith.
+prayerCooldownSeconds = 600
+#Player patron Grace capacity gained per maximum magicule.
+gracePerMaximumMagicule = 0.25
+#Player patron Grace capacity gained per maximum EP.
+gracePerMaximumEp = 0.05
+#Percentage of maximum Grace regenerated each second.
+graceRegenerationPercentPerSecond = 0.001
+#Scale applied to the square root of all follower computation.
+networkComputationScale = 10.0
+#Maximum fractional chant-time reduction supplied by network computation.
+maximumNetworkChantReduction = 0.8
+#Maximum number of player-patron links permitted below a system deity.
+maximumPatronHierarchyDepth = 8
+#Magicule costs for Healing, Recovery, Turn Undead, Purification, and Holy Ward.
+lesserMagiculeCosts = [500.0, 750.0, 1000.0, 1000.0, 1200.0]
+#Grace costs for Healing, Recovery, Turn Undead, Purification, and Holy Ward.
+lesserGraceCosts = [250.0, 400.0, 600.0, 600.0, 700.0]
+#Magicule costs for Holy Bell, Holy Cannon per second, High Heal, and Regeneration.
+mediumMagiculeCosts = [2500.0, 400.0, 4000.0, 5000.0]
+#Grace costs for Holy Bell, Holy Cannon per second, High Heal, and Regeneration.
+mediumGraceCosts = [1500.0, 250.0, 2500.0, 3000.0]
+#Magicule costs for Holy Field, Holy Rays, and Great High Heal.
+greaterMagiculeCosts = [12000.0, 15000.0, 18000.0]
+#Grace costs for Holy Field, Holy Rays, and Great High Heal.
+greaterGraceCosts = [8000.0, 10000.0, 12000.0]
+#Magicule costs for Disintegration and Holy Ark.
+miracleMagiculeCosts = [100000.0, 75000.0]
+#Grace costs for Disintegration and Holy Ark.
+miracleGraceCosts = [100000.0, 75000.0]
+#Holy Field lifetime in seconds.
+holyFieldDurationSeconds = 20
+#Holy Ark damage per second to holy-vulnerable targets, base and mastered.
+holyArkDamage = [100.0, 300.0]
+#Number of rays fired by Holy Rays, base and mastered.
+holyRayCounts = [12, 20]

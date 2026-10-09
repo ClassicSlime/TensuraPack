@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "trnightmare:projection_glass_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:projection_sorcery_360_barrage"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:projection_sorcery_speed_blitz"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:return_by_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:wedding_bell"
+		}
+	]
+}

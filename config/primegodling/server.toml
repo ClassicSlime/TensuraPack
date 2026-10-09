@@ -1,0 +1,4 @@
+[general]
+	#General mod settings
+	#Enable the Nexus Core crafting recipe (echo shards + diamonds + nether star)
+	crafting_enabled = false

@@ -1,0 +1,39 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "tensura_neb:carrion",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura_neb:luminous_valentine",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura_neb:rimuru_clone",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura_neb:rimuru_ogre_fight",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura_neb:veldora",
+			"data": {
+				"Category": "monster"
+			}
+		}
+	]
+}

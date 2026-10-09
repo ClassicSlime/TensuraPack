@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "tensura_neb:carrion_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura_neb:luminous_valentine_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura_neb:night_rose"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura_neb:rimuru_ogre_fight_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tensura_neb:white_tiger_azure_dragon_halberd"
+		}
+	]
+}

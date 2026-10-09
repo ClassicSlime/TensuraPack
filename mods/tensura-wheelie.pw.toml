@@ -1,0 +1,13 @@
+name = "Tensura: Wheelie"
+filename = "tensura-wheelie-1.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "516ef6b665a7d8e852fa14d7cabc7b071073910d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8853642
+project-id = 1675547

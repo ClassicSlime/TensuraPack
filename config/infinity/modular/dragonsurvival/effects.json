@@ -1,0 +1,211 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:animal_peace",
+			"data": {
+				"Instant": false,
+				"Color": 0,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:blast_dusted",
+			"data": {
+				"Instant": false,
+				"Color": 0,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:blood_siphon",
+			"data": {
+				"Instant": false,
+				"Color": 0,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:broken_wings",
+			"data": {
+				"Instant": false,
+				"Color": 0,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:burn",
+			"data": {
+				"Instant": false,
+				"Color": 0,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:cave_fire",
+			"data": {
+				"Instant": false,
+				"Color": 0,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:charged",
+			"data": {
+				"Instant": false,
+				"Color": 0,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:confounded",
+			"data": {
+				"Instant": false,
+				"Color": 0,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:drain",
+			"data": {
+				"Instant": false,
+				"Color": 0,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:empowered_soul",
+			"data": {
+				"Instant": false,
+				"Color": 0,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:exhausted_soul",
+			"data": {
+				"Instant": false,
+				"Color": 0,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:forest_magic",
+			"data": {
+				"Instant": false,
+				"Color": 0,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:hunter",
+			"data": {
+				"Instant": false,
+				"Color": 0,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:hunter_omen",
+			"data": {
+				"Instant": false,
+				"Color": 0,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:lava_vision",
+			"data": {
+				"Instant": false,
+				"Color": 0,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:magic_disabled",
+			"data": {
+				"Instant": false,
+				"Color": 0,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:regeneration_delay",
+			"data": {
+				"Instant": false,
+				"Color": 0,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:sea_peace",
+			"data": {
+				"Instant": false,
+				"Color": 0,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:source_of_magic",
+			"data": {
+				"Instant": false,
+				"Color": 0,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:stress",
+			"data": {
+				"Instant": false,
+				"Color": 16032488,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:sturdy_skin",
+			"data": {
+				"Instant": false,
+				"Color": 0,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:trapped",
+			"data": {
+				"Instant": false,
+				"Color": 14540253,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:water_vision",
+			"data": {
+				"Instant": false,
+				"Color": 0,
+				"Category": "beneficial"
+			}
+		}
+	]
+}

@@ -1,0 +1,75 @@
+#Controls how AN mana is redirected to Tensura Magicule.
+[mp_integration]
+	#When true, AN spells cost Tensura Magicule instead of AN mana.
+	replace_mana_with_mp = true
+	#The structure is: "max_mp;ratio" 
+	#Magicule per point of AN mana cost as soon as their max Magicule is at or
+	mp_ratio_tiers = ["5000;30", "45000;55", "225000;75", "825000;160", "5000000;320", "15000000;550", "75000000;1000", "375000000;2330", "500000000;3710"]
+	#Extra multiplier on redirected mana gains. 1.0 = same rate as casting.
+	# Default: 1.0
+	# Range: 0.0 ~ 1000.0
+	mana_gain_mp_multiplier = 1.0
+
+#Restrictions on when AN spells can be cast.
+[casting_restrictions]
+	#Block AN spellcasting while under Paralysis, Infinite Imprisonment,
+	#Spatial Blockade, or Energy Blockade.
+	block_cast_during_debuffs = true
+
+#Change how the AN to tensura buffs work
+[armor_buffs]
+	#Every point of AN's base 'Max Mana' stat on worn armour - from an item's
+	#own tooltip stat, or from AN's 'Mana Boost' enchantment - summed across
+	#all worn pieces, grants this many flat Max Magicule.
+	#E.g. 10.0 with a worn +30 Max Mana piece grants +300 Max Magicule.
+	# Default: 10.0
+	# Range: 0.0 ~ 1000000.0
+	an_max_mana_stat_to_magicule_ratio = 10.0
+	#Every point of AN's base 'Mana Regen' stat on worn armour - from an item's
+	#own tooltip stat, or from AN's 'Mana Regen' enchantment - summed across
+	#all worn pieces, adds this much to
+	#TensuraAttributes.MAGICULE_REGENERATION_MULTIPLIER.
+	#E.g. 0.05 with a worn +1 Mana Regen piece grants +5% Magicule regen.
+	# Default: 0.05
+	# Range: 0.0 ~ 100.0
+	an_mana_regen_stat_to_magicule_regen_ratio = 0.05
+
+#The AN spellbook evolves itself (novice -> apprentice -> archmage -> ...
+[book_evolution]
+	#Master switch. Set false to disable spellbook auto-evolution entirely.
+	enable_book_evolution = true
+	#The base Ars Nouveau novice -> apprentice -> archmage tiers are always there
+	#The three Allthemodium/Vibranium/Unobtainium entries below are ADDITIONS
+	#for players who also have the 'All The Arcanist Gear' and 'Allthemodium'
+	#mods installed — neither is required for this mod to work.
+	#novice/apprentice/archmage -> allthemodium -> vibranium -> unobtainium
+	book_evolution_chain = ["ars_nouveau:novice_spell_book;0;", "ars_nouveau:apprentice_spell_book;25000;", "ars_nouveau:archmage_spell_book;150000;", "allthearcanistgear:allthemodium_spell_book;400000;allthearcanistgear,allthemodium", "allthearcanistgear:vibranium_spell_book;800000;allthearcanistgear,allthemodium", "allthearcanistgear:unobtainium_spell_book;1500000;allthearcanistgear,allthemodium"]
+
+#Same idea as book_evolution, but for the 'Ars Zero' addon's spell staff.
+[staff_evolution]
+	#Same as with teh ars Nouveau values(only change if you want it to be different from the Ars one)
+	staff_evolution_chain = ["ars_zero:novice_spell_staff;0;ars_zero", "ars_zero:mage_spell_staff;25000;ars_zero", "ars_zero:archmage_spell_staff;150000;ars_zero"]
+
+#Overall AN spell damage balance vs. Tensura's high-damage abilities.
+[damage_balance]
+	#Bonus damage percentage granted per 100,000 current Magicule.
+	#Default 10.0 means: 100k Magicule = +10% damage, 500k = +50%, etc.
+	#Uses CURRENT reserve, not max pool
+	# Default: 10.0
+	# Range: 0.0 ~ 10000.0
+	magicule_damage_percent_per_100k = 10.0
+	#Hard cap on the total bonus percentage. Default 10000.0 = +10000% (100x max).
+	# Default: 10000.0
+	# Range: 0.0 ~ 1.0E7
+	magicule_damage_cap_percent = 10000.0
+
+#Dampens this mod's own damage bonuses specifically in player-vs-player
+#combat, without touching vanilla AN damage or Tensura's own damage. Also
+#runtime-settable via '/arstensura pvpdamage <multiplier>' (operator-only).
+[pvp]
+	#1.0 = no dampening (PvP identical to PvE). 0.0 = every bonus this mod
+	#adds is neutralized in PvP, leaving only vanilla AN + Tensura damage.
+	#0.5 = half of this mod's bonus damage applies in PvP.
+	# Default: 1.0
+	# Range: 0.0 ~ 2.0
+	pvp_damage_multiplier = 1.0

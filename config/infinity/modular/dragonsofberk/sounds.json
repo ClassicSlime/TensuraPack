@@ -1,0 +1,400 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.deadly_nadder.bite"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.deadly_nadder.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.deadly_nadder.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.deadly_nadder.flap"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.deadly_nadder.growl"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.deadly_nadder.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.deadly_nadder.sleep"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.deadly_nadder.special"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.deadly_nadder.tame"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.gronckle.bite"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.gronckle.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.gronckle.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.gronckle.flap"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.gronckle.growl"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.gronckle.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.gronckle.sleep"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.gronckle.spit_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.gronckle.tame"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.light_fury.bite"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.light_fury.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.light_fury.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.light_fury.growl"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.light_fury.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.light_fury.sleep"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.light_fury.special"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.light_fury.tame"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.monstrous_nightmare.bite"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.monstrous_nightmare.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.monstrous_nightmare.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.monstrous_nightmare.flap"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.monstrous_nightmare.growl"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.monstrous_nightmare.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.monstrous_nightmare.ignition"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.monstrous_nightmare.sleep"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.monstrous_nightmare.special"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.monstrous_nightmare.tame"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.night_fury.bite"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.night_fury.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.night_fury.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.night_fury.fire_load"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.night_fury.fire_release"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.night_fury.growl"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.night_fury.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.night_fury.sleep"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.night_fury.special"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.night_fury.tame"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.skrill.bite"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.skrill.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.skrill.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.skrill.growl"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.skrill.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.skrill.sleep"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.skrill.special"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.skrill.tame"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.speed_stinger.bite"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.speed_stinger.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.speed_stinger.growl"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.speed_stinger.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.speed_stinger.leader_growl"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.speed_stinger.sleep"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.speed_stinger.sting"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.speed_stinger.tame"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.stinger.bite"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.stinger.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.stinger.growl"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.stinger.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.stinger.sleep"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.stinger.tame"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.stormcutter.bite"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.stormcutter.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.stormcutter.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.stormcutter.growl"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.stormcutter.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.stormcutter.sleep"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.stormcutter.special"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.stormcutter.tame"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.terrible_terror.bite"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.terrible_terror.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.terrible_terror.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.terrible_terror.growl"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.terrible_terror.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.terrible_terror.sleep"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.terrible_terror.tame"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.triple_stryke.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.triple_stryke.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.triple_stryke.growl"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.triple_stryke.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.triple_stryke.sleep"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.triple_stryke.sting"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.triple_stryke.tame"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.zippleback.bite"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.zippleback.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.zippleback.growl"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.zippleback.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.zippleback.lighter"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.zippleback.poison_breath"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.zippleback.sleep"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.zippleback.special"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsofberk:entity.zippleback.tame"
+		}
+	]
+}

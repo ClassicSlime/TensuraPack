@@ -1,0 +1,11 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "trorigins:dragotite_bone_golem",
+			"data": {
+				"Category": "monster"
+			}
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "ascension:angel_wings",
+			"data": {
+				"Instant": false,
+				"Color": 12114175,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "ascension:bleeding",
+			"data": {
+				"Instant": false,
+				"Color": 9109504,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "ascension:regen_suppression",
+			"data": {
+				"Instant": false,
+				"Color": 5898257,
+				"Category": "harmful"
+			}
+		}
+	]
+}

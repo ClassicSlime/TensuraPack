@@ -1,0 +1,64 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "ascension:adept_efficiency_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascension:area_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascension:aura_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascension:awakening_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascension:basic_efficiency_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascension:deepslate_magic_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascension:enhanced_efficiency_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascension:hyperbolic_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascension:magicule_enhancer"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascension:majin_candy"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascension:sealing_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascension:skill_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascension:soul_echo"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascension:suppression_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "ascension:ultimate_catalyst"
+		}
+	]
+}

@@ -1,0 +1,778 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "trnightmare:acceleration",
+			"data": {
+				"Instant": false,
+				"Color": 65535,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:acceleration_overdrive",
+			"data": {
+				"Instant": false,
+				"Color": 16729344,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:apotheosis",
+			"data": {
+				"Instant": false,
+				"Color": 16766720,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:arrogance",
+			"data": {
+				"Instant": false,
+				"Color": -2949121,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:arroganz_antiskill",
+			"data": {
+				"Instant": false,
+				"Color": 8900346,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:arroganz_mirror",
+			"data": {
+				"Instant": false,
+				"Color": 16766720,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:asmodeus",
+			"data": {
+				"Instant": false,
+				"Color": -2949121,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:asmodeusd",
+			"data": {
+				"Instant": false,
+				"Color": -2949121,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:assault_moded",
+			"data": {
+				"Instant": false,
+				"Color": -10481997,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:astral_protection",
+			"data": {
+				"Instant": false,
+				"Color": -16777216,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:bacchus",
+			"data": {
+				"Instant": false,
+				"Color": 8913066,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:bardic",
+			"data": {
+				"Instant": false,
+				"Color": -16777216,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:beastgod",
+			"data": {
+				"Instant": false,
+				"Color": -2949121,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:blackpara",
+			"data": {
+				"Instant": false,
+				"Color": -2949121,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:cadence_white_lock",
+			"data": {
+				"Instant": false,
+				"Color": -984833,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:castle_guard",
+			"data": {
+				"Instant": false,
+				"Color": 8900346,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:chimera_form",
+			"data": {
+				"Instant": false,
+				"Color": -4949956,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:complete_concealment",
+			"data": {
+				"Instant": false,
+				"Color": -1,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:core_damage",
+			"data": {
+				"Instant": false,
+				"Color": -16777216,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:costless",
+			"data": {
+				"Instant": false,
+				"Color": -2213832,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:courage",
+			"data": {
+				"Instant": false,
+				"Color": -2949121,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:coward",
+			"data": {
+				"Instant": false,
+				"Color": -2949121,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:cthulhu_drain",
+			"data": {
+				"Instant": false,
+				"Color": -16777216,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:cthulhu_inferior",
+			"data": {
+				"Instant": false,
+				"Color": 10147048,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:cursed_poison",
+			"data": {
+				"Instant": false,
+				"Color": -15446006,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:daemon_omen",
+			"data": {
+				"Instant": false,
+				"Color": -1,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:demon_burned",
+			"data": {
+				"Instant": false,
+				"Color": -2949121,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:deus",
+			"data": {
+				"Instant": false,
+				"Color": 10545407,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:dire_omen",
+			"data": {
+				"Instant": false,
+				"Color": -1,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:divine_regeneration",
+			"data": {
+				"Instant": false,
+				"Color": -16777216,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:dragonmaddness",
+			"data": {
+				"Instant": false,
+				"Color": -2949121,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:ending",
+			"data": {
+				"Instant": false,
+				"Color": -1,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:ending_soul",
+			"data": {
+				"Instant": false,
+				"Color": -1,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:enkidu_bind",
+			"data": {
+				"Instant": false,
+				"Color": -2838729,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:envied",
+			"data": {
+				"Instant": false,
+				"Color": 11141120,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:envious_mirror",
+			"data": {
+				"Instant": false,
+				"Color": 16766720,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:falmuth_omen",
+			"data": {
+				"Instant": false,
+				"Color": -1,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:freezing_burn",
+			"data": {
+				"Instant": false,
+				"Color": -2960166,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:gabriel_heat_death",
+			"data": {
+				"Instant": false,
+				"Color": -4924161,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:giant_dance",
+			"data": {
+				"Instant": false,
+				"Color": -2949121,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:glorious_regen",
+			"data": {
+				"Instant": false,
+				"Color": -16711936,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:godspeed_regeneration",
+			"data": {
+				"Instant": false,
+				"Color": -4522042,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:holy_ascension",
+			"data": {
+				"Instant": false,
+				"Color": 16766720,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:hopes_gift",
+			"data": {
+				"Instant": false,
+				"Color": 16766720,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:inked",
+			"data": {
+				"Instant": false,
+				"Color": 1381653,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:intangible",
+			"data": {
+				"Instant": false,
+				"Color": -38476,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:isolate",
+			"data": {
+				"Instant": false,
+				"Color": -16777216,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:jealous",
+			"data": {
+				"Instant": false,
+				"Color": 7150218,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:kinetic",
+			"data": {
+				"Instant": false,
+				"Color": 12000284,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:knight_fury",
+			"data": {
+				"Instant": false,
+				"Color": -16777216,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:knight_resolve",
+			"data": {
+				"Instant": false,
+				"Color": -16777216,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:leonidas",
+			"data": {
+				"Instant": false,
+				"Color": -38476,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:liberation",
+			"data": {
+				"Instant": false,
+				"Color": -2949121,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:magicule_reactor",
+			"data": {
+				"Instant": false,
+				"Color": -4970456,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:mammon_flare",
+			"data": {
+				"Instant": false,
+				"Color": -2949121,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:metal_mode",
+			"data": {
+				"Instant": false,
+				"Color": -2949121,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:mind_projection",
+			"data": {
+				"Instant": false,
+				"Color": -12268289,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:monk_speed",
+			"data": {
+				"Instant": false,
+				"Color": -16777216,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:monster_omen",
+			"data": {
+				"Instant": false,
+				"Color": -1,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:mood",
+			"data": {
+				"Instant": false,
+				"Color": -38476,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:mystic_aura",
+			"data": {
+				"Instant": false,
+				"Color": -16777216,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:necrotic",
+			"data": {
+				"Instant": false,
+				"Color": 2951690,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:nihilistic_vision",
+			"data": {
+				"Instant": false,
+				"Color": -2302746,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:overclock",
+			"data": {
+				"Instant": false,
+				"Color": -39836,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:overheat",
+			"data": {
+				"Instant": false,
+				"Color": 16729088,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:projection_glass",
+			"data": {
+				"Instant": false,
+				"Color": -9435899,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:raid_taunt",
+			"data": {
+				"Instant": false,
+				"Color": -1,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:reflection",
+			"data": {
+				"Instant": false,
+				"Color": -38476,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:rotting",
+			"data": {
+				"Instant": false,
+				"Color": 4856330,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:salvation",
+			"data": {
+				"Instant": false,
+				"Color": 16312225,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:simple",
+			"data": {
+				"Instant": false,
+				"Color": -1,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:slowheal",
+			"data": {
+				"Instant": false,
+				"Color": -2949121,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:soul_protect",
+			"data": {
+				"Instant": false,
+				"Color": -1,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:spatial_lock",
+			"data": {
+				"Instant": false,
+				"Color": -9828404,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:stasis_fixed_state",
+			"data": {
+				"Instant": false,
+				"Color": -3613441,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:stolen_luck",
+			"data": {
+				"Instant": false,
+				"Color": 7995562,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:survival",
+			"data": {
+				"Instant": false,
+				"Color": 5025616,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:temptation_magic_jamming",
+			"data": {
+				"Instant": false,
+				"Color": -12844966,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:temptation_marked",
+			"data": {
+				"Instant": false,
+				"Color": -11529096,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:time_stop",
+			"data": {
+				"Instant": false,
+				"Color": -10840321,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:true_dragon_body",
+			"data": {
+				"Instant": false,
+				"Color": -8892216,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:ultimate_shield",
+			"data": {
+				"Instant": false,
+				"Color": 5143446,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:unlimited_void",
+			"data": {
+				"Instant": false,
+				"Color": -38476,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:white_flame",
+			"data": {
+				"Instant": false,
+				"Color": -2949121,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:witches_curse",
+			"data": {
+				"Instant": false,
+				"Color": 4852298,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:zone",
+			"data": {
+				"Instant": false,
+				"Color": -16777216,
+				"Category": "beneficial"
+			}
+		}
+	]
+}

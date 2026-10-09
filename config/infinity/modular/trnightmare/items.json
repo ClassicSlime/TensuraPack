@@ -1,0 +1,396 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "trnightmare:ancient_grimoire"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:ancient_history_book"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:arch_angel_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:arch_fallen_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:arch_phantom_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:ark"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:artha_cane"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:artha_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:beater_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:beater_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:beater_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:beater_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:between_time_grimoire"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:caliburn"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:cliche_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:cliche_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:cliche_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:cliche_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:courechouse"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:crimson_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:crimson_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:crimson_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:crimson_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:deal_contract"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:demon_king_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:deva"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:dharma"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:divine_axe_rhitta"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:dragon_seal"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:earth_nucleation_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:elder_essence"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:ender_essence"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:ending_sealed_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:ending_unsealed_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:evil_attribute_stick"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:excalibur"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:frost_dragon_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:frost_nucleation_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:galand_halberd"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:gilgamesh_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:gilgamesh_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:gilgamesh_ea"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:gilgamesh_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:gilgamesh_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:gilgamesh_marduk_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:greater_angel_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:greater_fallen_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:greater_phantom_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:heroic_memory"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:holy_essence"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:ice_dragon_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:kama"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:lesser_angel_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:lesser_fallen_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:lesser_phantom_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:life_essence"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:lostvayne_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:memory"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:mystic_code_book"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:noble_phantasm_angra_mainyu"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:noble_phantasm_avalon"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:noble_phantasm_avalon_lionheart"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:noble_phantasm_balmung"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:noble_phantasm_excalibur_lionheart"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:noble_phantasm_excalibur_phantasm"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:noble_phantasm_fragarach"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:noble_phantasm_gae_bolg"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:noble_phantasm_gae_buidhe"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:noble_phantasm_gae_dearg"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:noble_phantasm_god_force"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:noble_phantasm_harpe"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:noble_phantasm_holy_grail"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:noble_phantasm_jeweled_sword_zelretch"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:noble_phantasm_lord_camelot"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:noble_phantasm_muramasa_phantasm"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:noble_phantasm_rho_aias"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:noble_phantasm_rule_breaker"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:noble_phantasm_tawrich_zarich"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:noble_phantasm_true_nine_lives"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:nodens_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:nodens_the_world"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:rebirth_essence"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:reinhard_locked"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:reinhard_unlocked"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:ruined_history_book"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:scorch_dragon_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:scorch_dragon_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:scorch_nucleation_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:skill_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:soul"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:soul_essence"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:storm_dragon_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:storm_dragon_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:storm_nucleation_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:terrablade"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:the_asura"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:the_world"
+		},
+		{
+			"weight": 1.0,
+			"key": "trnightmare:zeldris_sword"
+		}
+	]
+}

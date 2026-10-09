@@ -1,0 +1,13 @@
+name = "Tensura ReVoice of The World"
+filename = "voiceoftheworld-1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f2180dcc0998a7fcbc432220a6f7912f4edc6231"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8460623
+project-id = 1602502

@@ -1,0 +1,121 @@
+legacyStatsNormalized = true
+
+[Shadow]
+	#Minimum starting aura for this Shadow race stage.
+	minAura = 100.0
+	#Maximum starting aura for this Shadow race stage.
+	maxAura = 250.0
+	#Minimum starting magicules for this Shadow race stage.
+	minMagicule = 800.0
+	#Maximum starting magicules for this Shadow race stage.
+	maxMagicule = 1400.0
+	#Additive player scale modifier.
+	size = 0.0
+	#Additive maximum health modifier.
+	maxHealth = -4.0
+	#Additive maximum spiritual health modifier.
+	maxSpiritualHealth = 20.0
+	#Additive attack damage modifier.
+	attack = -0.4
+	#Additive attack speed modifier.
+	attackSpeed = -0.1
+	#Additive knockback resistance modifier.
+	knockbackResistance = 0.0
+	#Additive movement speed modifier.
+	movementSpeed = -0.01
+	#Additive swimming speed multiplier.
+	swimSpeed = 0.0
+	#Multiplier for the chance to obtain Darkness elemental spirits.
+	darkSpiritMultiplier = 2.0
+	#Maximum EP required to evolve into this stage.
+	epRequirement = 0.0
+
+[Shadowwalker]
+	#Minimum starting aura for this Shadow race stage.
+	minAura = 70000.0
+	#Maximum starting aura for this Shadow race stage.
+	maxAura = 90000.0
+	#Minimum starting magicules for this Shadow race stage.
+	minMagicule = 60000.0
+	#Maximum starting magicules for this Shadow race stage.
+	maxMagicule = 90000.0
+	#Additive player scale modifier.
+	size = 0.0
+	#Additive maximum health modifier.
+	maxHealth = 60.0
+	#Additive maximum spiritual health modifier.
+	maxSpiritualHealth = 200.0
+	#Additive attack damage modifier.
+	attack = 0.75
+	#Additive attack speed modifier.
+	attackSpeed = 0.1
+	#Additive knockback resistance modifier.
+	knockbackResistance = 0.2
+	#Additive movement speed modifier.
+	movementSpeed = 0.02
+	#Additive swimming speed multiplier.
+	swimSpeed = 0.1
+	#Multiplier for the chance to obtain Darkness elemental spirits.
+	darkSpiritMultiplier = 2.5
+	#Maximum EP required to evolve into this stage.
+	epRequirement = 100000.0
+
+[Voidwalker]
+	#Minimum starting aura for this Shadow race stage.
+	minAura = 350000.0
+	#Maximum starting aura for this Shadow race stage.
+	maxAura = 450000.0
+	#Minimum starting magicules for this Shadow race stage.
+	minMagicule = 500000.0
+	#Maximum starting magicules for this Shadow race stage.
+	maxMagicule = 650000.0
+	#Additive player scale modifier.
+	size = 0.0
+	#Additive maximum health modifier.
+	maxHealth = 400.0
+	#Additive maximum spiritual health modifier.
+	maxSpiritualHealth = 3040.0
+	#Additive attack damage modifier.
+	attack = 2.0
+	#Additive attack speed modifier.
+	attackSpeed = 0.4
+	#Additive knockback resistance modifier.
+	knockbackResistance = 0.5
+	#Additive movement speed modifier.
+	movementSpeed = 0.04
+	#Additive swimming speed multiplier.
+	swimSpeed = 0.4
+	#Multiplier for the chance to obtain Darkness elemental spirits.
+	darkSpiritMultiplier = 3.5
+	#Maximum EP required to evolve into this stage.
+	epRequirement = 400000.0
+
+[ErebusIncarnate]
+	#Minimum starting aura for this Shadow race stage.
+	minAura = 1000000.0
+	#Maximum starting aura for this Shadow race stage.
+	maxAura = 1000000.0
+	#Minimum starting magicules for this Shadow race stage.
+	minMagicule = 1500000.0
+	#Maximum starting magicules for this Shadow race stage.
+	maxMagicule = 1500000.0
+	#Additive player scale modifier.
+	size = 0.0
+	#Additive maximum health modifier.
+	maxHealth = 1050.0
+	#Additive maximum spiritual health modifier.
+	maxSpiritualHealth = 6606.0
+	#Additive attack damage modifier.
+	attack = 4.0
+	#Additive attack speed modifier.
+	attackSpeed = 0.7
+	#Additive knockback resistance modifier.
+	knockbackResistance = 0.8
+	#Additive movement speed modifier.
+	movementSpeed = 0.07
+	#Additive swimming speed multiplier.
+	swimSpeed = 0.8
+	#Multiplier for the chance to obtain Darkness elemental spirits.
+	darkSpiritMultiplier = 5.0
+	#Maximum EP required to evolve into this stage.
+	epRequirement = 2000000.0

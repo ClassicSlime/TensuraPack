@@ -1,0 +1,13 @@
+name = "Tensura: Reincarnated Bosses"
+filename = "trying_to_make_an_addon-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f85a5a99b4755cd7131f92540e2a614153a6f28d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9057721
+project-id = 1708456

@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:boss_spawner"
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:prison_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "block_factorys_bosses:rusty_prison_door"
+		}
+	]
+}

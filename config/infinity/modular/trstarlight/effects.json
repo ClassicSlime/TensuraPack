@@ -1,0 +1,40 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "trstarlight:ember_attack_improvement",
+			"data": {
+				"Instant": false,
+				"Color": -1,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trstarlight:remnant_ascension_armor",
+			"data": {
+				"Instant": false,
+				"Color": -1,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trstarlight:shape_forgotten_armor",
+			"data": {
+				"Instant": false,
+				"Color": -1,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "trstarlight:soul_aegis",
+			"data": {
+				"Instant": false,
+				"Color": -1,
+				"Category": "beneficial"
+			}
+		}
+	]
+}

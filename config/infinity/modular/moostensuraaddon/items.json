@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "moostensuraaddon:great_crystal_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "moostensuraaddon:moostensura"
+		},
+		{
+			"weight": 1.0,
+			"key": "moostensuraaddon:soul_resonator"
+		}
+	]
+}

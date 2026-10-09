@@ -1,0 +1,13 @@
+name = "Tensura: Give Me More Magicules"
+filename = "tensuragivememoremagicules-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e933bb25a151aa434bc88fe69932e43cbff9b094"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8430074
+project-id = 1609897

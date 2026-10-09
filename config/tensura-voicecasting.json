@@ -1,0 +1,9 @@
+{
+  "autoStartListening": false,
+  "resumeAfterInterruptions": true,
+  "modelPath": "config/tensura_voicecasting/model",
+  "microphoneName": "",
+  "minimumConfidence": 0.8,
+  "maxHoldTicks": 200,
+  "aliases": {}
+}
