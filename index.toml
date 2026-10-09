@@ -3968,11 +3968,6 @@ hash = "1f2e3940f8541ac5eca6e341860f1e48629ebe3961508b715346230008e5a3c4"
 metafile = true
 
 [[files]]
-file = "mods/tensura-voice-cast.pw.toml"
-hash = "6b38bcc069279ae89dc42cc29cddf0a62ebafab87c8dc4dd026fc101558b1952"
-metafile = true
-
-[[files]]
 file = "mods/tensura-wheelie.pw.toml"
 hash = "8217408dcef128c58c7cd7480f73fdce9b793ea275ce34fe20baff07da1ea48c"
 metafile = true
@@ -3986,6 +3981,10 @@ metafile = true
 file = "mods/tensuraepscaling.pw.toml"
 hash = "102a9b7f24d4db1f283e23ee42858e9d7e0b8d16ba39b643ad2e2fbc7eda18f1"
 metafile = true
+
+[[files]]
+file = "mods/tensuravoice-neoforge-1.0.0.jar"
+hash = "87faa0cfa57f934dc5513b89420107f92353b42d4058d8cb4f704f4e7849b557"
 
 [[files]]
 file = "mods/terrablender-neoforge.pw.toml"
