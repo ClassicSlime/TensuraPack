@@ -1,13 +1,13 @@
 name = "Dap ur Homies"
-filename = "coopmod-1.0.0.jar"
+filename = "DAP ur Homie (bully ur homie).jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "de5ee77512325379791d825edea2e8bb47bd8213"
+hash = "b7defafb25dfb49092081aebc22ac7a39f98cb98"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9008210
+file-id = 8062696
 project-id = 1423094

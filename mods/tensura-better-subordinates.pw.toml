@@ -1,13 +1,13 @@
 name = "Tensura: Better Subordinates"
-filename = "tensura_better_subs-fabric-1.2.4.jar"
+filename = "tensura_better_subs-neoforge-1.2.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1aD7nY4F/versions/hwjrE2VG/tensura_better_subs-fabric-1.2.4.jar"
+url = "https://cdn.modrinth.com/data/1aD7nY4F/versions/YEHpTlnx/tensura_better_subs-neoforge-1.2.4.jar"
 hash-format = "sha512"
-hash = "aa5943571c3c1c1c524036cd797e47359aa6d20e4e07964d8259693cc5c4959d9361fe9d6066093f5cf59ab1c1ca72fdace215fbdbcb116a8d10e56210cbb349"
+hash = "daddc36f517fbfa46cc0053dc730c08e763859bfb7b22ce354f3dc47af7a201a563e69ca78721935b5c930a7b012766fe5009a0a9e1456c283158d4c636bcb82"
 
 [update]
 [update.modrinth]
 mod-id = "1aD7nY4F"
-version = "hwjrE2VG"
+version = "YEHpTlnx"

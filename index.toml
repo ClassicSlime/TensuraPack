@@ -3685,7 +3685,7 @@ metafile = true
 
 [[files]]
 file = "mods/dap-ur-homies.pw.toml"
-hash = "998c480cd51c088c1cf3e738878769a953b5a5f21611311dee58ec0663f3ed0b"
+hash = "b5e6120481d36d54164f9aff1399c09ce610386cb39486c111875212d975dd90"
 metafile = true
 
 [[files]]
@@ -3744,7 +3744,7 @@ metafile = true
 
 [[files]]
 file = "mods/infinite-dimensions.pw.toml"
-hash = "10db4f630b42e8dbb617e99fee6b4504e0fb442b647b54c43d79b869e1775955"
+hash = "e6e1fd0ed1143737180e171d99946467ec932dccae368bdc0645675c2a22a233"
 metafile = true
 
 [[files]]
@@ -3754,7 +3754,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "352bbd56bffa7bb7af6e16ae0e745db85e2d7e9e0ea6037ff866149f6e6e08b8"
+hash = "763ed0c115b2b9a1e37e38cb153748c9c3f3c31869fd3d56acfaad54c63e78af"
 metafile = true
 
 [[files]]
@@ -3829,7 +3829,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "a1f6bfecd4098396ad7df0ec212ebd5b76fe1c14223f9e4a712eb16738fc5b7a"
+hash = "9e324cddedb5c8a25b577a4fcf23cb27e96ae4cb638b57854fac68dda294c20f"
 metafile = true
 
 [[files]]
@@ -3849,7 +3849,7 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "10a34e5be6e84ed5fcc47730b87dcfc1ff6e6807134b38f12737da8f9574eae4"
+hash = "3471aa37f60afd158148e97410c12fc3ab463a846c7d6bd227a1ebafec2223aa"
 metafile = true
 
 [[files]]
@@ -3864,7 +3864,7 @@ metafile = true
 
 [[files]]
 file = "mods/tensura-better-subordinates.pw.toml"
-hash = "cc5ecec354205da48a7a37c42daebd5c6aa2d4b91acc6ebaa9cd38fbcf9b5d33"
+hash = "6cfe68c7090ae100b2f000fd2949b5c6fd35fb73f853bb7445596ff84d692e67"
 metafile = true
 
 [[files]]
