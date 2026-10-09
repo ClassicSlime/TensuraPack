@@ -3939,7 +3939,7 @@ metafile = true
 
 [[files]]
 file = "mods/tensura-reincarnated.pw.toml"
-hash = "d7cceedf2daebd33b7c06e954b0c50d70a74d360ea9d1e34edc804dc0dfc4a3a"
+hash = "1bf0724244383ad661c0ac962007f8014dd1a78a1c948345d14514c39959d328"
 metafile = true
 
 [[files]]
@@ -3965,6 +3965,11 @@ metafile = true
 [[files]]
 file = "mods/tensura-starlight.pw.toml"
 hash = "1f2e3940f8541ac5eca6e341860f1e48629ebe3961508b715346230008e5a3c4"
+metafile = true
+
+[[files]]
+file = "mods/tensura-voice-cast.pw.toml"
+hash = "6b38bcc069279ae89dc42cc29cddf0a62ebafab87c8dc4dd026fc101558b1952"
 metafile = true
 
 [[files]]
