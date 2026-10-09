@@ -3655,7 +3655,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
 metafile = true
 
 [[files]]
@@ -3748,6 +3748,11 @@ hash = "e6e1fd0ed1143737180e171d99946467ec932dccae368bdc0645675c2a22a233"
 metafile = true
 
 [[files]]
+file = "mods/inline.pw.toml"
+hash = "d07f0538a957be145586716d35f63aba0015d9320823f83000cb91d1b75dcbf1"
+metafile = true
+
+[[files]]
 file = "mods/integrated-api.pw.toml"
 hash = "998a683cb3c418947cbc05d251b4113dbf336ef271a8b3d8ea7d6672cc9eef64"
 metafile = true
@@ -3803,6 +3808,10 @@ hash = "3718e8a37d0dc2939cc350cce74bcb9c36b59f48baf4560e62804f7ca6478185"
 metafile = true
 
 [[files]]
+file = "mods/paucal-0.7.1-pre-27+1.21.1-neoforge.jar"
+hash = "4be89c91385ffaecb5a0cc405d644dc7387c6f05705630b26df333a226ffae08"
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "d8c433e94f2c8e5838e8937d7a162fe834e966f1f9640a563db5060a3011b2f4"
 metafile = true
@@ -3840,11 +3849,6 @@ metafile = true
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
 hash = "1a610a4a75169fbebeece88a8e611fa0ad432b8661754a519166b23a6d643e36"
-metafile = true
-
-[[files]]
-file = "mods/sodium.pw.toml"
-hash = "617ec6e9893d59905035a510fe336addd46a97b6fd28fad88b70713ebf8e69e3"
 metafile = true
 
 [[files]]
