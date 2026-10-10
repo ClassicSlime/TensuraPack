@@ -3816,6 +3816,11 @@ hash = "8590e77951c4fb7c1ac4a52f8e1e0fa0103518b8c64ef3ae55ae654bfd6d2594"
 metafile = true
 
 [[files]]
+file = "mods/mahou-tsukai.pw.toml"
+hash = "5941e2c19b91a30259faface31ac46f7c3e1851728633d69080707d8af38f3f1"
+metafile = true
+
+[[files]]
 file = "mods/malum.pw.toml"
 hash = "ce71c31bae3eabed36e3fcec1c7db6b7cb9b3882cdd05ac5b2b518b32109092d"
 metafile = true
