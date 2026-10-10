@@ -3704,6 +3704,10 @@ hash = "f5cf3f7e5f908a48e431ad59d709dfbbc92738c58924747c16ac276dd29ddcf6"
 metafile = true
 
 [[files]]
+file = "mods/ds_dragonborn_cave_forest_sea-1.1.0.jar"
+hash = "a4bfd94f7ddbeb70061b62b20845e6295c66ca9c5cea79057abe3b3f885732bf"
+
+[[files]]
 file = "mods/elite-tensura-mod.pw.toml"
 hash = "7e6ae6bada9695e59518984d05685b691f2d21576f09e81331e3a9bd33a69811"
 metafile = true
@@ -3743,9 +3747,8 @@ hash = "fec42f4ea33169c1ea9c14f6b179325f974367eb7c7082dfffe9c483789a19f1"
 metafile = true
 
 [[files]]
-file = "mods/infinite-dimensions.pw.toml"
-hash = "e6e1fd0ed1143737180e171d99946467ec932dccae368bdc0645675c2a22a233"
-metafile = true
+file = "mods/infinity-2.7.3+1.21.1-neoforge.jar"
+hash = "6499abd9a943ade10bf521ad2038c5147b1b355f8a92e362cffdedfb2bd40780"
 
 [[files]]
 file = "mods/inline.pw.toml"
@@ -3760,6 +3763,11 @@ metafile = true
 [[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "763ed0c115b2b9a1e37e38cb153748c9c3f3c31869fd3d56acfaad54c63e78af"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "712a69b3569a8055979de6eea262068535fe182dffb3833e53e5833e9cbf9766"
 metafile = true
 
 [[files]]
