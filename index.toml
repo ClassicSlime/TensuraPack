@@ -3767,11 +3767,6 @@ file = "mods/hexcasting-neoforge-1.21.1-0.12.0-devel-pre-52.jar"
 hash = "7e1bec4a227701105b64c73173126502bfc812ac72ddf5df1869d91dfb31a1dc"
 
 [[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "fec42f4ea33169c1ea9c14f6b179325f974367eb7c7082dfffe9c483789a19f1"
-metafile = true
-
-[[files]]
 file = "mods/infinity-2.7.3+1.21.1-neoforge.jar"
 hash = "6499abd9a943ade10bf521ad2038c5147b1b355f8a92e362cffdedfb2bd40780"
 
