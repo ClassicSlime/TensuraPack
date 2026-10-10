@@ -1,13 +1,13 @@
-name = "Dap ur Homies"
-filename = "DAP ur Homie (bully ur homie).jar"
+name = "DAP ur Homies!"
+filename = "Dap ur Homie-1.21.1-3.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b7defafb25dfb49092081aebc22ac7a39f98cb98"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/V3QHTHDA/versions/vgW4ls0k/Dap%20ur%20Homie-1.21.1-3.0.0.jar"
+hash-format = "sha512"
+hash = "5f44be3b94f16ea40aa8a494dfb53e51af80bfb6bbf409b7cc7129dfecf8053c58d9f8838cb1d33b2315a8a31185defdc062dbacaac2f915bd3588ba8acee5f5"
 
 [update]
-[update.curseforge]
-file-id = 8062696
-project-id = 1423094
+[update.modrinth]
+mod-id = "V3QHTHDA"
+version = "vgW4ls0k"
