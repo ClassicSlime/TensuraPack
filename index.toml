@@ -3781,11 +3781,6 @@ hash = "998a683cb3c418947cbc05d251b4113dbf336ef271a8b3d8ea7d6672cc9eef64"
 metafile = true
 
 [[files]]
-file = "mods/irisshaders.pw.toml"
-hash = "763ed0c115b2b9a1e37e38cb153748c9c3f3c31869fd3d56acfaad54c63e78af"
-metafile = true
-
-[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "712a69b3569a8055979de6eea262068535fe182dffb3833e53e5833e9cbf9766"
 metafile = true
